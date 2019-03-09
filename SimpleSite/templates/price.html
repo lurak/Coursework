@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1, width=device-width"/>
+        <title>Tickets</title>
+    </head>
+    <body>
+        <h1>Your price in dollars: {{new_price}}</h1>
+            {% include "map.html" %}
+            {% for inf in info %}
+                {% for el in inf[:-2]%}
+                <p>{{el}}</p>
+                {% endfor %}
+                <a href={{inf[-1]}}>{{inf[-2][inf[-2].index(':')+2:]}} - {{inf[-3][inf[-3].index(':')+2:]}}</a>
+                <p>----------------------------------------------------------------------</p>
+
+
+            {% endfor %}
+    </body>
+</html>

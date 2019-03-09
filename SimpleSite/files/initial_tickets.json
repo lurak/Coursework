@@ -1,0 +1,4773 @@
+{
+    "Interested in our search results?": "There's an API just for you. Please email b2b@goeuro.com for more information.",
+    "serviceVersion": "v1.0.0",
+    "outbounds": {
+        "8013701886409925437-3176-bus-0--780562884": {
+            "companyId": "3176",
+            "ticketsSellingCompanies": [
+                "3176"
+            ],
+            "mode": "bus",
+            "duration": "1290",
+            "outboundId": "8013701886409925437",
+            "journeyId": "-780562884",
+            "departureTime": "2019-03-15T15:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:20:00.000+01:00",
+            "stops": "0",
+            "price": 4564,
+            "originalPrice": 4564,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                -1646869832
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5150258078023972669-3010-bus-0--1473254703": {
+            "companyId": "3010",
+            "ticketsSellingCompanies": [
+                "3010"
+            ],
+            "mode": "bus",
+            "duration": "780",
+            "outboundId": "5150258078023972669",
+            "journeyId": "-1473254703",
+            "departureTime": "2019-03-15T16:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T04:30:00.000+01:00",
+            "stops": "0",
+            "price": 5248,
+            "originalPrice": 5248,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                797974422
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4706034519863280957-2943-bus-0-61680929": {
+            "companyId": "2943",
+            "ticketsSellingCompanies": [
+                "2943"
+            ],
+            "mode": "bus",
+            "duration": "920",
+            "outboundId": "4706034519863280957",
+            "journeyId": "61680929",
+            "departureTime": "2019-03-15T16:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:45:00.000+01:00",
+            "stops": "0",
+            "price": 4518,
+            "originalPrice": 4518,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                -1647236693
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4778152372731540285-3176-bus-0--732753926": {
+            "companyId": "3176",
+            "ticketsSellingCompanies": [
+                "3176"
+            ],
+            "mode": "bus",
+            "duration": "1105",
+            "outboundId": "4778152372731540285",
+            "journeyId": "-732753926",
+            "departureTime": "2019-03-15T20:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T14:15:00.000+01:00",
+            "stops": "0",
+            "price": 4108,
+            "originalPrice": 4108,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                1206874170
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7588407383646622013-3143-bus-0--1762970304": {
+            "companyId": "3143",
+            "ticketsSellingCompanies": [
+                "3143"
+            ],
+            "mode": "bus",
+            "duration": "995",
+            "outboundId": "7588407383646622013",
+            "journeyId": "-1762970304",
+            "departureTime": "2019-03-15T17:15:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:50:00.000+01:00",
+            "stops": "0",
+            "price": 4564,
+            "originalPrice": 4564,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                -2069678386
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7729673861214325053-2985-bus-0-1943110197": {
+            "companyId": "2985",
+            "ticketsSellingCompanies": [
+                "2985"
+            ],
+            "mode": "bus",
+            "duration": "960",
+            "outboundId": "7729673861214325053",
+            "journeyId": "1943110197",
+            "departureTime": "2019-03-15T18:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T09:00:00.000+01:00",
+            "stops": "0",
+            "price": 4564,
+            "originalPrice": 4564,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                389448079
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5726423001806688573-3439-bus-0--2094158647": {
+            "companyId": "3439",
+            "ticketsSellingCompanies": [
+                "3439"
+            ],
+            "mode": "bus",
+            "duration": "895",
+            "outboundId": "5726423001806688573",
+            "journeyId": "-2094158647",
+            "departureTime": "2019-03-15T03:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+01:00",
+            "stops": "0",
+            "price": 5248,
+            "originalPrice": 5248,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                -39792697
+            ],
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "6155122374367129661-3179-bus-0--2029607222": {
+            "companyId": "3179",
+            "ticketsSellingCompanies": [
+                "3179"
+            ],
+            "mode": "bus",
+            "duration": "1020",
+            "outboundId": "6155122374367129661",
+            "journeyId": "-2029607222",
+            "departureTime": "2019-03-15T16:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "stops": "0",
+            "price": 4564,
+            "originalPrice": 4564,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                102329998
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7796967305928456253-2988-bus-0-926141349": {
+            "companyId": "2988",
+            "ticketsSellingCompanies": [
+                "2988"
+            ],
+            "mode": "bus",
+            "duration": "940",
+            "outboundId": "7796967305928456253",
+            "journeyId": "926141349",
+            "departureTime": "2019-03-15T20:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:40:00.000+01:00",
+            "stops": "0",
+            "price": 5431,
+            "originalPrice": 5431,
+            "markup": 0,
+            "updatedAt": "17",
+            "segments": [
+                -535408453
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "177"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4852182542050476349-1051-bus-0-1934820878": {
+            "companyId": "1051",
+            "ticketsSellingCompanies": [
+                "1051"
+            ],
+            "mode": "bus",
+            "duration": "1050",
+            "outboundId": "4852182542050476349",
+            "journeyId": "1934820878",
+            "departureTime": "2019-03-15T15:20:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:50:00.000+01:00",
+            "stops": "0",
+            "price": 4497,
+            "originalPrice": 4497,
+            "markup": 0,
+            "updatedAt": "21",
+            "segments": [
+                64826276
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "40"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7509284323628378941-2864-bus-1--969418151": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "1076",
+            "outboundId": "7509284323628378941",
+            "journeyId": "-969418151",
+            "departureTime": "2019-03-15T20:20:00.000+02:00",
+            "arrivalTime": "2019-03-16T13:16:00.000+01:00",
+            "stops": "1",
+            "price": 4729,
+            "originalPrice": 4729,
+            "markup": 196,
+            "updatedAt": "23",
+            "segments": [
+                -855473097,
+                1274588440
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3698394664495890749-2864-bus-1--309534901": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "871",
+            "outboundId": "3698394664495890749",
+            "journeyId": "-309534901",
+            "departureTime": "2019-03-15T05:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T19:16:00.000+01:00",
+            "stops": "1",
+            "price": 4273,
+            "originalPrice": 4273,
+            "markup": 178,
+            "updatedAt": "23",
+            "segments": [
+                1699746908,
+                -1354885874
+            ],
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7292303498195201853-2864-bus-1--475154666": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "878",
+            "outboundId": "7292303498195201853",
+            "journeyId": "-475154666",
+            "departureTime": "2019-03-15T05:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T19:23:00.000+01:00",
+            "stops": "1",
+            "price": 4319,
+            "originalPrice": 4319,
+            "markup": 180,
+            "updatedAt": "23",
+            "segments": [
+                1699746908,
+                1049694742
+            ],
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8385505106572112701-2864-bus-1-1475540483": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "1031",
+            "outboundId": "8385505106572112701",
+            "journeyId": "1475540483",
+            "departureTime": "2019-03-15T21:05:00.000+02:00",
+            "arrivalTime": "2019-03-16T13:16:00.000+01:00",
+            "stops": "1",
+            "price": 4729,
+            "originalPrice": 4729,
+            "markup": 196,
+            "updatedAt": "23",
+            "segments": [
+                -523954247,
+                1274588440
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "6428384249167165501-2864-bus-1--1555462337": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "836",
+            "outboundId": "6428384249167165501",
+            "journeyId": "-1555462337",
+            "departureTime": "2019-03-15T06:20:00.000+02:00",
+            "arrivalTime": "2019-03-15T19:16:00.000+01:00",
+            "stops": "1",
+            "price": 4273,
+            "originalPrice": 4273,
+            "markup": 178,
+            "updatedAt": "23",
+            "segments": [
+                1337826188,
+                -1354885874
+            ],
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7955164892503561533-2864-bus-1--1135037916": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "1083",
+            "outboundId": "7955164892503561533",
+            "journeyId": "-1135037916",
+            "departureTime": "2019-03-15T20:20:00.000+02:00",
+            "arrivalTime": "2019-03-16T13:23:00.000+01:00",
+            "stops": "1",
+            "price": 4774,
+            "originalPrice": 4774,
+            "markup": 199,
+            "updatedAt": "23",
+            "segments": [
+                -855473097,
+                -615798240
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5218095617220440893-2864-bus-1--1721082102": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "843",
+            "outboundId": "5218095617220440893",
+            "journeyId": "-1721082102",
+            "departureTime": "2019-03-15T06:20:00.000+02:00",
+            "arrivalTime": "2019-03-15T19:23:00.000+01:00",
+            "stops": "1",
+            "price": 4319,
+            "originalPrice": 4319,
+            "markup": 180,
+            "updatedAt": "23",
+            "segments": [
+                1337826188,
+                1049694742
+            ],
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4130213549730640957-2864-bus-1-1309920718": {
+            "companyId": "2864",
+            "ticketsSellingCompanies": [
+                "2864"
+            ],
+            "mode": "bus",
+            "duration": "1038",
+            "outboundId": "4130213549730640957",
+            "journeyId": "1309920718",
+            "departureTime": "2019-03-15T21:05:00.000+02:00",
+            "arrivalTime": "2019-03-16T13:23:00.000+01:00",
+            "stops": "1",
+            "price": 4774,
+            "originalPrice": 4774,
+            "markup": 199,
+            "updatedAt": "23",
+            "segments": [
+                -523954247,
+                -615798240
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "153"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": true,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "6227168961213593405-2586-bus-0-794796155": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "725",
+            "outboundId": "6227168961213593405",
+            "journeyId": "794796155",
+            "departureTime": "2019-03-15T18:15:00.000+01:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "stops": "0",
+            "price": 5141,
+            "originalPrice": 5141,
+            "markup": 206,
+            "updatedAt": "27",
+            "segments": [
+                419588611
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3629706898509156669-2586-bus-0--1480321497": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "880",
+            "outboundId": "3629706898509156669",
+            "journeyId": "-1480321497",
+            "departureTime": "2019-03-15T21:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+01:00",
+            "stops": "0",
+            "price": 3985,
+            "originalPrice": 3985,
+            "markup": 159,
+            "updatedAt": "27",
+            "segments": [
+                -616418241
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8662747977646174013-2586-bus-0-1268340876": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "750",
+            "outboundId": "8662747977646174013",
+            "journeyId": "1268340876",
+            "departureTime": "2019-03-15T16:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:00:00.000+02:00",
+            "stops": "0",
+            "price": 5258,
+            "originalPrice": 5258,
+            "markup": 210,
+            "updatedAt": "27",
+            "segments": [
+                734451327
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5859805865490657341-2586-bus-0-1438571560": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "1035",
+            "outboundId": "5859805865490657341",
+            "journeyId": "1438571560",
+            "departureTime": "2019-03-15T20:50:00.000+01:00",
+            "arrivalTime": "2019-03-16T14:05:00.000+01:00",
+            "stops": "0",
+            "price": 3587,
+            "originalPrice": 3587,
+            "markup": 144,
+            "updatedAt": "27",
+            "segments": [
+                154412175
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4843142499197530173-2586-bus-0--833607767": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "890",
+            "outboundId": "4843142499197530173",
+            "journeyId": "-833607767",
+            "departureTime": "2019-03-15T22:10:00.000+01:00",
+            "arrivalTime": "2019-03-16T13:00:00.000+01:00",
+            "stops": "0",
+            "price": 4981,
+            "originalPrice": 4981,
+            "markup": 200,
+            "updatedAt": "27",
+            "segments": [
+                -245450013
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3842501014597956413-2586-bus-0--1367830600": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "880",
+            "outboundId": "3842501014597956413",
+            "journeyId": "-1367830600",
+            "departureTime": "2019-03-15T20:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T10:40:00.000+01:00",
+            "stops": "0",
+            "price": 5538,
+            "originalPrice": 5538,
+            "markup": 222,
+            "updatedAt": "27",
+            "segments": [
+                -1441916324
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4059796500744860477-2586-bus-0-876693596": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "700",
+            "outboundId": "4059796500744860477",
+            "journeyId": "876693596",
+            "departureTime": "2019-03-15T18:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "stops": "0",
+            "price": 5141,
+            "originalPrice": 5141,
+            "markup": 206,
+            "updatedAt": "27",
+            "segments": [
+                895218234
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "6071207909953401661-2586-bus-0-144710533": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "765",
+            "outboundId": "6071207909953401661",
+            "journeyId": "144710533",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:15:00.000+02:00",
+            "stops": "0",
+            "price": 5379,
+            "originalPrice": 5379,
+            "markup": 215,
+            "updatedAt": "27",
+            "segments": [
+                620180505
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7815525837990867005-2586-bus-0-512838912": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "860",
+            "outboundId": "7815525837990867005",
+            "journeyId": "512838912",
+            "departureTime": "2019-03-15T16:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:45:00.000+02:00",
+            "stops": "0",
+            "price": 4782,
+            "originalPrice": 4782,
+            "markup": 192,
+            "updatedAt": "27",
+            "segments": [
+                994605447
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "6139362121666814781-2586-bus-0--1864467946": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "850",
+            "outboundId": "6139362121666814781",
+            "journeyId": "-1864467946",
+            "departureTime": "2019-03-15T17:50:00.000+01:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "stops": "0",
+            "price": 4981,
+            "originalPrice": 4981,
+            "markup": 200,
+            "updatedAt": "27",
+            "segments": [
+                1172016696
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7958543803958387517-2586-bus-0--1491587814": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "960",
+            "outboundId": "7958543803958387517",
+            "journeyId": "-1491587814",
+            "departureTime": "2019-03-15T16:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+02:00",
+            "stops": "0",
+            "price": 3048,
+            "originalPrice": 3048,
+            "markup": 122,
+            "updatedAt": "27",
+            "segments": [
+                1426798072
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7221920447866488125-2586-bus-0--55130995": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "1035",
+            "outboundId": "7221920447866488125",
+            "journeyId": "-55130995",
+            "departureTime": "2019-03-15T17:45:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:00:00.000+01:00",
+            "stops": "0",
+            "price": 4782,
+            "originalPrice": 4782,
+            "markup": 192,
+            "updatedAt": "27",
+            "segments": [
+                2057889629
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7663276380633583933-2586-bus-0--1933511025": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "890",
+            "outboundId": "7663276380633583933",
+            "journeyId": "-1933511025",
+            "departureTime": "2019-03-15T21:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T12:30:00.000+01:00",
+            "stops": "0",
+            "price": 3786,
+            "originalPrice": 3786,
+            "markup": 152,
+            "updatedAt": "27",
+            "segments": [
+                1915225296
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8317380453326873405-2586-bus-0--2090064068": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "915",
+            "outboundId": "8317380453326873405",
+            "journeyId": "-2090064068",
+            "departureTime": "2019-03-15T20:25:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+01:00",
+            "stops": "0",
+            "price": 3985,
+            "originalPrice": 3985,
+            "markup": 159,
+            "updatedAt": "27",
+            "segments": [
+                -1092282998
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8097828690886686525-2586-bus-0-1385427362": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "985",
+            "outboundId": "8097828690886686525",
+            "journeyId": "1385427362",
+            "departureTime": "2019-03-15T15:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:25:00.000+02:00",
+            "stops": "0",
+            "price": 3985,
+            "originalPrice": 3985,
+            "markup": 159,
+            "updatedAt": "27",
+            "segments": [
+                1106604563
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8825427238304567613-2586-bus-0-1758826312": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "890",
+            "outboundId": "8825427238304567613",
+            "journeyId": "1758826312",
+            "departureTime": "2019-03-15T14:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:20:00.000+02:00",
+            "stops": "0",
+            "price": 3786,
+            "originalPrice": 3786,
+            "markup": 152,
+            "updatedAt": "27",
+            "segments": [
+                863174208
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4987559889227311933-2586-bus-0--851267055": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "1015",
+            "outboundId": "4987559889227311933",
+            "journeyId": "-851267055",
+            "departureTime": "2019-03-15T14:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:25:00.000+02:00",
+            "stops": "0",
+            "price": 3985,
+            "originalPrice": 3985,
+            "markup": 159,
+            "updatedAt": "27",
+            "segments": [
+                -1861284608
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5426373794795706685-2586-bus-0--362108289": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "920",
+            "outboundId": "5426373794795706685",
+            "journeyId": "-362108289",
+            "departureTime": "2019-03-15T14:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:20:00.000+02:00",
+            "stops": "0",
+            "price": 3786,
+            "originalPrice": 3786,
+            "markup": 152,
+            "updatedAt": "27",
+            "segments": [
+                -962751883
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5348114096385503293-2586-bus-0--413452344": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "740",
+            "outboundId": "5348114096385503293",
+            "journeyId": "-413452344",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:50:00.000+02:00",
+            "stops": "0",
+            "price": 5379,
+            "originalPrice": 5379,
+            "markup": 215,
+            "updatedAt": "27",
+            "segments": [
+                -1217733542
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8527905880688190269-2586-bus-0--1353534872": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "835",
+            "outboundId": "8527905880688190269",
+            "journeyId": "-1353534872",
+            "departureTime": "2019-03-15T03:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+02:00",
+            "stops": "0",
+            "price": 5978,
+            "originalPrice": 5978,
+            "markup": 240,
+            "updatedAt": "27",
+            "segments": [
+                -854825812
+            ],
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8596611351450761277-2586-bus-0--1672665193": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "1070",
+            "outboundId": "8596611351450761277",
+            "journeyId": "-1672665193",
+            "departureTime": "2019-03-15T21:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "stops": "0",
+            "price": 3985,
+            "originalPrice": 3985,
+            "markup": 159,
+            "updatedAt": "27",
+            "segments": [
+                156034650
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3979057240556126525-2586-bus-0--857759257": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "1230",
+            "outboundId": "3979057240556126525",
+            "journeyId": "-857759257",
+            "departureTime": "2019-03-15T15:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:20:00.000+02:00",
+            "stops": "0",
+            "price": 4089,
+            "originalPrice": 4089,
+            "markup": 164,
+            "updatedAt": "27",
+            "segments": [
+                -212343249
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7089001647484191037-2586-bus-0--2045953052": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "950",
+            "outboundId": "7089001647484191037",
+            "journeyId": "-2045953052",
+            "departureTime": "2019-03-15T17:10:00.000+02:00",
+            "arrivalTime": "2019-03-16T09:00:00.000+02:00",
+            "stops": "0",
+            "price": 3265,
+            "originalPrice": 3265,
+            "markup": 131,
+            "updatedAt": "27",
+            "segments": [
+                -687788740
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8239739422188652861-2586-bus-0--2125129780": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "1075",
+            "outboundId": "8239739422188652861",
+            "journeyId": "-2125129780",
+            "departureTime": "2019-03-15T18:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:55:00.000+01:00",
+            "stops": "0",
+            "price": 5579,
+            "originalPrice": 5579,
+            "markup": 223,
+            "updatedAt": "27",
+            "segments": [
+                -146624078
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3922205892014001469-2586-bus-0-193091801": {
+            "companyId": "2586",
+            "ticketsSellingCompanies": [
+                "2586"
+            ],
+            "mode": "bus",
+            "duration": "950",
+            "outboundId": "3922205892014001469",
+            "journeyId": "193091801",
+            "departureTime": "2019-03-15T17:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:50:00.000+02:00",
+            "stops": "0",
+            "price": 3985,
+            "originalPrice": 3985,
+            "markup": 159,
+            "updatedAt": "27",
+            "segments": [
+                1607586119
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "137"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5004173522839950653-3084-bus-0--1828628184": {
+            "companyId": "3084",
+            "ticketsSellingCompanies": [
+                "3084"
+            ],
+            "mode": "bus",
+            "duration": "1035",
+            "outboundId": "5004173522839950653",
+            "journeyId": "-1828628184",
+            "departureTime": "2019-03-15T20:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T14:05:00.000+02:00",
+            "stops": "0",
+            "price": 3395,
+            "originalPrice": 3395,
+            "markup": 0,
+            "updatedAt": "29",
+            "segments": [
+                -1806102370
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "160"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3634252261256803389-2876-bus-0--1364330857": {
+            "companyId": "2876",
+            "ticketsSellingCompanies": [
+                "2876"
+            ],
+            "mode": "bus",
+            "duration": "1070",
+            "outboundId": "3634252261256803389",
+            "journeyId": "-1364330857",
+            "departureTime": "2019-03-15T21:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "stops": "0",
+            "price": 4345,
+            "originalPrice": 4345,
+            "markup": 0,
+            "updatedAt": "29",
+            "segments": [
+                640601327
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "160"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5137027611573171261-3084-bus-0-1334830013": {
+            "companyId": "3084",
+            "ticketsSellingCompanies": [
+                "3084"
+            ],
+            "mode": "bus",
+            "duration": "900",
+            "outboundId": "5137027611573171261",
+            "journeyId": "1334830013",
+            "departureTime": "2019-03-15T17:45:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:45:00.000+02:00",
+            "stops": "0",
+            "price": 5377,
+            "originalPrice": 5377,
+            "markup": 0,
+            "updatedAt": "29",
+            "segments": [
+                -587938469
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "160"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7946129170907546941-3084-bus-0--1308001680": {
+            "companyId": "3084",
+            "ticketsSellingCompanies": [
+                "3084"
+            ],
+            "mode": "bus",
+            "duration": "845",
+            "outboundId": "7946129170907546941",
+            "journeyId": "-1308001680",
+            "departureTime": "2019-03-15T03:35:00.000+01:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+01:00",
+            "stops": "0",
+            "price": 4345,
+            "originalPrice": 4345,
+            "markup": 0,
+            "updatedAt": "29",
+            "segments": [
+                1934347912
+            ],
+            "serviceProviderIds": [
+                "160"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7020365715676017725-3084-bus-0-2141957062": {
+            "companyId": "3084",
+            "ticketsSellingCompanies": [
+                "3084"
+            ],
+            "mode": "bus",
+            "duration": "915",
+            "outboundId": "7020365715676017725",
+            "journeyId": "2141957062",
+            "departureTime": "2019-03-15T20:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+02:00",
+            "stops": "0",
+            "price": 4617,
+            "originalPrice": 4617,
+            "markup": 0,
+            "updatedAt": "29",
+            "segments": [
+                1161573220
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "160"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7941641891285593917-3084-bus-0--448105026": {
+            "companyId": "3084",
+            "ticketsSellingCompanies": [
+                "3084"
+            ],
+            "mode": "bus",
+            "duration": "880",
+            "outboundId": "7941641891285593917",
+            "journeyId": "-448105026",
+            "departureTime": "2019-03-15T21:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+01:00",
+            "stops": "0",
+            "price": 4617,
+            "originalPrice": 4617,
+            "markup": 0,
+            "updatedAt": "29",
+            "segments": [
+                425767532
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "160"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5075915639485909309-3084-bus-0-1544066740": {
+            "companyId": "3084",
+            "ticketsSellingCompanies": [
+                "3084"
+            ],
+            "mode": "bus",
+            "duration": "700",
+            "outboundId": "5075915639485909309",
+            "journeyId": "1544066740",
+            "departureTime": "2019-03-15T18:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "stops": "0",
+            "price": 5024,
+            "originalPrice": 5024,
+            "markup": 0,
+            "updatedAt": "29",
+            "segments": [
+                1387880780
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "160"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "6139101665987688253-3397-bus-0-10017813": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1290",
+            "outboundId": "6139101665987688253",
+            "journeyId": "10017813",
+            "departureTime": "2019-03-15T15:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:20:00.000+01:00",
+            "stops": "0",
+            "price": 3510,
+            "originalPrice": 3510,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                2082103850
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4058927937763496253-3397-bus-0--799261728": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1000",
+            "outboundId": "4058927937763496253",
+            "journeyId": "-799261728",
+            "departureTime": "2019-03-15T17:10:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:50:00.000+01:00",
+            "stops": "0",
+            "price": 3194,
+            "originalPrice": 3194,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -267332770
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3633087058672174397-3397-bus-0--1434336633": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "825",
+            "outboundId": "3633087058672174397",
+            "journeyId": "-1434336633",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:15:00.000+01:00",
+            "stops": "0",
+            "price": 5850,
+            "originalPrice": 5850,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -1186720496
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8026919189475246397-3397-bus-1-58073676": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1050",
+            "outboundId": "8026919189475246397",
+            "journeyId": "58073676",
+            "departureTime": "2019-03-15T15:20:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:50:00.000+01:00",
+            "stops": "1",
+            "price": 5295,
+            "originalPrice": 5295,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -429546593,
+                -929464705
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8305277836547345725-3397-bus-0--1298883129": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1130",
+            "outboundId": "8305277836547345725",
+            "journeyId": "-1298883129",
+            "departureTime": "2019-03-15T21:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "stops": "0",
+            "price": 4334,
+            "originalPrice": 4334,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -469258944
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5077901387433529661-3397-bus-0-1373470476": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "890",
+            "outboundId": "5077901387433529661",
+            "journeyId": "1373470476",
+            "departureTime": "2019-03-15T14:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T04:20:00.000+01:00",
+            "stops": "0",
+            "price": 3376,
+            "originalPrice": 3376,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                395122619
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3850981719366854461-3397-bus-0-1957281298": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1065",
+            "outboundId": "3850981719366854461",
+            "journeyId": "1957281298",
+            "departureTime": "2019-03-15T17:45:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:30:00.000+01:00",
+            "stops": "0",
+            "price": 4792,
+            "originalPrice": 4792,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                1529264252
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5933297090052060989-3397-bus-0--1576718220": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1095",
+            "outboundId": "5933297090052060989",
+            "journeyId": "-1576718220",
+            "departureTime": "2019-03-15T20:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T14:05:00.000+01:00",
+            "stops": "0",
+            "price": 3510,
+            "originalPrice": 3510,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -679677831
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8318824919567319357-3397-bus-0--1341602704": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "930",
+            "outboundId": "8318824919567319357",
+            "journeyId": "-1341602704",
+            "departureTime": "2019-03-15T21:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:30:00.000+01:00",
+            "stops": "0",
+            "price": 4347,
+            "originalPrice": 4347,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                1819204392
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3834654770659092285-3397-bus-0--976838165": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1080",
+            "outboundId": "3834654770659092285",
+            "journeyId": "-976838165",
+            "departureTime": "2019-03-15T14:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:00:00.000+01:00",
+            "stops": "0",
+            "price": 4095,
+            "originalPrice": 4095,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -1305691851
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3922437837091534653-3397-bus-0--1787494357": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "965",
+            "outboundId": "3922437837091534653",
+            "journeyId": "-1787494357",
+            "departureTime": "2019-03-15T20:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:30:00.000+01:00",
+            "stops": "0",
+            "price": 4347,
+            "originalPrice": 4347,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                1789805812
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5078147608594446141-3397-bus-0-18242091": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1130",
+            "outboundId": "5078147608594446141",
+            "journeyId": "18242091",
+            "departureTime": "2019-03-15T21:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "stops": "0",
+            "price": 4490,
+            "originalPrice": 4490,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                252691873
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3775539755240091453-3397-bus-0--196949715": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "960",
+            "outboundId": "3775539755240091453",
+            "journeyId": "-196949715",
+            "departureTime": "2019-03-15T18:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T09:00:00.000+01:00",
+            "stops": "0",
+            "price": 5612,
+            "originalPrice": 5612,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                946658147
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4778448368554235197-3397-bus-0--1734930353": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "760",
+            "outboundId": "4778448368554235197",
+            "journeyId": "-1734930353",
+            "departureTime": "2019-03-15T18:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "stops": "0",
+            "price": 5590,
+            "originalPrice": 5590,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -1985286884
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "6446466821894124605-3397-bus-0-314973616": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "785",
+            "outboundId": "6446466821894124605",
+            "journeyId": "314973616",
+            "departureTime": "2019-03-15T18:15:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "stops": "0",
+            "price": 5590,
+            "originalPrice": 5590,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                62226381
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8173277384895185213-3397-bus-0-2046186935": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1125",
+            "outboundId": "8173277384895185213",
+            "journeyId": "2046186935",
+            "departureTime": "2019-03-15T18:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:45:00.000+01:00",
+            "stops": "0",
+            "price": 5590,
+            "originalPrice": 5590,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -696774777
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5436540141215442749-3397-bus-0-1099499114": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "940",
+            "outboundId": "5436540141215442749",
+            "journeyId": "1099499114",
+            "departureTime": "2019-03-15T20:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:40:00.000+01:00",
+            "stops": "0",
+            "price": 5550,
+            "originalPrice": 5550,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                1109777267
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "5350667029426943037-3397-bus-0-891087119": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "980",
+            "outboundId": "5350667029426943037",
+            "journeyId": "891087119",
+            "departureTime": "2019-03-15T17:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:20:00.000+01:00",
+            "stops": "0",
+            "price": 3993,
+            "originalPrice": 3993,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -1463766910
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "4129045804984653117-3397-bus-0-291535622": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "1020",
+            "outboundId": "4129045804984653117",
+            "journeyId": "291535622",
+            "departureTime": "2019-03-15T16:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "stops": "0",
+            "price": 3315,
+            "originalPrice": 3315,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -1629470321
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "8305820982606121277-3397-bus-0--817909082": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "895",
+            "outboundId": "8305820982606121277",
+            "journeyId": "-817909082",
+            "departureTime": "2019-03-15T03:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+01:00",
+            "stops": "0",
+            "price": 6829,
+            "originalPrice": 6829,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                149904202
+            ],
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7443677521024348989-3397-bus-0--1015072615": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "920",
+            "outboundId": "7443677521024348989",
+            "journeyId": "-1015072615",
+            "departureTime": "2019-03-15T14:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T04:20:00.000+01:00",
+            "stops": "0",
+            "price": 3376,
+            "originalPrice": 3376,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                1525995963
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3925524067007163197-3397-bus-0-1419414889": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "800",
+            "outboundId": "3925524067007163197",
+            "journeyId": "1419414889",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:50:00.000+01:00",
+            "stops": "0",
+            "price": 5850,
+            "originalPrice": 5850,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -216767917
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7372808452130301757-3397-bus-0--785598012": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "950",
+            "outboundId": "7372808452130301757",
+            "journeyId": "-785598012",
+            "departureTime": "2019-03-15T22:10:00.000+02:00",
+            "arrivalTime": "2019-03-16T13:00:00.000+01:00",
+            "stops": "0",
+            "price": 5417,
+            "originalPrice": 5417,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -1843714769
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "3615656522984748861-3397-bus-0--2147183918": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "910",
+            "outboundId": "3615656522984748861",
+            "journeyId": "-2147183918",
+            "departureTime": "2019-03-15T17:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "stops": "0",
+            "price": 4991,
+            "originalPrice": 4991,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                854065260
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        },
+        "7651952571026912317-3397-bus-0--1469477410": {
+            "companyId": "3397",
+            "ticketsSellingCompanies": [
+                "3397"
+            ],
+            "mode": "bus",
+            "duration": "945",
+            "outboundId": "7651952571026912317",
+            "journeyId": "-1469477410",
+            "departureTime": "2019-03-15T21:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:25:00.000+01:00",
+            "stops": "0",
+            "price": 3911,
+            "originalPrice": 3911,
+            "markup": 0,
+            "updatedAt": "32",
+            "segments": [
+                -465890214
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "249"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false
+        }
+    },
+    "itineraries": [
+        {
+            "outboundLegId": "8013701886409925437-3176-bus-0--780562884"
+        },
+        {
+            "outboundLegId": "5150258078023972669-3010-bus-0--1473254703"
+        },
+        {
+            "outboundLegId": "4706034519863280957-2943-bus-0-61680929"
+        },
+        {
+            "outboundLegId": "4778152372731540285-3176-bus-0--732753926"
+        },
+        {
+            "outboundLegId": "7588407383646622013-3143-bus-0--1762970304"
+        },
+        {
+            "outboundLegId": "7729673861214325053-2985-bus-0-1943110197"
+        },
+        {
+            "outboundLegId": "5726423001806688573-3439-bus-0--2094158647"
+        },
+        {
+            "outboundLegId": "6155122374367129661-3179-bus-0--2029607222"
+        },
+        {
+            "outboundLegId": "7796967305928456253-2988-bus-0-926141349"
+        },
+        {
+            "outboundLegId": "4852182542050476349-1051-bus-0-1934820878"
+        },
+        {
+            "outboundLegId": "7509284323628378941-2864-bus-1--969418151"
+        },
+        {
+            "outboundLegId": "3698394664495890749-2864-bus-1--309534901"
+        },
+        {
+            "outboundLegId": "7292303498195201853-2864-bus-1--475154666"
+        },
+        {
+            "outboundLegId": "8385505106572112701-2864-bus-1-1475540483"
+        },
+        {
+            "outboundLegId": "6428384249167165501-2864-bus-1--1555462337"
+        },
+        {
+            "outboundLegId": "7955164892503561533-2864-bus-1--1135037916"
+        },
+        {
+            "outboundLegId": "5218095617220440893-2864-bus-1--1721082102"
+        },
+        {
+            "outboundLegId": "4130213549730640957-2864-bus-1-1309920718"
+        },
+        {
+            "outboundLegId": "6227168961213593405-2586-bus-0-794796155"
+        },
+        {
+            "outboundLegId": "3629706898509156669-2586-bus-0--1480321497"
+        },
+        {
+            "outboundLegId": "8662747977646174013-2586-bus-0-1268340876"
+        },
+        {
+            "outboundLegId": "5859805865490657341-2586-bus-0-1438571560"
+        },
+        {
+            "outboundLegId": "4843142499197530173-2586-bus-0--833607767"
+        },
+        {
+            "outboundLegId": "3842501014597956413-2586-bus-0--1367830600"
+        },
+        {
+            "outboundLegId": "4059796500744860477-2586-bus-0-876693596"
+        },
+        {
+            "outboundLegId": "6071207909953401661-2586-bus-0-144710533"
+        },
+        {
+            "outboundLegId": "7815525837990867005-2586-bus-0-512838912"
+        },
+        {
+            "outboundLegId": "6139362121666814781-2586-bus-0--1864467946"
+        },
+        {
+            "outboundLegId": "7958543803958387517-2586-bus-0--1491587814"
+        },
+        {
+            "outboundLegId": "7221920447866488125-2586-bus-0--55130995"
+        },
+        {
+            "outboundLegId": "7663276380633583933-2586-bus-0--1933511025"
+        },
+        {
+            "outboundLegId": "8317380453326873405-2586-bus-0--2090064068"
+        },
+        {
+            "outboundLegId": "8097828690886686525-2586-bus-0-1385427362"
+        },
+        {
+            "outboundLegId": "8825427238304567613-2586-bus-0-1758826312"
+        },
+        {
+            "outboundLegId": "4987559889227311933-2586-bus-0--851267055"
+        },
+        {
+            "outboundLegId": "5426373794795706685-2586-bus-0--362108289"
+        },
+        {
+            "outboundLegId": "5348114096385503293-2586-bus-0--413452344"
+        },
+        {
+            "outboundLegId": "8527905880688190269-2586-bus-0--1353534872"
+        },
+        {
+            "outboundLegId": "8596611351450761277-2586-bus-0--1672665193"
+        },
+        {
+            "outboundLegId": "3979057240556126525-2586-bus-0--857759257"
+        },
+        {
+            "outboundLegId": "7089001647484191037-2586-bus-0--2045953052"
+        },
+        {
+            "outboundLegId": "8239739422188652861-2586-bus-0--2125129780"
+        },
+        {
+            "outboundLegId": "3922205892014001469-2586-bus-0-193091801"
+        },
+        {
+            "outboundLegId": "5004173522839950653-3084-bus-0--1828628184"
+        },
+        {
+            "outboundLegId": "3634252261256803389-2876-bus-0--1364330857"
+        },
+        {
+            "outboundLegId": "5137027611573171261-3084-bus-0-1334830013"
+        },
+        {
+            "outboundLegId": "7946129170907546941-3084-bus-0--1308001680"
+        },
+        {
+            "outboundLegId": "7020365715676017725-3084-bus-0-2141957062"
+        },
+        {
+            "outboundLegId": "7941641891285593917-3084-bus-0--448105026"
+        },
+        {
+            "outboundLegId": "5075915639485909309-3084-bus-0-1544066740"
+        },
+        {
+            "outboundLegId": "6139101665987688253-3397-bus-0-10017813"
+        },
+        {
+            "outboundLegId": "4058927937763496253-3397-bus-0--799261728"
+        },
+        {
+            "outboundLegId": "3633087058672174397-3397-bus-0--1434336633"
+        },
+        {
+            "outboundLegId": "8026919189475246397-3397-bus-1-58073676"
+        },
+        {
+            "outboundLegId": "8305277836547345725-3397-bus-0--1298883129"
+        },
+        {
+            "outboundLegId": "5077901387433529661-3397-bus-0-1373470476"
+        },
+        {
+            "outboundLegId": "3850981719366854461-3397-bus-0-1957281298"
+        },
+        {
+            "outboundLegId": "5933297090052060989-3397-bus-0--1576718220"
+        },
+        {
+            "outboundLegId": "8318824919567319357-3397-bus-0--1341602704"
+        },
+        {
+            "outboundLegId": "3834654770659092285-3397-bus-0--976838165"
+        },
+        {
+            "outboundLegId": "3922437837091534653-3397-bus-0--1787494357"
+        },
+        {
+            "outboundLegId": "5078147608594446141-3397-bus-0-18242091"
+        },
+        {
+            "outboundLegId": "3775539755240091453-3397-bus-0--196949715"
+        },
+        {
+            "outboundLegId": "4778448368554235197-3397-bus-0--1734930353"
+        },
+        {
+            "outboundLegId": "6446466821894124605-3397-bus-0-314973616"
+        },
+        {
+            "outboundLegId": "8173277384895185213-3397-bus-0-2046186935"
+        },
+        {
+            "outboundLegId": "5436540141215442749-3397-bus-0-1099499114"
+        },
+        {
+            "outboundLegId": "5350667029426943037-3397-bus-0-891087119"
+        },
+        {
+            "outboundLegId": "4129045804984653117-3397-bus-0-291535622"
+        },
+        {
+            "outboundLegId": "8305820982606121277-3397-bus-0--817909082"
+        },
+        {
+            "outboundLegId": "7443677521024348989-3397-bus-0--1015072615"
+        },
+        {
+            "outboundLegId": "3925524067007163197-3397-bus-0-1419414889"
+        },
+        {
+            "outboundLegId": "7372808452130301757-3397-bus-0--785598012"
+        },
+        {
+            "outboundLegId": "3615656522984748861-3397-bus-0--2147183918"
+        },
+        {
+            "outboundLegId": "7651952571026912317-3397-bus-0--1469477410"
+        }
+    ],
+    "companies": {
+        "0": {
+            "id": "0",
+            "name": "",
+            "logoUrl": ""
+        },
+        "1051": {
+            "id": "1051",
+            "name": "Ecolines",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ecolines.png"
+        },
+        "2586": {
+            "id": "2586",
+            "name": "Infobus",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_infobus.png"
+        },
+        "2864": {
+            "id": "2864",
+            "name": "Leo Express",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/leoexpress.png"
+        },
+        "2876": {
+            "id": "2876",
+            "name": "Agat",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/agat.png"
+        },
+        "2943": {
+            "id": "2943",
+            "name": "Musil Tour",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_musil.png"
+        },
+        "2985": {
+            "id": "2985",
+            "name": "Ttbus",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_transtempo.png"
+        },
+        "2988": {
+            "id": "2988",
+            "name": "Lino\u017e",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_linoz_arman.png"
+        },
+        "3010": {
+            "id": "3010",
+            "name": "SVD Trans",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_svdtrans.png"
+        },
+        "3084": {
+            "id": "3084",
+            "name": "Eurobus",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/eurobus_eurolines_polska.png"
+        },
+        "3143": {
+            "id": "3143",
+            "name": "DMD Group",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_dmd_group.png"
+        },
+        "3176": {
+            "id": "3176",
+            "name": "Yatsiv",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_yatsiv.png"
+        },
+        "3179": {
+            "id": "3179",
+            "name": "Pkp Denis",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_pkp_denis.png"
+        },
+        "3397": {
+            "id": "3397",
+            "name": "Busfor",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/busfor.png"
+        },
+        "3439": {
+            "id": "3439",
+            "name": "Vilartrans",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/ams_vilartrans.png"
+        }
+    },
+    "query": {
+        "roundTrip": false,
+        "airportToAirport": false,
+        "locationsOutsideEurope": false,
+        "includeNearbyAirports": false,
+        "nearbyAirportAvailable": false,
+        "searchId": "1345384971",
+        "searchSessionId": "U7F9D71308BD8499D87F300A61CC2635B",
+        "departurePosition": "460570",
+        "arrivalPosition": "375859",
+        "departureDate": "2019-03-15",
+        "passengers": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+        },
+        "userInfo": {
+            "userLocale": "en",
+            "userCurrency": "USD"
+        },
+        "searchModes": {
+            "bus": {
+                "status": "done",
+                "resultsQty": 75,
+                "filteredResultsQty": 75,
+                "returnCodes": [],
+                "disclaimers": [],
+                "defaultSorting": "onsiteDepartureTime",
+                "filteredOffSiteResultsQty": 0,
+                "offerPassengers": [],
+                "fares": []
+            },
+            "flight": {
+                "status": "notavailable",
+                "resultsQty": 0,
+                "filteredResultsQty": 0,
+                "returnCodes": [
+                    131
+                ],
+                "disclaimers": [],
+                "defaultSorting": "smart",
+                "filteredOffSiteResultsQty": 0,
+                "offerPassengers": [],
+                "fares": []
+            },
+            "train": {
+                "status": "done",
+                "resultsQty": 0,
+                "filteredResultsQty": 0,
+                "returnCodes": [
+                    100
+                ],
+                "disclaimers": [],
+                "defaultSorting": "onsiteDepartureTime",
+                "filteredOffSiteResultsQty": 0,
+                "offerPassengers": [],
+                "fares": []
+            }
+        },
+        "cursor": "",
+        "featuresSupported": [],
+        "searchTriggerTime": "2019-03-09T20:01:52.337Z"
+    },
+    "positions": {
+        "-128233442439022": {
+            "positionType": "busstation",
+            "name": "Florenc, pl.9",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-133134676356974": {
+            "positionType": "busstation",
+            "name": "Prague, AB 'Florenc', ul. Krizikova 4",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.089449,
+            "longitude": 14.440792
+        },
+        "-195678358204270": {
+            "positionType": "busstation",
+            "name": "Railway Station, luggage space, pl. Dvortsova, 1",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-198112867348334": {
+            "positionType": "busstation",
+            "name": "Prague, Florenc, Pod Vytopnou, 13/10",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.089449,
+            "longitude": 14.440792
+        },
+        "-223594155634542": {
+            "positionType": "busstation",
+            "name": "Lviv, Dw.PKS, ul. Dworcowa 1",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83877,
+            "longitude": 23.99571
+        },
+        "-243696033689454": {
+            "positionType": "busstation",
+            "name": "225 Bogdana Chmelnyckogo str., AS N2",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-251422431080302": {
+            "positionType": "busstation",
+            "name": "Train station",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-263089198100334": {
+            "positionType": "busstation",
+            "name": "Lviv, Dworzec Autobusowy",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83877,
+            "longitude": 23.99571
+        },
+        "-276648505044846": {
+            "positionType": "busstation",
+            "name": "Roztyly",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-299357048500078": {
+            "positionType": "busstation",
+            "name": "Florenc",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-305532218109806": {
+            "positionType": "busstation",
+            "name": "109 Strijska str., pl.4",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-315745692381038": {
+            "positionType": "busstation",
+            "name": "Prague, DA 'Florenc', ul. Krizikova 6",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.089449,
+            "longitude": 14.440792
+        },
+        "-38684203937646": {
+            "positionType": "busstation",
+            "name": "Cafe Kazka near the bus station, 109 Strijska str.",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-432198187544430": {
+            "positionType": "busstation",
+            "name": "Lviv, Dworzec kolejowy, ul. Dvirtseva 1",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83877,
+            "longitude": 23.99571
+        },
+        "-438991157587822": {
+            "positionType": "busstation",
+            "name": "Lviv, Avtovokzal, vul. Stryjska, 109",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83877,
+            "longitude": 23.99571
+        },
+        "-477557494148974": {
+            "positionType": "busstation",
+            "name": "Lviv, AW, ul. Stryjska 109",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83877,
+            "longitude": 23.99571
+        },
+        "-481331839266670": {
+            "positionType": "busstation",
+            "name": "ul. Krizikova, 6, \u0410\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b Florenc, \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u21167 - 8",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-483250720862062": {
+            "positionType": "busstation",
+            "name": "Prague, D.A. Florenc, ul Kri\u017cikova 4",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.089449,
+            "longitude": 14.440792
+        },
+        "-513604267732846": {
+            "positionType": "busstation",
+            "name": "Florenc, pl.8",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-531559426846574": {
+            "positionType": "busstation",
+            "name": "Prague, Dw. Autobusowy Zelivskeho, stanowisko 2",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.089449,
+            "longitude": 14.440792
+        },
+        "-592276314386286": {
+            "positionType": "busstation",
+            "name": "\u00daAN Florenc , pl.8",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-600030483181422": {
+            "positionType": "busstation",
+            "name": "109 Strijska str.",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-700578944806766": {
+            "positionType": "busstation",
+            "name": "\u0443\u043b. \u0421\u0442\u0440\u044b\u0439\u0441\u044c\u043a\u0430, 109, \u0410\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b \u0421\u0442\u0440\u044b\u0439\u0441\u044c\u043a\u0438\u0439",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-701242965651310": {
+            "positionType": "busstation",
+            "name": "BS , pl.4",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-74514223361902": {
+            "positionType": "busstation",
+            "name": "GasSt. WOG",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-750050513252206": {
+            "positionType": "busstation",
+            "name": "Prague, Dworzec Autobusowy Florenc, st.6",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.089449,
+            "longitude": 14.440792
+        },
+        "-772213072260974": {
+            "positionType": "busstation",
+            "name": "\u041f\u0440\u0430\u0433\u0430 (\u0424\u043b\u043e\u0440\u0435\u043d\u0446), \u041a\u0436\u0456\u0436\u043a\u043e\u0432\u0430, 4",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-786394306965358": {
+            "positionType": "busstation",
+            "name": "Lviv, Dw.PKS, ul. Stryjska 109",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83877,
+            "longitude": 23.99571
+        },
+        "-791632186732398": {
+            "positionType": "busstation",
+            "name": "4 Krzizikova str.",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-809951058227054": {
+            "positionType": "busstation",
+            "name": "BS \u017delivsk\u00e9h\u043e, pl.2",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-869068844986222": {
+            "positionType": "busstation",
+            "name": "\u041b\u044c\u0432\u0456\u0432, \u0432\u0443\u043b. \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430, 109",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "-87151550721902": {
+            "positionType": "busstation",
+            "name": "Lviv, D.A., ul. Stryjska 109",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83877,
+            "longitude": 23.99571
+        },
+        "-920373787225966": {
+            "positionType": "busstation",
+            "name": "Florenc, pl.19",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "-943183061380974": {
+            "positionType": "busstation",
+            "name": "\u21168, 1 Dvortsova sq.",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786877,
+            "longitude": 24.017414
+        },
+        "16811262": {
+            "positionType": "busstation",
+            "name": "Praha, Roztyly",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.03802,
+            "longitude": 14.47632
+        },
+        "16811331": {
+            "positionType": "busstation",
+            "name": "\u041b\u044c\u0432\u0456\u0432, A\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, Avtovoksal)",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.788596,
+            "longitude": 24.013646
+        },
+        "16816363": {
+            "positionType": "station",
+            "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+            "countryCode": "CZ",
+            "cityName": "Bohum\u00edn",
+            "latitude": 49.899283,
+            "longitude": 18.353739
+        },
+        "16837635": {
+            "positionType": "station",
+            "name": "Lviv, bus station Striyskyi",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.78678,
+            "longitude": 24.01648
+        },
+        "16837663": {
+            "positionType": "station",
+            "name": "\u041b\u044c\u0432\u0456\u0432, \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u0430\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, bus main station)",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83876,
+            "longitude": 23.9957
+        },
+        "16842786": {
+            "positionType": "busstation",
+            "name": "Katowice, Dworzec Autobusowy",
+            "countryCode": "PL",
+            "cityName": "Katowice",
+            "latitude": 50.2626266479,
+            "longitude": 19.0172481537
+        },
+        "16874696": {
+            "positionType": "busstation",
+            "name": "L'Viv, \u0410\u0432\u0442\u043e\u0441\u0442\u0430\u043d\u0446\u0456\u044f \u21162",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.864073,
+            "longitude": 24.051631
+        },
+        "16875131": {
+            "positionType": "busstation",
+            "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.8396219509872,
+            "longitude": 23.9950949083103
+        },
+        "16875254": {
+            "positionType": "busstation",
+            "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.8396219509872,
+            "longitude": 23.9950949083103
+        },
+        "16875403": {
+            "positionType": "busstation",
+            "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.8396219509872,
+            "longitude": 23.9950949083103
+        },
+        "16875692": {
+            "positionType": "busstation",
+            "name": "Prague, N\u00e1kladov\u00e9 N\u00e1dra\u017e\u00ed \u017di\u017ekov",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.0848848,
+            "longitude": 14.4703301
+        },
+        "16878172": {
+            "positionType": "busstation",
+            "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08941,
+            "longitude": 14.43961
+        },
+        "16878174": {
+            "positionType": "busstation",
+            "name": "Bus station \"Central\", Stryjskaya street; house 109",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.78694,
+            "longitude": 24.01623
+        },
+        "16878274": {
+            "positionType": "busstation",
+            "name": "Bus stop \"Cafe Kazka\" (opposite to bus station), Stryjskaya street; house 109",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.7882,
+            "longitude": 24.0167
+        },
+        "16879606": {
+            "positionType": "busstation",
+            "name": "Bus stop \"Gas station WOG\", prospect Vyacheslav Chornovil; house 107",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.86784,
+            "longitude": 24.01558
+        },
+        "323374": {
+            "positionType": "station",
+            "name": "Praha hlavn\u00ed n\u00e1dra\u017e\u00ed",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.083058,
+            "longitude": 14.436037
+        },
+        "323390": {
+            "positionType": "station",
+            "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+            "countryCode": "CZ",
+            "cityName": "Bohum\u00edn",
+            "latitude": 49.901557,
+            "longitude": 18.363119
+        },
+        "323469": {
+            "positionType": "station",
+            "name": "Praha-Libe\u0148, n\u00e1dra\u017e\u00ed",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.101261,
+            "longitude": 14.501434
+        },
+        "3346249": {
+            "positionType": "busstation",
+            "name": "Praha, \u00daAN Florenc",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.089449,
+            "longitude": 14.440792
+        },
+        "3347020": {
+            "positionType": "busstation",
+            "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.8396219509872,
+            "longitude": 23.9950949083103
+        },
+        "375859": {
+            "positionType": "location",
+            "name": "Prague",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08804,
+            "longitude": 14.42076
+        },
+        "3861285": {
+            "positionType": "busstation",
+            "name": "Praha, \u00daAN Florenc",
+            "countryCode": "CZ",
+            "cityName": "Prague",
+            "latitude": 50.08944027,
+            "longitude": 14.44114208
+        },
+        "460570": {
+            "positionType": "location",
+            "name": "Lviv",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.83826,
+            "longitude": 24.02324
+        },
+        "477479": {
+            "positionType": "busstation",
+            "name": "\u041b\u044c\u0432\u0456\u0432, \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430 109 (Lviv, Striyskaya 109)",
+            "countryCode": "UA",
+            "cityName": "Lviv",
+            "latitude": 49.786962,
+            "longitude": 24.017288
+        }
+    },
+    "currencies": {
+        "USD": {
+            "name": "US Dollar",
+            "symbol": "$"
+        }
+    },
+    "sortVariants": {
+        "onsiteDepartureTime": [
+            -817909082,
+            -1353534872,
+            -1308001680,
+            -309534901,
+            -475154666,
+            -1555462337,
+            -1721082102,
+            -976838165,
+            -362108289,
+            -1015072615,
+            1373470476,
+            1758826312,
+            -851267055,
+            1385427362,
+            58073676,
+            10017813,
+            -857759257,
+            -1491587814,
+            291535622,
+            512838912,
+            1268340876,
+            891087119,
+            193091801,
+            -799261728,
+            -2045953052,
+            -1434336633,
+            144710533,
+            -413452344,
+            1419414889,
+            1334830013,
+            1957281298,
+            -55130995,
+            -2147183918,
+            -196949715,
+            2046186935,
+            314973616,
+            -1734930353,
+            -1864467946,
+            -2125129780,
+            794796155,
+            876693596,
+            1544066740,
+            1099499114,
+            -969418151,
+            -1135037916,
+            -1787494357,
+            2141957062,
+            -1828628184,
+            -1576718220,
+            -1367830600,
+            -1341602704,
+            1475540483,
+            1309920718,
+            -2090064068,
+            -1298883129,
+            18242091,
+            -1469477410,
+            1438571560,
+            -1480321497,
+            -448105026,
+            -785598012,
+            -1364330857,
+            -1933511025,
+            -1672665193,
+            -833607767,
+            -2094158647,
+            1934820878,
+            -780562884,
+            -2029607222,
+            61680929,
+            -1473254703,
+            -1762970304,
+            1943110197,
+            926141349,
+            -732753926
+        ]
+    },
+    "stats": {
+        "summary": {
+            "bus": {
+                "type": "bus",
+                "totalDuration": "1290",
+                "totalPrice": 4564,
+                "legs": [
+                    {
+                        "type": "bus",
+                        "duration": "1290"
+                    }
+                ]
+            }
+        },
+        "filterRanges": {
+            "bus": {
+                "minPrice": 3048,
+                "maxPrice": 6829,
+                "avgPrice": 4589,
+                "minDurationOutbound": "700",
+                "maxDurationOutbound": "1290",
+                "avgDurationOutbound": "949",
+                "minDepartureOutbound": "2019-03-15T03:45:00.000+02:00",
+                "maxDepartureOutbound": "2019-03-15T22:10:00.000+01:00",
+                "minArrivalOutbound": "2019-03-15T17:40:00.000+02:00",
+                "maxArrivalOutbound": "2019-03-16T15:30:00.000+01:00",
+                "outboundStops": [
+                    0,
+                    1
+                ],
+                "inboundStops": []
+            }
+        },
+        "companies": {
+            "bus": [
+                {
+                    "id": "0",
+                    "name": ""
+                },
+                {
+                    "id": "3179",
+                    "name": "Pkp Denis"
+                },
+                {
+                    "id": "3084",
+                    "name": "Eurobus"
+                },
+                {
+                    "id": "3143",
+                    "name": "DMD Group"
+                },
+                {
+                    "id": "2985",
+                    "name": "Ttbus"
+                },
+                {
+                    "id": "2876",
+                    "name": "Agat"
+                },
+                {
+                    "id": "3176",
+                    "name": "Yatsiv"
+                },
+                {
+                    "id": "3397",
+                    "name": "Busfor"
+                },
+                {
+                    "id": "3010",
+                    "name": "SVD Trans"
+                },
+                {
+                    "id": "2988",
+                    "name": "Lino\u017e"
+                },
+                {
+                    "id": "2864",
+                    "name": "Leo Express"
+                },
+                {
+                    "id": "1051",
+                    "name": "Ecolines"
+                },
+                {
+                    "id": "3439",
+                    "name": "Vilartrans"
+                },
+                {
+                    "id": "2943",
+                    "name": "Musil Tour"
+                },
+                {
+                    "id": "2586",
+                    "name": "Infobus"
+                }
+            ]
+        },
+        "stations": {
+            "bus": {
+                "outboundDepartures": [
+                    16837635,
+                    16811331,
+                    16878274,
+                    -786394306965358,
+                    -432198187544430,
+                    16874696,
+                    16875403,
+                    -243696033689454,
+                    -869068844986222,
+                    -223594155634542,
+                    -87151550721902,
+                    -263089198100334,
+                    -600030483181422,
+                    -195678358204270,
+                    -305532218109806,
+                    16837663,
+                    16878174,
+                    477479,
+                    -700578944806766,
+                    -943183061380974,
+                    -438991157587822,
+                    -477557494148974,
+                    -251422431080302,
+                    -701242965651310,
+                    16879606,
+                    16875254,
+                    -74514223361902,
+                    -38684203937646,
+                    16875131,
+                    3347020
+                ],
+                "outboundArrivals": [
+                    -772213072260974,
+                    -750050513252206,
+                    -483250720862062,
+                    -481331839266670,
+                    -128233442439022,
+                    -299357048500078,
+                    323469,
+                    323374,
+                    16875692,
+                    -133134676356974,
+                    -276648505044846,
+                    -531559426846574,
+                    -592276314386286,
+                    -315745692381038,
+                    -198112867348334,
+                    -809951058227054,
+                    -920373787225966,
+                    3346249,
+                    -791632186732398,
+                    -513604267732846,
+                    16878172,
+                    16811262,
+                    3861285
+                ],
+                "queryDeparturePositionDistances": {
+                    "16837635": 5.750265009199067,
+                    "-128233442439022": 685.4952499061563,
+                    "-786394306965358": 1.9773652723966153,
+                    "-432198187544430": 1.9773652723966153,
+                    "323469": 681.1663689592016,
+                    "16875403": 2.026371557773378,
+                    "-223594155634542": 1.9773652723966153,
+                    "-592276314386286": 685.4952499061563,
+                    "-315745692381038": 685.5201957978411,
+                    "-87151550721902": 1.9773652723966153,
+                    "-263089198100334": 1.9773652723966153,
+                    "-600030483181422": 5.734220631204569,
+                    "-513604267732846": 685.4952499061563,
+                    "-195678358204270": 5.734220631204569,
+                    "16837663": 1.978051517517927,
+                    "3861285": 685.4952499061563,
+                    "477479": 5.725454175629336,
+                    "-750050513252206": 685.5201957978411,
+                    "-299357048500078": 685.4952499061563,
+                    "323374": 685.8763916718424,
+                    "16875692": 683.4253685281029,
+                    "-438991157587822": 1.9773652723966153,
+                    "-276648505044846": 685.4952499061563,
+                    "16811331": 5.570399691286128,
+                    "16878274": 5.591448914403642,
+                    "16874696": 3.522331673189435,
+                    "-243696033689454": 5.734220631204569,
+                    "-869068844986222": 5.734220631204569,
+                    "-531559426846574": 685.5201957978411,
+                    "-198112867348334": 685.5201957978411,
+                    "-809951058227054": 685.4952499061563,
+                    "-920373787225966": 685.4952499061563,
+                    "-791632186732398": 685.4952499061563,
+                    "16878172": 685.6046008607343,
+                    "-305532218109806": 5.734220631204569,
+                    "16878174": 5.7340699540071425,
+                    "-772213072260974": 685.4952499061563,
+                    "-483250720862062": 685.5201957978411,
+                    "-481331839266670": 685.4952499061563,
+                    "-700578944806766": 5.734220631204569,
+                    "-943183061380974": 5.734220631204569,
+                    "-133134676356974": 685.5201957978411,
+                    "-477557494148974": 1.9773652723966153,
+                    "-251422431080302": 5.734220631204569,
+                    "-701242965651310": 5.734220631204569,
+                    "16879606": 3.337845075845422,
+                    "16875254": 2.026371557773378,
+                    "-74514223361902": 5.734220631204569,
+                    "-38684203937646": 5.734220631204569,
+                    "16875131": 2.026371557773378,
+                    "3346249": 685.5201957978411,
+                    "16811262": 683.1418400595161,
+                    "3347020": 2.026371557773378
+                },
+                "queryArrivalPositionDistances": {
+                    "16837635": 687.0909458436369,
+                    "-128233442439022": 1.4640923932941636,
+                    "-786394306965358": 684.9831857669947,
+                    "-432198187544430": 684.9831857669947,
+                    "323469": 5.94631310051958,
+                    "16875403": 684.9294547139223,
+                    "-223594155634542": 684.9831857669947,
+                    "-592276314386286": 1.4640923932941636,
+                    "-315745692381038": 1.4393381493060613,
+                    "-87151550721902": 684.9831857669947,
+                    "-263089198100334": 684.9831857669947,
+                    "-600030483181422": 687.1563602401593,
+                    "-513604267732846": 1.4640923932941636,
+                    "-195678358204270": 687.1563602401593,
+                    "16837663": 684.9825883362033,
+                    "3861285": 1.4640923932941636,
+                    "477479": 687.1463089572419,
+                    "-750050513252206": 1.4393381493060613,
+                    "-299357048500078": 1.4640923932941636,
+                    "323374": 1.224021184189856,
+                    "16875692": 3.5580455379904863,
+                    "-438991157587822": 684.9831857669947,
+                    "-276648505044846": 1.4640923932941636,
+                    "16811331": 686.8660958536419,
+                    "16878274": 687.0888961805352,
+                    "16874696": 688.6839178341983,
+                    "-243696033689454": 687.1563602401593,
+                    "-869068844986222": 687.1563602401593,
+                    "-531559426846574": 1.4393381493060613,
+                    "-198112867348334": 1.4393381493060613,
+                    "-809951058227054": 1.4640923932941636,
+                    "-920373787225966": 1.4640923932941636,
+                    "-791632186732398": 1.4640923932941636,
+                    "16878172": 1.3549537491533064,
+                    "-305532218109806": 687.1563602401593,
+                    "16878174": 687.0711108599336,
+                    "-772213072260974": 1.4640923932941636,
+                    "-483250720862062": 1.4393381493060613,
+                    "-481331839266670": 1.4640923932941636,
+                    "-700578944806766": 687.1563602401593,
+                    "-943183061380974": 687.1563602401593,
+                    "-133134676356974": 1.4393381493060613,
+                    "-477557494148974": 684.9831857669947,
+                    "-251422431080302": 687.1563602401593,
+                    "-701242965651310": 687.1563602401593,
+                    "16879606": 686.0710736233094,
+                    "16875254": 684.9294547139223,
+                    "-74514223361902": 687.1563602401593,
+                    "-38684203937646": 687.1563602401593,
+                    "16875131": 684.9294547139223,
+                    "3346249": 1.4393381493060613,
+                    "16811262": 6.838020594062508,
+                    "3347020": 684.9294547139223
+                }
+            }
+        }
+    },
+    "recommendations": [
+        {
+            "type": "smart",
+            "mode": "bus",
+            "journeyId": "876693596",
+            "outboundDepartureTime": "2019-03-15T18:40:00.000+01:00",
+            "outboundDuration": 700,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": -251422431080302,
+            "outboundArrivalPosition": -809951058227054,
+            "outboundNumberOfStops": 0,
+            "inboundNumberOfStops": 0,
+            "price": 5141,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 1
+        },
+        {
+            "type": "price",
+            "mode": "bus",
+            "journeyId": "-1491587814",
+            "outboundDepartureTime": "2019-03-15T16:00:00.000+02:00",
+            "outboundDuration": 960,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": -600030483181422,
+            "outboundArrivalPosition": -920373787225966,
+            "outboundNumberOfStops": 0,
+            "inboundNumberOfStops": 0,
+            "price": 3048,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 1
+        },
+        {
+            "type": "price",
+            "mode": "bus",
+            "journeyId": "-799261728",
+            "outboundDepartureTime": "2019-03-15T17:10:00.000+02:00",
+            "outboundDuration": 1000,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": 16875131,
+            "outboundArrivalPosition": 3346249,
+            "outboundNumberOfStops": 0,
+            "inboundNumberOfStops": 0,
+            "price": 3194,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 2
+        },
+        {
+            "type": "duration",
+            "mode": "bus",
+            "journeyId": "1544066740",
+            "outboundDepartureTime": "2019-03-15T18:40:00.000+01:00",
+            "outboundDuration": 700,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": -432198187544430,
+            "outboundArrivalPosition": -531559426846574,
+            "outboundNumberOfStops": 0,
+            "inboundNumberOfStops": 0,
+            "price": 5024,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 1
+        },
+        {
+            "type": "duration",
+            "mode": "bus",
+            "journeyId": "794796155",
+            "outboundDepartureTime": "2019-03-15T18:15:00.000+01:00",
+            "outboundDuration": 725,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": -701242965651310,
+            "outboundArrivalPosition": -809951058227054,
+            "outboundNumberOfStops": 0,
+            "inboundNumberOfStops": 0,
+            "price": 5141,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 2
+        }
+    ],
+    "segmentDetails": {
+        "-1092282998": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:25:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+01:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-299357048500078",
+            "duration": "915",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1186720496": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:15:00.000+01:00",
+            "departurePosition": "16879606",
+            "arrivalPosition": "16875692",
+            "duration": "825",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "REGABUS, 000473",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1217733542": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:50:00.000+02:00",
+            "departurePosition": "-74514223361902",
+            "arrivalPosition": "-592276314386286",
+            "duration": "740",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1305691851": {
+            "type": "bus",
+            "departureTime": "2019-03-15T14:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:00:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "1080",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "EAST WEST EUROLINES/\u0422\u0437\u041e\u0412 \"\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0435 \u0410\u0422\u041f-14631, 7029 \u041a\u0430\u043c'\u044f\u043d\u0435\u0446\u044c-\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439-\u041f\u0440\u0430\u0433\u0430 14:00",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1354885874": {
+            "type": "train",
+            "departureTime": "2019-03-15T15:56:00.000+01:00",
+            "arrivalTime": "2019-03-15T19:16:00.000+01:00",
+            "departurePosition": "323390",
+            "arrivalPosition": "323469",
+            "duration": "200",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LE1366",
+            "direction": "OUTBOUND"
+        },
+        "-1441916324": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T10:40:00.000+01:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-299357048500078",
+            "duration": "880",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1463766910": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:20:00.000+01:00",
+            "departurePosition": "16874696",
+            "arrivalPosition": "16811262",
+            "duration": "980",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "NIKOLO-Ukraina , NUA001 Kolomyia, Ivano-Frankivsk - Pilsen",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-146624078": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:55:00.000+01:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-299357048500078",
+            "duration": "1075",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1629470321": {
+            "type": "bus",
+            "departureTime": "2019-03-15T16:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "16878172",
+            "duration": "1020",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Denysivka-plus, \u0414\u0415\u041f \u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b-\u041a\u0440\u0430\u043a\u043e\u0432-\u041f\u0440\u0430\u0433\u0430 Chernivtsi - Prague",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1646869832": {
+            "type": "bus",
+            "departureTime": "2019-03-15T15:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:20:00.000+01:00",
+            "departurePosition": "477479",
+            "arrivalPosition": "3346249",
+            "duration": "1290",
+            "company": "3176",
+            "marketingCompany": "3176",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1647236693": {
+            "type": "bus",
+            "departureTime": "2019-03-15T16:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:45:00.000+01:00",
+            "departurePosition": "477479",
+            "arrivalPosition": "3346249",
+            "duration": "920",
+            "company": "2943",
+            "marketingCompany": "2943",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1806102370": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T14:05:00.000+02:00",
+            "departurePosition": "-477557494148974",
+            "arrivalPosition": "-133134676356974",
+            "duration": "1035",
+            "company": "3084",
+            "marketingCompany": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1843714769": {
+            "type": "bus",
+            "departureTime": "2019-03-15T22:10:00.000+02:00",
+            "arrivalTime": "2019-03-16T13:00:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "16878172",
+            "duration": "950",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Gunsel TOV, 3, Lviv-Praga",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1861284608": {
+            "type": "bus",
+            "departureTime": "2019-03-15T14:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:25:00.000+02:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-299357048500078",
+            "duration": "1015",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1914271",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-1985286884": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "departurePosition": "16875254",
+            "arrivalPosition": "16875692",
+            "duration": "760",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "REGABUS, 000145",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-2069678386": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:15:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:50:00.000+01:00",
+            "departurePosition": "16811331",
+            "arrivalPosition": "3346249",
+            "duration": "995",
+            "company": "3143",
+            "marketingCompany": "3143",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-212343249": {
+            "type": "bus",
+            "departureTime": "2019-03-15T15:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:20:00.000+02:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-513604267732846",
+            "duration": "1230",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-216767917": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:50:00.000+01:00",
+            "departurePosition": "16879606",
+            "arrivalPosition": "3346249",
+            "duration": "800",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "REGABUS, 000473",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-245450013": {
+            "type": "bus",
+            "departureTime": "2019-03-15T22:10:00.000+01:00",
+            "arrivalTime": "2019-03-16T13:00:00.000+01:00",
+            "departurePosition": "-869068844986222",
+            "arrivalPosition": "-772213072260974",
+            "duration": "890",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-267332770": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:10:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:50:00.000+01:00",
+            "departurePosition": "16875131",
+            "arrivalPosition": "3346249",
+            "duration": "1000",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Balnickiy V.S, BVS001 Zhovti Vody, Ternopil, Zalishchytskyi - Prague",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-39792697": {
+            "type": "bus",
+            "departureTime": "2019-03-15T03:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+01:00",
+            "departurePosition": "16811331",
+            "arrivalPosition": "3346249",
+            "duration": "895",
+            "company": "3439",
+            "marketingCompany": "3439",
+            "direction": "OUTBOUND"
+        },
+        "-429546593": {
+            "type": "bus",
+            "departureTime": "2019-03-15T15:20:00.000+02:00",
+            "arrivalTime": "2019-03-16T00:15:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "16842786",
+            "duration": "595",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "ECOLINES, 188101",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-465890214": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:25:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "16878172",
+            "duration": "945",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Nikolo , NIK009 Chernivtsi - Pilsen",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-469258944": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "16878172",
+            "duration": "1130",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "VASILKOVTRANSAVTO , CRN001 Kiev - Prague",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-523954247": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:05:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:25:00.000+01:00",
+            "departurePosition": "16837635",
+            "arrivalPosition": "16816363",
+            "duration": "740",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LEB9103",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-535408453": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:40:00.000+01:00",
+            "departurePosition": "16811331",
+            "arrivalPosition": "3346249",
+            "duration": "940",
+            "company": "2988",
+            "marketingCompany": "2988",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-587938469": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:45:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:45:00.000+02:00",
+            "departurePosition": "-263089198100334",
+            "arrivalPosition": "-315745692381038",
+            "duration": "900",
+            "company": "3084",
+            "marketingCompany": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-615798240": {
+            "type": "train",
+            "departureTime": "2019-03-16T09:56:00.000+01:00",
+            "arrivalTime": "2019-03-16T13:23:00.000+01:00",
+            "departurePosition": "323390",
+            "arrivalPosition": "323374",
+            "duration": "207",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LE1358",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1
+        },
+        "-616418241": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+01:00",
+            "departurePosition": "-943183061380974",
+            "arrivalPosition": "-299357048500078",
+            "duration": "880",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-679677831": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T14:05:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "1095",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Yatsiv V.V. , YVV001 Ivano-Frankivsk - Prague",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-687788740": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:10:00.000+02:00",
+            "arrivalTime": "2019-03-16T09:00:00.000+02:00",
+            "departurePosition": "-943183061380974",
+            "arrivalPosition": "-299357048500078",
+            "duration": "950",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1890176",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-696774777": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:45:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "1125",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Vilartrans , VIL002 Cherkasy, Cherkasy - Pilsen",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-854825812": {
+            "type": "bus",
+            "departureTime": "2019-03-15T03:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+02:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-791632186732398",
+            "duration": "835",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND"
+        },
+        "-855473097": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:20:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:25:00.000+01:00",
+            "departurePosition": "16837663",
+            "arrivalPosition": "16816363",
+            "duration": "785",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LEB9103",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "-929464705": {
+            "type": "bus",
+            "departureTime": "2019-03-16T00:35:00.000+01:00",
+            "arrivalTime": "2019-03-16T07:50:00.000+01:00",
+            "departurePosition": "16842786",
+            "arrivalPosition": "3346249",
+            "duration": "435",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "ECOLINES, 188101",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1
+        },
+        "-962751883": {
+            "type": "bus",
+            "departureTime": "2019-03-15T14:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:20:00.000+02:00",
+            "departurePosition": "-38684203937646",
+            "arrivalPosition": "-299357048500078",
+            "duration": "920",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "102329998": {
+            "type": "bus",
+            "departureTime": "2019-03-15T16:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "departurePosition": "16811331",
+            "arrivalPosition": "3346249",
+            "duration": "1020",
+            "company": "3179",
+            "marketingCompany": "3179",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1049694742": {
+            "type": "train",
+            "departureTime": "2019-03-15T15:56:00.000+01:00",
+            "arrivalTime": "2019-03-15T19:23:00.000+01:00",
+            "departurePosition": "323390",
+            "arrivalPosition": "323374",
+            "duration": "207",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LE1366",
+            "direction": "OUTBOUND"
+        },
+        "1106604563": {
+            "type": "bus",
+            "departureTime": "2019-03-15T15:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:25:00.000+02:00",
+            "departurePosition": "-943183061380974",
+            "arrivalPosition": "-299357048500078",
+            "duration": "985",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1914271",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1109777267": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:40:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "940",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "ARMAN, CZ28",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1161573220": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+02:00",
+            "departurePosition": "-786394306965358",
+            "arrivalPosition": "-198112867348334",
+            "duration": "915",
+            "company": "3084",
+            "marketingCompany": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1172016696": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:50:00.000+01:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "departurePosition": "-700578944806766",
+            "arrivalPosition": "-481331839266670",
+            "duration": "850",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1206874170": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T14:15:00.000+01:00",
+            "departurePosition": "477479",
+            "arrivalPosition": "3346249",
+            "duration": "1105",
+            "company": "3176",
+            "marketingCompany": "3176",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1274588440": {
+            "type": "train",
+            "departureTime": "2019-03-16T09:56:00.000+01:00",
+            "arrivalTime": "2019-03-16T13:16:00.000+01:00",
+            "departurePosition": "323390",
+            "arrivalPosition": "323469",
+            "duration": "200",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LE1358",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1
+        },
+        "1337826188": {
+            "type": "bus",
+            "departureTime": "2019-03-15T06:20:00.000+02:00",
+            "arrivalTime": "2019-03-15T15:25:00.000+01:00",
+            "departurePosition": "16837635",
+            "arrivalPosition": "16816363",
+            "duration": "605",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LEB9101",
+            "direction": "OUTBOUND"
+        },
+        "1387880780": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "departurePosition": "-432198187544430",
+            "arrivalPosition": "-531559426846574",
+            "duration": "700",
+            "company": "3084",
+            "marketingCompany": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1426798072": {
+            "type": "bus",
+            "departureTime": "2019-03-15T16:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+02:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-920373787225966",
+            "duration": "960",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "149904202": {
+            "type": "bus",
+            "departureTime": "2019-03-15T03:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "895",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "TVAD , \u0422\u0412\u0414035 Kiev - Prague",
+            "direction": "OUTBOUND"
+        },
+        "1525995963": {
+            "type": "bus",
+            "departureTime": "2019-03-15T14:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T04:20:00.000+01:00",
+            "departurePosition": "16878274",
+            "arrivalPosition": "16878172",
+            "duration": "920",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Nikolo , NIK343 Horodenka, Ivano-Frankivsk, Horodenkivskyi - Kralupy nad Vltavou",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1529264252": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:45:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:30:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "1065",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "AP \u21165 KP Kyivpastrans , \u0410\u041f5003 Kiev - Prague",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "154412175": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:50:00.000+01:00",
+            "arrivalTime": "2019-03-16T14:05:00.000+01:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-513604267732846",
+            "duration": "1035",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1910855",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "156034650": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-299357048500078",
+            "duration": "1070",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1915366",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1607586119": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:50:00.000+02:00",
+            "departurePosition": "-243696033689454",
+            "arrivalPosition": "-276648505044846",
+            "duration": "950",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1699746908": {
+            "type": "bus",
+            "departureTime": "2019-03-15T05:45:00.000+02:00",
+            "arrivalTime": "2019-03-15T15:25:00.000+01:00",
+            "departurePosition": "16837663",
+            "arrivalPosition": "16816363",
+            "duration": "640",
+            "company": "2864",
+            "marketingCompany": "0",
+            "transportId": "LEB9101",
+            "direction": "OUTBOUND"
+        },
+        "1789805812": {
+            "type": "bus",
+            "departureTime": "2019-03-15T20:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:30:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "16878172",
+            "duration": "965",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Lux - reisen, KLR027 Kosiv, Ivano-Frankivsk, Kosivskyi - Pilsen",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1819204392": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T11:30:00.000+01:00",
+            "departurePosition": "16875131",
+            "arrivalPosition": "16878172",
+            "duration": "930",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Lux - reisen, KLR027 Kosiv, Ivano-Frankivsk, Kosivskyi - Pilsen",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1915225296": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T12:30:00.000+01:00",
+            "departurePosition": "-600030483181422",
+            "arrivalPosition": "-128233442439022",
+            "duration": "890",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1914989",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1934347912": {
+            "type": "bus",
+            "departureTime": "2019-03-15T03:35:00.000+01:00",
+            "arrivalTime": "2019-03-15T17:40:00.000+01:00",
+            "departurePosition": "-87151550721902",
+            "arrivalPosition": "-483250720862062",
+            "duration": "845",
+            "company": "3084",
+            "marketingCompany": "0",
+            "direction": "OUTBOUND"
+        },
+        "2057889629": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:45:00.000+02:00",
+            "arrivalTime": "2019-03-16T10:00:00.000+01:00",
+            "departurePosition": "-305532218109806",
+            "arrivalPosition": "-299357048500078",
+            "duration": "1035",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1907551",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "2082103850": {
+            "type": "bus",
+            "departureTime": "2019-03-15T15:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T12:20:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "1290",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Yatsiv V.V. , YVV003/1 \u0414\u041e\u041f Kalush, Ivano-Frankivsk, Kaluskyi - Prague",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "252691873": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:40:00.000+02:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "1130",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "PP VASILKIVTRANSAVTO, E-60",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "389448079": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T09:00:00.000+01:00",
+            "departurePosition": "477479",
+            "arrivalPosition": "3346249",
+            "duration": "960",
+            "company": "2985",
+            "marketingCompany": "2985",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "395122619": {
+            "type": "bus",
+            "departureTime": "2019-03-15T14:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T04:20:00.000+01:00",
+            "departurePosition": "16875403",
+            "arrivalPosition": "16878172",
+            "duration": "890",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Nikolo , NIK343 Horodenka, Ivano-Frankivsk, Horodenkivskyi - Kralupy nad Vltavou",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "419588611": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:15:00.000+01:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "departurePosition": "-701242965651310",
+            "arrivalPosition": "-809951058227054",
+            "duration": "725",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "425767532": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:00:00.000+01:00",
+            "arrivalTime": "2019-03-16T11:40:00.000+01:00",
+            "departurePosition": "-223594155634542",
+            "arrivalPosition": "-198112867348334",
+            "duration": "880",
+            "company": "3084",
+            "marketingCompany": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "620180505": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:15:00.000+02:00",
+            "departurePosition": "-74514223361902",
+            "arrivalPosition": "-809951058227054",
+            "duration": "765",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "62226381": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:15:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "16875692",
+            "duration": "785",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "REGABUS, 000145",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "640601327": {
+            "type": "bus",
+            "departureTime": "2019-03-15T21:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T15:30:00.000+01:00",
+            "departurePosition": "-438991157587822",
+            "arrivalPosition": "-750050513252206",
+            "duration": "1070",
+            "company": "2876",
+            "marketingCompany": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "64826276": {
+            "type": "bus",
+            "departureTime": "2019-03-15T15:20:00.000+02:00",
+            "arrivalTime": "2019-03-16T07:50:00.000+01:00",
+            "departurePosition": "477479",
+            "arrivalPosition": "3861285",
+            "duration": "1050",
+            "company": "1051",
+            "marketingCompany": "1051",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "734451327": {
+            "type": "bus",
+            "departureTime": "2019-03-15T16:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:00:00.000+02:00",
+            "departurePosition": "-195678358204270",
+            "arrivalPosition": "-299357048500078",
+            "duration": "750",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1885623",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "797974422": {
+            "type": "bus",
+            "departureTime": "2019-03-15T16:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T04:30:00.000+01:00",
+            "departurePosition": "3347020",
+            "arrivalPosition": "3346249",
+            "duration": "780",
+            "company": "3010",
+            "marketingCompany": "3010",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "854065260": {
+            "type": "bus",
+            "departureTime": "2019-03-15T17:50:00.000+02:00",
+            "arrivalTime": "2019-03-16T08:00:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "910",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "TRANSTEMPO/\u0422\u0440\u0430\u043d\u0441\u0422\u0435\u043c\u043f\u043e, 414",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "863174208": {
+            "type": "bus",
+            "departureTime": "2019-03-15T14:30:00.000+02:00",
+            "arrivalTime": "2019-03-16T05:20:00.000+02:00",
+            "departurePosition": "-195678358204270",
+            "arrivalPosition": "-299357048500078",
+            "duration": "890",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "895218234": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:40:00.000+01:00",
+            "arrivalTime": "2019-03-16T06:20:00.000+01:00",
+            "departurePosition": "-251422431080302",
+            "arrivalPosition": "-809951058227054",
+            "duration": "700",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "0",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "946658147": {
+            "type": "bus",
+            "departureTime": "2019-03-15T18:00:00.000+02:00",
+            "arrivalTime": "2019-03-16T09:00:00.000+01:00",
+            "departurePosition": "16878174",
+            "arrivalPosition": "3346249",
+            "duration": "960",
+            "company": "3397",
+            "marketingCompany": "3397",
+            "transportId": "Transtempo, E-414A",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "994605447": {
+            "type": "bus",
+            "departureTime": "2019-03-15T16:25:00.000+02:00",
+            "arrivalTime": "2019-03-16T06:45:00.000+02:00",
+            "departurePosition": "-38684203937646",
+            "arrivalPosition": "-299357048500078",
+            "duration": "860",
+            "company": "2586",
+            "marketingCompany": "0",
+            "transportId": "1880974",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        }
+    }
+}

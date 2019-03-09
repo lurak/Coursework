@@ -1,0 +1,1257 @@
+1.398223, Gdańsk, Poland, PL, 18.64637, 54.35205
+2.444608, Sgonico, Italy, IT, 13.74861, 45.73639
+3.460570, Lviv, Ukraine, UA, 24.02324, 49.83826
+4.376217, Berlin, Germany, DE, 13.41053, 52.52437
+5.380553, London, United Kingdom, GB, -0.12574, 51.50853
+6.369233, Brussels, Belgium, BE, 4.34878, 50.85045
+7.373297, Zurich, Switzerland, CH, 8.55, 47.36667
+8.376946, Munich, Germany, DE, 11.57549, 48.13743
+9.379345, Colmar, France, FR, 7.36667, 48.08333
+10.373033, Berne, Switzerland, CH, 7.44744, 46.94809
+11.379620, Marsella, Francia, FR, 5.38107, 43.29695
+12.379604, Lyon, Francia, FR, 4.84671, 45.74846
+13.314522, Aeroporto di Milano Malpensa, Italia, IT, 8.722839, 45.63136
+14.315466, Aeroporto di Catania Fontanarossa, Italia, IT, 15.06617, 37.46742
+15.377001, Nuremberg, Németország, DE, 11.06833, 49.44778
+16.383168, Budapest, Magyarország, HU, 19.03991, 47.49801
+17.375859, Прага, Чехия, CZ, 14.42076, 50.08804
+18.368571, Вена, Австрия, AT, 16.37208, 48.20849
+19.388252, Milan, Italy, IT, 9.18951, 45.46427
+20.373139, Lausanne, Switzerland, CH, 6.63282, 46.516
+21.379727, Paris, France, FR, 2.3488, 48.85341
+22.362017, Lyon Part Dieu, France, FR, 4.859991, 45.760568
+23.369317, Ghent, Belgium, BE, 3.71667, 51.05
+24.369241, Charleroi, Belgium, BE, 4.44448, 50.41136
+25.388486, Rimini, Italia, IT, 12.58083, 44.06333
+26.388402, Pescara, Italia, IT, 14.21021, 42.46024
+27.388058, Firenze, Italia, IT, 11.25, 43.76667
+28.388317, Napoli, Italia, IT, 14.25, 40.83333
+29.379727, París, Francia, FR, 2.3488, 48.85341
+30.379668, Montpellier, Francia, FR, 3.87723, 43.61092
+31.379901, Strasbourg, France, FR, 7.74296, 48.58342
+32.375859, Prague, Czechia, CZ, 14.42076, 50.08804
+33.379766, Rambouillet, France, FR, 1.83333, 48.65
+34.16808353, Mont Saint-Michel, France, FR, -1.511071, 48.635345
+35.406057, Stockholm, Sverige, SE, 18.0649, 59.33258
+36.378704, Navalmoral de la Mata, España, ES, -5.54064, 39.89158
+37.378495, Cádiz, España, ES, -6.29944, 36.53361
+38.388628, Sienne, Italie, IT, 11.33283, 43.32004
+39.388117, Grosseto, Italie, IT, 11.10794, 42.77142
+40.388498, Rome, Italy, IT, 12.4839, 41.89474
+41.376583, Hamburg, Germany, DE, 10.01534, 53.57532
+42.387787, Bologna, Italia, IT, 11.33875, 44.49381
+43.446460, Livigno, Italy, IT, 10.13375, 46.53471
+44.313885, Aeroporto Marco Polo di Venezia, Italia, IT, 12.34327, 45.505
+45.338410, Venezia Mestre, Italia, IT, 12.2319, 45.481902
+46.393153, Amsterdam, Netherlands, NL, 4.88969, 52.37403
+47.314671, Seoul, South Korea, KR, 126.4503, 37.46856
+48.376460, 프랑크푸르트, Germany, DE, 8.68417, 50.11552
+49.388498, Roma, Italia, IT, 12.4839, 41.89474
+50.338411, Venezia Santa Lucia, Italia, IT, 12.320462, 45.441397
+51.376488, 퓌센, Germany, DE, 10.70171, 47.57143
+52.329498, Dortmund Hbf, Germany, DE, 7.459293, 51.517898
+53.388718, Turin, Italy, IT, 7.68682, 45.07049
+54.388387, Parma, Italy, IT, 10.32898, 44.80266
+55.388252, Milán, Italia, IT, 9.18951, 45.46427
+56.388718, Turín, Italia, IT, 7.68682, 45.07049
+57.390586, Casablanca, Reino de Marruecos, MA, -7.61138, 33.58831
+58.378655, Madrid, España, ES, -3.70256, 40.4165
+59.413570, Мейсен, Германия, DE, 13.4737, 51.16158
+60.376367, Дрезден, Германия, DE, 13.73832, 51.05089
+61.379637, Metz, France, FR, 6.17269, 49.11911
+62.379681, Nancy, France, FR, 6.2, 48.68333
+63.377541, Copenhagen, Denmark, DK, 12.56553, 55.67594
+64.338467, Florence Santa Maria Novella, Italy, IT, 11.247806, 43.77681
+65.369863, Sofia, Bulgaria, BG, 23.32415, 42.69751
+66.379691, Nice, France, FR, 7.26608, 43.70313
+67.379166, Angers, France, FR, -0.55, 47.46667
+68.8442489, Sallanches - Combloux - Megève, France, FR, 6.63624, 45.9358
+69.379620, Marseille, France, FR, 5.38107, 43.29695
+70.381320, 雅典, 希腊, GR, 23.71622, 37.97945
+71.388743, 威尼斯, 意大利, IT, 12.32667, 45.43861
+72.387761, Bari, Italia, IT, 16.85118, 41.11773
+73.398773, Lisbonne, Portugal, PT, -9.13333, 38.71667
+74.379727, Paříž, Francie, FR, 2.3488, 48.85341
+75.375859, Praha, Česko, CZ, 14.42076, 50.08804
+76.383168, Будапешт, Венгрия, HU, 19.03991, 47.49801
+77.398812, Monte Gordo, Portugal, PT, -7.45225, 37.18192
+78.378797, Seville, Spain, ES, -5.97613, 37.38241
+79.369231, Bruges, Belgium, BE, 3.22424, 51.20892
+80.456154, 北京, 中国, CN, 116.39723, 39.9075
+81.376367, 德累斯顿, 德国, DE, 13.73832, 51.05089
+82.377282, Stendal, Deutschland, DE, 11.85867, 52.6069
+83.376268, Brandenburg an der Havel, Deutschland, DE, 12.55, 52.41667
+84.376367, Dresden, Duitsland, DE, 13.73832, 51.05089
+85.376127, Bad Bentheim, Duitsland, DE, 7.16343, 52.31814
+86.315002, Addis Ababa, Ethiopia, ET, 38.79092, 8.986915
+87.315042, Paris Charles de Gaulle Airport, France, FR, 2.577134, 49.0029701
+88.373120, Interlaken, Switzerland, CH, 7.86638, 46.68387
+89.373096, Genève, Suisse, CH, 6.14569, 46.20222
+90.380575, Manchester, United Kingdom, GB, -2.23743, 53.48095
+91.393496, Bergen, Norway, NO, 5.324578762054443, 60.39292907714844
+92.380947, Tbilisi, Georgia, GE, 44.83368, 41.69411
+93.406199, Bratislava, Slovaquie, SK, 17.10674, 48.14816
+94.378468, Barcelona, Spain, ES, 2.15899, 41.38879
+95.338437, Верона Porta Nuova, Италия, IT, 10.982741, 45.428659
+96.388743, Венеция, Италия, IT, 12.32667, 45.43861
+97.375859, 프라하, Czechia, CZ, 14.42076, 50.08804
+98.373297, 취리히, Switzerland, CH, 8.55, 47.36667
+99.388252, 米兰, 意大利, IT, 9.18951, 45.46427
+100.373139, 洛桑, 瑞士, CH, 6.63282, 46.516
+101.376217, Berlijn, Duitsland, DE, 13.41053, 52.52437
+102.393261, Heerenveen, Nederland, NL, 5.91854, 52.95929
+103.376809, Leipzig, Germany, DE, 12.37129, 51.33962
+104.376590, Hanover, Germany, DE, 9.73322, 52.37052
+105.440468, Les Deux Alpes, France, FR, 6.12548, 45.0116
+106.379749, Poitiers, France, FR, 0.33333, 46.58333
+107.314891, Oran, Algérie, DZ, -0.6258944, 35.61938
+108.315050, Aéroport Marseille Provence, France, FR, 5.220867, 43.44105
+109.388743, Venecia, Italia, IT, 12.32667, 45.43861
+110.376217, Berlín, Alemania, DE, 13.41053, 52.52437
+111.388377, Palermo, Italy, IT, 13.35976, 38.11582
+112.378585, Granada, Spain, ES, -3.60667, 37.18817
+113.381320, Athens, Greece, GR, 23.71622, 37.97945
+114.382080, Thessaloniki, Greece, GR, 22.94389, 40.64028
+115.369233, Bruxelas, Bélgica, BE, 4.34878, 50.85045
+116.376460, Frankfurt am Main, Alemanha, DE, 8.68417, 50.11552
+117.379319, Chateauneuf-les-Martigues, France, FR, 5.16667, 43.38333
+118.314973, Lanzarote Airport, Spain, ES, -13.60627, 28.95126
+119.393361, Rotterdam, Netherlands, NL, 4.47917, 51.9225
+120.376362, Dortmund, Germany, DE, 7.466, 51.51494
+121.368467, Kitzbühel, Austria, AT, 12.39215, 47.44637
+122.368534, Salzburg, Austria, AT, 13.04399, 47.79941
+123.373297, Zürich, Schweiz, CH, 8.55, 47.36667
+124.376946, München, Deutschland, DE, 11.57549, 48.13743
+125.410951, New York, Verenigde Staten, US, -74.00597, 40.71427
+126.368571, Viena, Áustria, AT, 16.37208, 48.20849
+127.379531, La Rochelle, França, FR, -1.15, 46.16667
+128.379962, Vichy, France, FR, 3.41667, 46.11667
+129.379690, Nevers, France, FR, 3.159, 46.98956
+130.448362, Amalfi, Italy, IT, 14.60238, 40.6349
+131.446214, Minori, Italy, IT, 14.62684, 40.6503
+132.377245, Siegen, Germany, DE, 8.02431, 50.87482
+133.406023, Linköping, Sverige, SE, 15.62157, 58.41086
+134.16806397, Paris Cdg Airport, France, FR, 2.54827, 49.009535
+135.8442476, Angers Saint-Laud, France, FR, -0.563234, 47.462906
+136.445424, Ponza, Italy, IT, 12.958975, 40.895573
+137.449582, Casamicciola Terme, Italy, IT, 13.910216, 40.745735
+138.16863158, Neuhausen Am Rheinfall, Switzerland, CH, 8.6126098, 47.6837423
+139.388317, Naples, Italy, IT, 14.25, 40.83333
+140.388457, Procida, Italy, IT, 14.01443862915039, 40.75651168823242
+141.406807, Pattaya, Thailand, TH, 100.88333, 12.93333
+142.406676, Bangkok, Thailand, TH, 100.50144, 13.75398
+143.376460, 法兰克福, 德国, DE, 8.68417, 50.11552
+144.380553, 伦敦, 英国, GB, -0.12574, 51.50853
+145.376319, Colônia, Alemanha, DE, 6.95, 50.93333
+146.393400, Utrecht, Holanda, NL, 5.12222, 52.09083
+147.471505, Emmerthal, Niedersachsen, Deutschland, DE, 9.38564999999994, 52.04615
+148.464113, Eisenach, Thüringen, Deutschland, DE, 10.31522, 50.9807
+149.376319, Köln, Deutschland, DE, 6.95, 50.93333
+150.376569, Gütersloh, Deutschland, DE, 8.37854, 51.90693
+151.373011, Aigle, Switzerland, CH, 6.96457, 46.3181
+152.373096, Geneva, Switzerland, CH, 6.14569, 46.20222
+153.8440683, Romorantin-Lanthenay, France, FR, 1.73951, 47.3552
+154.376138, Baden-Baden, Alemania, DE, 8.23975, 48.7606
+155.384349, Dublin, Ireland, IE, -6.24889, 53.33306
+156.398532, Warsaw, Poland, PL, 21.01178, 52.22977
+157.393153, Ámsterdam, Holanda, NL, 4.88969, 52.37403
+158.379683, Nantes, France, FR, -1.55336, 47.21725
+159.464137, Salamanca, España, ES, -5.65, 40.96667
+160.388718, Torino, Italia, IT, 7.68682, 45.07049
+161.425960, Abstatt, Germany, DE, 9.2907, 49.0682
+162.388096, Genova, Italia, IT, 8.93386, 44.40632
+163.315056, Aeroporto di Nizza Costa Azzurra, Francia, FR, 7.212856, 43.66379
+164.406379, Серравалле, Сан-Марино, SM, 12.48167, 43.96897
+165.388252, Милан, Италия, IT, 9.18951, 45.46427
+166.379252, Burdeos, Francia, FR, -0.5805, 44.84044
+167.388743, Venice, Italy, IT, 12.32667, 45.43861
+168.378660, Málaga, Spain, ES, -4.420328617095947, 36.72001266479492
+169.438330, Entzheim, France, FR, 7.63329, 48.53224
+170.367976, Tirana, Albanien, AL, 19.81889, 41.3275
+171.393361, Роттердам, Нидерланды, NL, 4.47917, 51.9225
+172.393153, Амстердам, Нидерланды, NL, 4.88969, 52.37403
+173.388252, Milano, Italia, IT, 9.18951, 45.46427
+174.377293, Stoccarda, Germania, DE, 9.17702, 48.78232
+175.378475, Benicarló, España, ES, 0.42709, 40.4165
+176.393153, Amesterdão, Holanda, NL, 4.88969, 52.37403
+177.398868, Porto, Portugal, PT, -8.61099, 41.14961
+178.388058, Florence, Italy, IT, 11.25, 43.76667
+179.378797, Sevilla, España, ES, -5.97613, 37.38241
+180.373152, Lucerne, Switzerland, CH, 8.306272506713867, 47.0504150390625
+181.368571, Vienna, Austria, AT, 16.37208, 48.20849
+182.377149, Rosenheim, Deutschland, DE, 12.12247, 47.85637
+183.368399, Bischofshofen, Österreich, AT, 13.21667, 47.41667
+184.388748, Verona, Italia, IT, 10.99779, 45.43419
+185.388706, Trento, Italia, IT, 11.12108, 46.06787
+186.368593, Zell am See, Austria, AT, 12.79444, 47.32556
+187.464076, Мюнстер, Німеччина, DE, 7.62571, 51.96236
+188.376460, Франкфурт, Німеччина, DE, 8.68417, 50.11552
+189.380553, Londres, Royaume-Uni, GB, -0.12574, 51.50853
+190.439188, Chalais, France, FR, 0.0388, 45.27338
+191.379252, Bordeaux, France, FR, -0.5805, 44.84044
+192.383168, Budapeste, Hungria, HU, 19.03991, 47.49801
+193.406223, Košice, Slovensko, SK, 21.25808, 48.71395
+194.398388, Oppeln, Polen, PL, 17.95, 50.66667
+195.376712, Karlsruhe, Deutschland, DE, 8.38583, 49.00472
+196.368401, Braunau, Österreich, AT, 13.0333333, 48.2666667
+197.368461, Jenbach, Österreich, AT, 11.77245, 47.39173
+198.398202, Kraków, Poland, PL, 19.91667, 50.08333
+199.378824, Tolosa, Espanha, ES, -2.07801, 43.13484
+200.429002, São Sebastião, Espanha, ES, -1.97499, 43.31283
+201.451264, Пшемысль, Польша, PL, 22.76728, 49.78498
+202.398504, Щецин, Польша, PL, 14.55302, 53.42894
+203.389709, Séoul, Corée du Sud, KR, 126.97783, 37.56826
+204.378431, Santiago de Compostela, España, ES, -8.54569, 42.88052
+205.407252, Rize, Türkiye, TR, 40.52194, 41.02083
+206.407184, İzmir, Türkiye, TR, 27.13838, 38.41273
+207.378875, Zaragoza, España, ES, -0.87734, 41.65606
+208.329460, Bochum Hbf, Deutschland, DE, 7.224109, 51.478651
+209.377293, Stuttgart, Germany, DE, 9.17702, 48.78232
+210.393814, Oslo, Norway, NO, 10.74609, 59.91273
+211.313885, Venice Marco Polo Airport, Italy, IT, 12.34327, 45.505
+212.387788, Bolzano, Italy, IT, 11.33358, 46.49272
+213.378482, Бильбао, Испания, ES, -2.92528, 43.26271
+214.379964, Vierzon, France, FR, 2.08333, 47.21667
+215.436802, Les Sables-d'Olonne, France, FR, -1.78333, 46.5
+216.361901, Lille Flandres, France, FR, 3.081583, 50.644704
+217.388743, Veneza, Itália, IT, 12.32667, 45.43861
+218.388252, Milão, Itália, IT, 9.18951, 45.46427
+219.361896, Rennes, France, FR, -1.675535, 48.101359
+220.364036, Auxerre-St-Gervais, France, FR, 3.586749, 47.796085
+221.378571, Fuengirola, España, ES, -4.62473, 36.53998
+222.406213, Handlova, Slovakia, SK, 18.76012, 48.7276
+223.390305, Luxembourg, Luxembourg, LU, 6.13, 49.61167
+224.378468, Barcelone, Espagne, ES, 2.15899, 41.38879
+225.378439, Aranjuez, España, ES, -3.60246, 40.03108
+226.16885124, Hagen, Deutschland, DE, 7.977953, 52.196336
+227.373033, Bern, Schweiz, CH, 7.44744, 46.94809
+228.376319, Cologne, Germany, DE, 6.95, 50.93333
+229.379684, Narbonne, France, FR, 3.0, 43.18333
+230.398728, Faro, Portugal, PT, -7.93223, 37.01937
+231.393147, Alkmaar, Niederlande, NL, 4.74861, 52.63167
+232.388189, Lucca, Italy, IT, 10.50585, 43.84357
+233.379839, St-Malo, Francja, FR, -2.01667, 48.65
+234.367843, Andorra la Vella, Andorra, AD, 1.5207105875015259, 42.5076904296875
+235.379928, Tours, France, FR, 0.68333, 47.38333
+236.389867, Vaduz, Liechtenstein, LI, 9.52154, 47.14151
+237.377011, Oberstdorf, Germany, DE, 10.27939, 47.40724
+238.393225, Eindhoven, Netherlands, NL, 5.47778, 51.44083
+239.380324, Edinburgh, United Kingdom, GB, -3.19648, 55.95206
+240.380282, Dewsbury, United Kingdom, GB, -1.62907, 53.69076
+241.315090, London Gatwick Airport, United Kingdom, GB, -0.17620690166950226, 51.160465240478516
+242.398773, Lisboa, Portugal, PT, -9.13333, 38.71667
+243.379202, Avignon, France, FR, 4.808858871459961, 43.94834899902344
+244.314931, Cairo, Égypte, EG, 31.41389, 30.11139
+245.378564, Estepona, España, ES, -5.14589, 36.42764
+246.376217, Берлин, Германия, DE, 13.41053, 52.52437
+247.388521, Salerno, Italy, IT, 14.76599, 40.67797
+248.445400, Positano, Italy, IT, 14.48427, 40.62829
+249.390525, Riga, Latvia, LV, 24.10589, 56.946
+250.378849, Valencia, Spain, ES, -0.37739, 39.46975
+251.378476, Benidorm, Spain, ES, -0.13098, 38.53816
+252.380378, Glasgow, United Kingdom, GB, -4.25763, 55.86515
+253.380756, Southport, United Kingdom, GB, -3.00648, 53.64779
+254.388405, Piacenza, Italy, IT, 9.69937, 45.04676
+255.376348, Dillingen an der Saar, Niemcy, DE, 6.72781, 49.35557
+256.314844, Dortmund Airport, Niemcy, DE, 7.61341, 51.51531
+257.314522, Milan Malpensa Airport, Italy, IT, 8.722839, 45.63136
+258.380660, Peterborough, United Kingdom, GB, -0.24777, 52.57364
+259.380286, Doncaster, United Kingdom, GB, -1.13691, 53.52327
+260.378482, Bilbao, España, ES, -2.92528, 43.26271
+261.379901, Estrasburgo, Francia, FR, 7.74296, 48.58342
+262.441362, Launceston, United Kingdom, GB, -4.36006, 50.63699
+263.375859, Praga, Chéquia, CZ, 14.42076, 50.08804
+264.378585, Гранада, Испания, ES, -3.60667, 37.18817
+265.378660, Малага, Испания, ES, -4.420328617095947, 36.72001266479492
+266.378537, Coria, España, ES, -6.53772, 39.98788
+267.398773, Lisbon, Portugal, PT, -9.13333, 38.71667
+268.421541, Langeoog, Deutschland, DE, 7.4832329750061035, 53.74998474121094
+269.376248, Bochum, Deutschland, DE, 7.21648, 51.48165
+270.388387, Парма, Италия, IT, 10.32898, 44.80266
+271.384349, Dublín, Irlanda, IE, -6.24889, 53.33306
+272.378700, Murcia, España, ES, -1.13004, 37.98704
+273.377001, Нюрнберг, Германия, DE, 11.06833, 49.44778
+274.375960, Terezín, Chequia, CZ, 14.15055, 50.511
+275.379727, Parigi, Francia, FR, 2.3488, 48.85341
+276.405549, Владикавказ, Россия, RU, 44.66778, 43.03667
+277.403838, Москва, Россия, RU, 37.61556, 55.75222
+278.365781, Valence TGV, France, FR, 4.979057, 44.991253
+279.379577, Lille, France, FR, 3.05858, 50.63297
+280.338578, Roma Tiburtina, Italia, IT, 12.531457, 41.911072
+281.378642, Lérida, España, ES, 0.61667, 41.61667
+282.1003149, Malaga María Zambrano, España, ES, -4.431835, 36.711968
+283.376460, Francfort-sur-le-Main, Allemagne, DE, 8.68417, 50.11552
+284.393393, Тилбург, Нидерланды, NL, 5.0913, 51.55551
+285.376284, Braunschweig, Deutschland, DE, 10.52673, 52.26594
+286.378653, Lugo, España, ES, -7.56667, 43.0
+287.398773, Lissabon, Portugal, PT, -9.13333, 38.71667
+288.340841, Rotterdam Centraal, Nederland, NL, 4.468771, 51.924804
+289.379727, Parijs, Frankrijk, FR, 2.3488, 48.85341
+290.429002, San Sebastián, España, ES, -1.97499, 43.31283
+291.1001081, Figueres - Vilafant, Espagne, ES, 2.943547, 42.264771
+292.379732, Perpignan, France, FR, 2.89541, 42.69764
+293.379768, Reims, France, FR, 4.03333, 49.25
+294.379702, Noyon, France, FR, 3.0, 49.58333
+295.422061, Kempten (Allgäu), Deutschland, DE, 10.31389, 47.72674
+296.377001, Nürnberg, Deutschland, DE, 11.06833, 49.44778
+297.314044, Aeropuerto de Amsterdam Schiphol, Holanda, NL, 4.763385, 52.30907
+298.393245, Groninga, Holanda, NL, 6.56667, 53.21917
+299.376488, Füssen, Germany, DE, 10.70171, 47.57143
+300.415317, Louvain-la-Neuve, Bélgica, BE, 4.61443, 50.66829
+301.388420, Pisa, Italy, IT, 10.39659, 43.71553
+302.314957, Аэропорт Мадрида Барахас, Испания, ES, -3.5695650577545166, 40.468257904052734
+303.376946, Мюнхен, Германия, DE, 11.57549, 48.13743
+304.415624, St. Gallen, Switzerland, CH, 9.37477, 47.42391
+305.313878, Zurich Airport, Switzerland, CH, 8.5613956, 47.4512017
+306.16839358, Étretat, Normandie, France, FR, 0.205552, 49.706939
+307.379417, Flers, France, FR, -0.57466, 48.73722
+308.387984, Como, Italy, IT, 9.08744, 45.80998
+309.328621, Vagnhärad tågstation, Sverige, SE, 17.496822, 58.945683
+310.406054, Södertälje, Sverige, SE, 17.62525, 59.19554
+311.319191, Grimsby Town, United Kingdom, GB, -0.0867997, 53.563586
+312.318971, Ebbsfleet International, United Kingdom, GB, 0.322576557543, 51.4424643182
+313.315101, Birmingham International Airport, United Kingdom, GB, -1.738474, 52.45309
+314.448546, Lamezia Terme, Italia, IT, 16.3092, 38.96589
+315.407908, Киев, Украина, UA, 30.5238, 50.45466
+316.388420, Пиза, Италия, IT, 10.39659, 43.71553
+317.393329, Nijmegen, Netherlands, NL, 5.85278, 51.8425
+318.378668, 马贝拉, 西班牙, ES, -4.88583, 36.51543
+319.378660, 马拉加, 西班牙, ES, -4.420328617095947, 36.72001266479492
+320.398570, Zielona Góra, Polen, PL, 15.50643, 51.93548
+321.377541, Köpenhamn, Danmark, DK, 12.56553, 55.67594
+322.427775, Alicante, España, ES, -0.48149, 38.34517
+323.319760, Milton Keynes Central, United Kingdom, GB, -0.7746968, 52.0343203
+324.319692, Manchester Piccadilly, United Kingdom, GB, -2.2312854, 53.4775242
+325.376272, Bremen, Deutschland, DE, 8.80777, 53.07516
+326.320748, Lorient, France, FR, -3.368291, 47.754508
+327.380214, Chester, United Kingdom, GB, -2.89189, 53.1905
+328.380587, Middlesbrough, United Kingdom, GB, -1.23483, 54.57623
+329.379727, Париж, Франция, FR, 2.3488, 48.85341
+330.378795, Segovia, España, ES, -4.11667, 40.95
+331.380553, Лондон, Великобритания, GB, -0.12574, 51.50853
+332.380190, Кардифф, Великобритания, GB, -3.18, 51.48
+333.376742, Kolbermoor, Deutschland, DE, 12.06696, 47.84965
+334.390525, Рига, Латвия, LV, 24.10589, 56.946
+335.378268, Таллин, Эстония, EE, 24.75353, 59.43696
+336.378655, 马德里, 西班牙, ES, -3.70256, 40.4165
+337.464137, 萨拉曼卡, 西班牙, ES, -5.65, 40.96667
+338.380882, York, United Kingdom, GB, -1.08271, 53.95763
+339.319844, Newcastle, United Kingdom, GB, -1.6173105, 54.968199
+340.388628, Siena, Italia, IT, 11.33283, 43.32004
+341.377599, Helsingör, Danmark, DK, 12.6136, 56.03606
+342.377449, Wiesbaden, Germany, DE, 8.24932, 50.08258
+343.376174, Bad Schwalbach, Germany, DE, 8.06964, 50.14196
+344.446368, Maiori, Italy, IT, 14.6407, 40.64848
+345.460604, Кам'янець-Подільський, Україна, UA, 26.58559, 48.6845
+346.398202, Krakow, Польща, PL, 19.91667, 50.08333
+347.406028, Malmö, Sweden, SE, 13.00073, 55.60587
+348.328502, Kristinehamn tågstation, Sverige, SE, 14.107643, 59.316975
+349.328437, Göteborg centralstation, Sverige, SE, 11.973424, 57.709308
+350.405996, Göteborg, Sverige, SE, 11.96679, 57.70716
+351.406008, Karlstad, Sverige, SE, 13.50357, 59.3793
+352.379730, Pau, Francia, FR, -0.36667, 43.3
+353.368571, Vienne, Autriche, AT, 16.37208, 48.20849
+354.380124, Birmingham, United Kingdom, GB, -1.89983, 52.48142
+355.380061, Andover, United Kingdom, GB, -1.48246, 51.20828
+356.378468, Барселона, Испания, ES, 2.15899, 41.38879
+357.378581, Жирона, Испания, ES, 2.82493, 41.98311
+358.314876, Oslo Sandefjord Airport, Torp, Norway, NO, 10.253893852233887, 59.1861572265625
+359.388060, Foggia, Italia, IT, 15.54925, 41.46093
+360.378849, Valence, Espagne, ES, -0.37739, 39.46975
+361.376362, Дортмунд, Германия, DE, 7.466, 51.51494
+362.376228, Билефельд, Германия, DE, 8.53333, 52.03333
+363.398282, Kołobrzeg, Polska, PL, 15.58342, 54.17565
+364.398269, Katowice, Polska, PL, 19.02754, 50.25842
+365.378725, Пальма, Испания, ES, 2.65024, 39.56939
+366.383026, Zagreb, Kroatië, HR, 15.97798, 45.81444
+367.369233, Brussel, België, BE, 4.34878, 50.85045
+368.329463, Bonn Hbf, Germany, DE, 7.097136, 50.732007
+369.333875, Gera Hbf, Germany, DE, 12.077088, 50.883421
+370.373240, Spiez, Switzerland, CH, 7.69111, 46.68473
+371.16836735, Milan Centrale, Italy, IT, 9.20482, 45.48713
+372.375495, Brno, Czechia, CZ, 16.60753059387207, 49.19510269165039
+373.369231, Brujas, Bélgica, BE, 3.22424, 51.20892
+374.315659, Fes-Saïss, Maroc, MA, -4.979167, 33.92722
+375.16836735, Milano Centrale, Italia, IT, 9.20482, 45.48713
+376.3333180, Pontedera-Casciana Terme, Italia, IT, 10.628782, 43.66214
+377.433894, Salbris, France, FR, 2.05124, 47.4242
+378.388743, Venise, Italie, IT, 12.32667, 45.43861
+379.379225, Bellegarde-sur-Valserine, France, FR, 5.82421, 46.10787
+380.378580, Gijón, Spain, ES, -5.66152, 43.53573
+381.378726, Pamplona, España, ES, -1.64323, 42.81687
+382.405996, Gothenburg, Sweden, SE, 11.96679, 57.70716
+383.16838817, Stockholm-Arlanda, Sweden, SE, 17.9342942, 59.6493928
+384.388162, Lecce, Italia, IT, 18.17202, 40.35703
+385.387700, Altamura, Italia, IT, 16.55368, 40.82923
+386.378813, Tarragona, España, ES, 1.25, 41.11667
+387.388096, Генуя, Италия, IT, 8.93386, 44.40632
+388.315110, London Heathrow Airport, United Kingdom, GB, -0.452638, 51.4708554
+389.380094, Banbury, United Kingdom, GB, -1.34029, 52.0602
+390.379532, La Roche-sur-Yon, France, FR, -1.43333, 46.66667
+391.314039, Аэропорт Кельн / Бонн, Германия, DE, 7.119956, 50.879908
+392.398202, Cracovia, Polonia, PL, 19.91667, 50.08333
+393.431201, Ciudad Rodrigo, Spain, ES, -6.53333, 40.6
+394.401716, Belgrade, Serbia, RS, 20.46513, 44.80401
+395.399578, Bucharest, Romania, RO, 26.10626, 44.43225
+396.376371, Duisburg, Germany, DE, 6.76516, 51.43247
+397.3333605, Castellammare Di Stabia, Italia, IT, 14.483874, 40.701495
+398.387885, Caserta, Italia, IT, 14.33493, 41.08322
+399.378668, Marbella, España, ES, -4.88583, 36.51543
+400.376427, Erlangen, Germany, DE, 10.99497, 49.59561
+401.320763, Amsterdam Centraal, Netherlands, NL, 4.900349, 52.3789
+402.377541, Kopenhagen, Dänemark, DK, 12.56553, 55.67594
+403.380163, Brighton, United Kingdom, GB, -0.13947, 50.82838
+404.393311, Maastricht, Netherlands, NL, 5.68889, 50.84833
+405.379549, Le Havre, France, FR, 0.10767, 49.4938
+406.379597, Lourdes, France, FR, -0.05, 43.1
+407.376367, Drážďany, Německo, DE, 13.73832, 51.05089
+408.387773, Bergamo, Italien, IT, 9.66895, 45.69798
+409.314826, Berlin Tegel Airport, Germany, DE, 13.28903, 52.5548
+410.314039, Cologne/Bonn Airport, Germany, DE, 7.119956, 50.879908
+411.314966, Aeropuerto de Gran Canaria, España, ES, -15.38745, 27.93935
+412.379922, Toulouse, France, FR, 1.44367, 43.60426
+413.439602, Bourg-Saint-Maurice, France, FR, 6.76902, 45.61716
+414.379379, Дижон, Франция, FR, 5.01667, 47.31667
+415.379276, Кан, Франция, FR, -0.35912, 49.18585
+416.4906814, Madonna di Campiglio, Italien, IT, 10.829208, 46.232014
+417.447011, Dimaro, Italien, IT, 10.87077, 46.32621
+418.380281, Derby, United Kingdom, GB, -1.47663, 52.92277
+419.314028, Aeroporto de Bruxelas, Bélgica, BE, 4.4848145, 50.8955342
+420.407183, Istanbul, Turquie, TR, 28.94966, 41.01384
+421.369863, Sófia, Bulgária, BG, 23.32415, 42.69751
+422.393329, Nimwegen, Niederlande, NL, 5.85278, 51.8425
+423.314044, Amsterdam Flughafen Schiphol, Niederlande, NL, 4.763385, 52.30907
+424.380566, Luton, United Kingdom, GB, -0.41748, 51.87967
+425.1003461, Llançà, Espagne, ES, 3.149123, 42.366729
+426.315097, Aeropuerto de Edinburgo, Reino Unido, GB, -3.365187, 55.94804
+427.315111, London Luton Airport, United Kingdom, GB, -0.376292, 51.879379
+428.393390, The Hague, Netherlands, NL, 4.29861, 52.07667
+429.376272, Brema, Alemania, DE, 8.80777, 53.07516
+430.380190, Cardiff, United Kingdom, GB, -3.18, 51.48
+431.376123, Aurich, Deutschland, DE, 7.48232, 53.46919
+432.433326, Trouville-sur-Mer, France, FR, 0.08041, 49.3657
+433.388498, 罗马, 意大利, IT, 12.4839, 41.89474
+434.393390, Haag, Nederländerna, NL, 4.29861, 52.07667
+435.378823, Toledo, España, ES, -4.02263, 39.8581
+436.388452, Pozzuoli, Italy, IT, 14.11001, 40.83196
+437.378425, Almería, España, ES, -2.45974, 36.83814
+438.383008, Rijeka, Croatia, HR, 14.40917, 45.34306
+439.388045, Ferrara, Italy, IT, 11.62071, 44.82678
+440.380446, Ilfracombe, Devon, United Kingdom, GB, -4.11344, 51.2093
+441.369425, Liège, Belgique, BE, 5.56749, 50.63373
+442.320757, Paris Gare du Nord, France, FR, 2.354924, 48.880472
+443.329792, Holzwickede, Deutschland, DE, 7.619643, 51.504765
+444.376590, Hannover, Deutschland, DE, 9.73322, 52.37052
+445.3345602, Grenoble, France, FR, 5.715833, 45.186111
+446.365339, Roscoff, France, FR, -3.976594, 48.715772
+447.314250, Johannesburg, South Africa, ZA, 28.24222, -26.13361
+448.315108, Manchester Airport, United Kingdom, GB, -2.275187, 53.36442
+449.388137, Ischia, Italy, IT, 13.948413848876953, 40.73539352416992
+450.380402, Grimsby, United Kingdom, GB, -0.07553, 53.56539
+451.447319, Cetara, Italy, IT, 14.70091, 40.64756
+452.379262, Brest, France, FR, -4.48333, 48.4
+453.376217, Berlim, Alemanha, DE, 13.41053, 52.52437
+454.378515, Cartagena, Spain, ES, -0.98623, 37.60512
+455.378786, Santander, España, ES, -3.80444, 43.46472
+456.393245, Groningen, Netherlands, NL, 6.56667, 53.21917
+457.380141, Bolton, United Kingdom, GB, -2.43333, 53.58333
+458.380540, Liverpool, United Kingdom, GB, -2.97794, 53.41058
+459.314028, Brussels Airport, Belgium, BE, 4.4848145, 50.8955342
+460.314044, Amsterdam Airport Schiphol, Netherlands, NL, 4.763385, 52.30907
+461.319635, London Kings Cross, United Kingdom, GB, -0.1236132, 51.5322147
+462.378491, Burgos, España, ES, -3.7, 42.35
+463.376460, Francoforte sul Meno, Germania, DE, 8.68417, 50.11552
+464.388058, Флоренция, Италия, IT, 11.25, 43.76667
+465.369233, Bruselas, Bélgica, BE, 4.34878, 50.85045
+466.361881, St-Pierre-des-Corps, France, FR, 0.781207, 47.387948
+467.379149, Aix-en-Provence, France, FR, 5.44973, 43.5283
+468.393157, Arnhem, Netherlands, NL, 5.91111, 51.98
+469.363846, Parigi-Bercy, Francia, FR, 2.384298, 48.837737
+470.320755, Paris Gare de Lyon, France, FR, 2.37356, 48.844928
+471.16841666, Gare de Virieu Le Grand Belley, France, FR, 5.653696099999999, 45.8482782
+472.393410, Venlo, Niederlande, NL, 6.16806, 51.37
+473.388645, Sorrento, Italy, IT, 14.37441, 40.62601
+474.447709, Capri, Italy, IT, 14.24263, 40.55068
+475.373029, Basel, Switzerland, CH, 7.57327, 47.5584
+476.379524, Landerneau, France, FR, -4.25252, 48.45252
+477.389973, Каунас, Литва, LT, 23.9, 54.9
+478.390050, Вильнюс, Литва, LT, 25.2798, 54.68916
+479.315095, Rome Leonardo da Vinci Fiumicino Airport, Italy, IT, 12.2508697, 41.794271
+480.389829, Luang Prabang, Laos, LA, 102.13503, 19.88601
+481.380425, Hereford, United Kingdom, GB, -2.71482, 52.05684
+482.314036, Dusseldorf Airport, Germany, DE, 6.766375, 51.277448
+483.388430, Pompei, Italy, IT, 14.49734, 40.74611
+484.376422, Erfurt, Deutschland, DE, 11.03283, 50.9787
+485.463094, Disneyland Resort Paris, Chessy, France, FR, 2.7814984, 48.867903
+486.387707, Ancona, Italia, IT, 13.51008, 43.59816
+487.369165, Antwerp, Belgium, BE, 4.40346, 51.21989
+488.1002987, Vilagarcia De Arousa, España, ES, -8.762523, 42.602189
+489.378393, La Coruña, España, ES, -8.396, 43.37135
+490.446242, Mestre, Italia, IT, 12.2425, 45.49028
+491.315174, Santorini (Thira) National Airport, Greece, GR, 25.447267532348633, 36.405540466308594
+492.315172, Athens International Airport, Greece, GR, 23.95126, 37.93636
+493.429724, Orense, España, ES, -7.85, 42.33333
+494.315042, Aéroport Paris Charles de Gaulle, France, FR, 2.577134, 49.0029701
+495.314955, Khartoum, Soudan, SD, 32.55305, 15.59028
+496.378850, Valladolid, España, ES, -4.72372, 41.65518
+497.378879, Addis Abeba, Ethiopia, ET, 38.7, 9.0333333
+498.393405, Veenendaal, Netherlands, NL, 5.55891, 52.02863
+499.16883149, Ab, Germany, DE, 9.135555400000001, 49.9806625
+500.393153, Amsterdam, Netherlands, NL, 4.88969, 52.37403
+501.314040, Maastricht Aachen Flughafen, Niederlande, NL, 5.771296, 50.9151
+502.376590, Hannover, Deutschland, DE, 9.73322, 52.37052
+503.369233, Brussels, Belgium, BE, 4.34878, 50.85045
+504.378655, Madrid, Spain, ES, -3.70256, 40.4165
+505.406057, Estocolmo, Suecia, SE, 18.0649, 59.33258
+506.393814, Oslo, Noruega, NO, 10.74609, 59.91273
+507.399799, Cluj-Napoca, Romania, RO, 23.6, 46.76667
+508.383864, Vecses, Hungary, HU, 19.28648, 47.40705
+509.315117, London Stansted Airport, United Kingdom, GB, 0.26246270537376404, 51.889339447021484
+510.380553, London, United Kingdom, GB, -0.12574, 51.50853
+511.388019, Desenzano del Garda, Italy, IT, 10.53398, 45.46798
+512.388748, Verona, Italy, IT, 10.99779, 45.43419
+513.388498, Rome, Italy, IT, 12.4839, 41.89474
+514.314936, Tel Aviv, Israel, IL, 34.87722, 32.01056
+515.376712, Karlsruhe, Deutschland, DE, 8.38583, 49.00472
+516.376548, Greifswald, Deutschland, DE, 13.38786, 54.09311
+517.387787, Bologna, Italy, IT, 11.33875, 44.49381
+518.378857, Vigo, España, ES, -8.72264, 42.23282
+519.6184392, Vitoria - Gasteiz, España, ES, -2.681792, 42.859166
+520.378468, Barcelona, Spain, ES, 2.15899, 41.38879
+521.398773, Lisbon, Portugal, PT, -9.13333, 38.71667
+522.379727, Paris, France, FR, 2.3488, 48.85341
+523.379793, Rouen, France, FR, 1.09932, 49.44313
+524.369748, Elhovo, Bulgaria, BG, 26.5666667, 42.1666667
+525.369880, Topolovgrad, Bulgaria, BG, 26.33333, 42.08333
+526.388521, Salerno, Italy, IT, 14.76599, 40.67797
+527.388317, Naples, Italy, IT, 14.25, 40.83333
+528.376217, Berlin, Germany, DE, 13.41053, 52.52437
+529.376875, Mannheim, Germany, DE, 8.47955, 49.49671
+530.314872, Halmstad, Sweden, SE, 12.81642, 56.68187
+531.379620, Marseille, France, FR, 5.38107, 43.29695
+532.315090, London Gatwick Airport, United Kingdom, GB, -0.17620690166950226, 51.160465240478516
+533.369231, Brujas, Bélgica, BE, 3.22424, 51.20892
+534.388252, Milan, Italy, IT, 9.18951, 45.46427
+535.388058, Florence, Italy, IT, 11.25, 43.76667
+536.383168, Budapest, Hungary, HU, 19.03991, 47.49801
+537.379691, Nice, France, FR, 7.26608, 43.70313
+538.376946, München, Deutschland, DE, 11.57549, 48.13743
+539.368460, Innsbruck, Österreich, AT, 11.39454, 47.26266
+540.380671, Poole, United Kingdom, GB, -2.0, 50.71667
+541.380795, Swansea, United Kingdom, GB, -3.94323, 51.62079
+542.388399, Perugia, Italy, IT, 12.388864517211914, 43.11220932006836
+543.398202, Kraków, Poland, PL, 19.91667, 50.08333
+544.368534, Salzburg, Austria, AT, 13.04399, 47.79941
+545.388718, Turin, Italie, IT, 7.68682, 45.07049
+546.379822, Saint-Étienne, France, FR, 4.4, 45.43333
+547.378726, Pamplona, España, ES, -1.64323, 42.81687
+548.393359, 루르몬트, Netherlands, NL, 5.9875, 51.19417
+549.376375, 뒤셀도르프, Germany, DE, 6.77616, 51.22172
+550.368571, Вена, Австрия, AT, 16.37208, 48.20849
+551.375859, Прага, Чехия, CZ, 14.42076, 50.08804
+552.383026, Zagreb, Croatia, HR, 15.97798, 45.81444
+553.373297, Zurich, Switzerland, CH, 8.55, 47.36667
+554.320756, Paris Gare Montparnasse, France, FR, 2.3188128, 48.8408413
+555.379805, Saint-Brieuc, France, FR, -2.78333, 48.51667
+556.398532, Warsaw, Poland, PL, 21.01178, 52.22977
+557.398334, Lublin, Poland, PL, 22.56667, 51.25
+558.372131, Brest, Belarus, BY, 23.68775, 52.09755
+559.407183, Istanbul, Türkei, TR, 28.94966, 41.01384
+560.378660, Málaga, España, ES, -4.420328617095947, 36.72001266479492
+561.379749, 普瓦捷, 法国, FR, 0.33333, 46.58333
+562.376860, Ludwigshafen am Rhein, Germany, DE, 8.44641, 49.48121
+563.387818, Cagliari, Italia, IT, 9.13462, 39.20738
+564.378849, Valencia, Spagna, ES, -0.37739, 39.46975
+565.379668, Montpellier, France, FR, 3.87723, 43.61092
+566.388713, Trieste, Italy, IT, 13.78, 45.64861
+567.388753, Vicenza, Italy, IT, 11.5409, 45.55729
+568.379252, Bordeaux, France, FR, -0.5805, 44.84044
+569.379604, Lyon, Francia, FR, 4.84671, 45.74846
+570.435583, Paray-Vieille-Poste, France, FR, 2.36283, 48.71402
+571.379538, Laval, France, FR, -0.76667, 48.06667
+572.377293, Штутгарт, Германия, DE, 9.17702, 48.78232
+573.446036, Monterosso al Mare, Italy, IT, 9.65494, 44.14666
+574.338494, Rapallo, Italy, IT, 9.231553, 44.351239
+575.379172, Annemasse, France, FR, 6.23775, 46.19439
+576.378850, Valladolid, España, ES, -4.72372, 41.65518
+577.388402, Pescara, Italy, IT, 14.21021, 42.46024
+578.379577, Lille, France, FR, 3.05858, 50.63297
+579.379186, Arras, France, FR, 2.78186, 50.29301
+580.388065, Forio, Italy, IT, 13.865193367004395, 40.73426055908203
+581.388452, Pozzuoli, Italy, IT, 14.11001, 40.83196
+582.379956, Vernon, France, FR, 1.46332, 49.09292
+583.388506, Rossano, Italy, IT, 16.6349, 39.5751
+584.393361, Rotterdam, Netherlands, NL, 4.47917, 51.9225
+585.329603, Kaiserslautern Hbf, Germany, DE, 7.768711, 49.43614
+586.444595, Sirmione, Italy, IT, 10.60518, 45.46858
+587.379282, Cannes, France, FR, 7.01275, 43.55135
+588.387885, Caserta, Italy, IT, 14.33493, 41.08322
+589.379753, Pontivy, France, FR, -2.98333, 48.06667
+590.379770, Rennes, France, FR, -1.67429, 48.11198
+591.439525, Bresles, France, FR, 2.25024, 49.41044
+592.378482, Bilbao, Spain, ES, -2.92528, 43.26271
+593.369427, Lille, Belgium, BE, 4.82312, 51.24197
+594.398316, Legionowo, Poland, PL, 20.92664, 52.40149
+595.388137, Ischia, Italy, IT, 13.948413848876953, 40.73539352416992
+596.445400, Positano, Italy, IT, 14.48427, 40.62829
+597.381320, Athens, Greece, GR, 23.71622, 37.97945
+598.379363, Creil, France, FR, 2.48477, 49.25672
+599.376319, Кёльн, Германия, DE, 6.95, 50.93333
+600.373096, Ginebra, Suiza, CH, 6.14569, 46.20222
+601.8369280, Sibari, Italy, IT, 16.454059, 39.748906
+602.388005, Cosenza, Italy, IT, 16.25019, 39.30999
+603.445277, Reggio Emilia, Italia, IT, 10.63125, 44.69825
+604.369887, Varna, Bulgaria, BG, 27.91667, 43.21667
+605.369856, Silistra, Bulgaria, BG, 27.26667, 44.11667
+606.448362, Amalfi, Italy, IT, 14.60238, 40.6349
+607.315474, Aeroporto di Cagliari, Italia, IT, 9.05813, 39.25267
+608.448546, Lamezia Terme, Italia, IT, 16.3092, 38.96589
+609.388678, Terni, Italia, IT, 12.64987, 42.56713
+610.387846, Canosa di Puglia, Italia, IT, 16.06747, 41.21963
+611.407908, Київ, Україна, UA, 30.5238, 50.45466
+612.398209, Dąbrowa Górnicza, Poland, PL, 19.2374, 50.31818
+613.379922, Toulouse, France, FR, 1.44367, 43.60426
+614.379154, Albi, France, FR, 2.148, 43.9298
+615.376367, Dresden, Germany, DE, 13.73832, 51.05089
+616.379162, Amiens, France, FR, 2.3, 49.9
+617.313887, Venezia Treviso, Italy, IT, 12.20272, 45.65121
+618.388377, Palermo, Italia, IT, 13.35976, 38.11582
+619.379679, Mulhouse, France, FR, 7.33333, 47.75
+620.379379, Dijon, France, FR, 5.01667, 47.31667
+621.388218, Marsala, Italy, IT, 12.43518, 37.79664
+622.387961, Cinisi, Italy, IT, 13.10734, 38.15615
+623.401430, Timişoara, Romania, RO, 21.22571, 45.75372
+624.399891, Craiova, Romania, RO, 23.799904, 44.31682
+625.387761, Bari, Italy, IT, 16.85118, 41.11773
+626.398447, Rybnik, Poland, PL, 18.54179, 50.09713
+627.369165, Antwerpen, België, BE, 4.40346, 51.21989
+628.379637, Metz, France, FR, 6.17269, 49.11911
+629.390305, Luxembourg, Luxembourg, LU, 6.13, 49.61167
+630.380124, Birmingham, United Kingdom, GB, -1.89983, 52.48142
+631.377541, Copenhagen, Denmark, DK, 12.56553, 55.67594
+632.338443, Vicenza, 意大利, IT, 11.540774, 45.541096
+633.378536, Córdoba, España, ES, -4.76667, 37.88333
+634.378875, Zaragoza, España, ES, -0.87734, 41.65606
+635.387957, Ciampino, Italy, IT, 12.60658, 41.80162
+636.377221, Schwandorf in Bayern, Germany, DE, 12.1098, 49.32534
+637.378823, Toledo, Spain, ES, -4.02263, 39.8581
+638.338578, Roma Tiburtina, Italia, IT, 12.531457, 41.911072
+639.338533, Bologna Centrale, Italia, IT, 11.343406, 44.506141
+640.388162, Lecce, Italy, IT, 18.17202, 40.35703
+641.314525, Aéroport Lyon Saint Exupéry, France, FR, 5.082447, 45.71981
+642.379340, Clermont-Ferrand, France, FR, 3.08628, 45.77966
+643.314051, Abidjan, Côte d'Ivoire, CI, -3.932743, 5.256242
+644.390050, Vilnius, Lithuania, LT, 25.2798, 54.68916
+645.390524, Rēzekne, Latvia, LV, 27.31667, 56.5
+646.427098, Ibiza, Spain, ES, 1.4329776763916016, 38.90880584716797
+647.383008, Rijeka, Croatia, HR, 14.40917, 45.34306
+648.376748, Königs Wusterhausen, Germany, DE, 13.633, 52.30141
+649.414061, Straßburg, Austria, AT, 14.32861, 46.89444
+650.398223, Gdańsk, Poland, PL, 18.64637, 54.35205
+651.377329, Trier, Germany, DE, 6.639200210571289, 49.75566864013672
+652.379183, Arles, France, FR, 4.63031, 43.67681
+653.379782, Rognac, France, FR, 5.23387, 43.48761
+654.369728, Burgas, Bulgaria, BG, 27.46781, 42.50606
+655.369867, Stara Zagora, Bulgaria, BG, 25.64194, 42.43278
+656.376702, Kaiserslautern, Germany, DE, 7.77161, 49.443
+657.376460, Frankfurt am Main, Germany, DE, 8.68417, 50.11552
+658.378980, Helsinki, Finland, FI, 24.93545, 60.16952
+659.378581, Gerona, España, ES, 2.82493, 41.98311
+660.379628, Meaux, France, FR, 2.87885, 48.96014
+661.379233, Biarritz, France, FR, -1.55558, 43.48012
+662.369863, Sofia, Bulgaria, BG, 23.32415, 42.69751
+663.388450, Potenza, Italy, IT, 15.80857, 40.64432
+664.387921, Catania, Italy, IT, 15.08719, 37.50213
+665.398422, Poznan, Poland, PL, 16.92993, 52.40692
+666.379202, Aviñón, Francia, FR, 4.808858871459961, 43.94834899902344
+667.378585, Granada, Spain, ES, -3.60667, 37.18817
+668.372146, Minsk, Belarus, BY, 27.56667, 53.9
+669.379795, Royan, France, FR, -1.0281, 45.62846
+670.380164, Bristol, United Kingdom, GB, -2.59665, 51.45523
+671.388264, Modugno, Italy, IT, 16.77798, 41.09743
+672.388251, Messina, Italy, IT, 15.54969, 38.19327
+673.388231, Matera, Italy, IT, 16.60158, 40.66852
+674.369425, Liège, Belgium, BE, 5.56749, 50.63373
+675.382985, Karlovac, Croatia, HR, 15.54778, 45.48722
+676.406120, Ljubljana, Slovenia, SI, 14.50513, 46.05108
+677.387971, Civitanova Marche, Italy, IT, 13.72058, 43.30696
+678.388195, Macerata, Italy, IT, 13.44108, 43.29816
+679.387983, Comiso, Italy, IT, 14.61018, 36.95134
+680.387675, Acireale, Italy, IT, 15.16279, 37.60666
+681.369487, Nijlen, Belgium, BE, 4.67008, 51.16096
+682.368439, Graz, Österreich, AT, 15.45, 47.06667
+683.377318, Titisee-Neustadt, Deutschland, DE, 8.19063, 47.92104
+684.329522, Frankfurt (Main) Hbf, Germany, DE, 8.663785, 50.107149
+685.329690, Nuremberg Hbf, Germany, DE, 11.082989, 49.445615
+686.375495, Brno, Czechia, CZ, 16.60753059387207, 49.19510269165039
+687.369769, Karlovo, Bulgaria, BG, 24.8, 42.63333
+688.446239, Metaponto, Italy, IT, 16.80762, 40.37329
+689.393225, Eindhoven, Netherlands, NL, 5.47778, 51.44083
+690.16870118, Hemavan Airport, Sweden, SE, 15.082799911499023, 65.80609893798828
+691.446242, Mestre, Italien, IT, 12.2425, 45.49028
+692.406199, Bratislava, Slovakia, SK, 17.10674, 48.14816
+693.320755, Paris Gare de Lyon, France, FR, 2.37356, 48.844928
+694.8442339, Nîmes, France, FR, 4.36615, 43.8325
+695.387992, Corato, Italia, IT, 16.41387, 41.14553
+696.390602, Монако, Монако, MC, 7.41667, 43.73333
+697.378558, Puerto de Santa María, España, ES, -6.23298, 36.59389
+698.1001969, Sevilla San Bernardo, España, ES, -5.979519, 37.377923
+699.388628, Siena, Italy, IT, 11.33283, 43.32004
+700.379692, Nîmes, France, FR, 4.35, 43.83333
+701.437201, Langogne, France, FR, 3.85539, 44.72726
+702.315468, Malta International Airport, Мальта, MT, 14.4954, 35.84978
+703.398504, Szczecin, Polska, PL, 14.55302, 53.42894
+704.378700, Murcia, Spain, ES, -1.13004, 37.98704
+705.329792, Holzwickede, Germany, DE, 7.619643, 51.504765
+706.377033, Osnabrück, Germany, DE, 8.0498, 52.27264
+707.447709, Capri, Italy, IT, 14.24263, 40.55068
+708.382998, Ogulin, Croatia, HR, 15.22861, 45.26611
+709.388348, Olbia, Italy, IT, 9.48563, 40.92137
+710.387698, Alghero, Italy, IT, 8.31806, 40.55889
+711.379610, Manosque, France, FR, 5.78688, 43.82883
+712.379464, Grenoble, France, FR, 5.71667, 45.16667
+713.373139, Lausanne, Suisse, CH, 6.63282, 46.516
+714.427775, Alicante, Spain, ES, -0.48149, 38.34517
+715.16808353, Mont Saint-Michel, France, FR, -1.511071, 48.635345
+716.334196, Berlijn Hbf, Duitsland, DE, 13.369548, 52.525589
+717.329619, Keulen Hbf, Duitsland, DE, 6.958729, 50.943027
+718.421838, Kohn, Germany, DE, 10.45, 54.35
+719.313998, Sarajevo International Airport, Bosnia and Herzegovina, BA, 18.33139, 43.82444
+720.464137, Salamanca, España, ES, -5.65, 40.96667
+721.377001, Nürnberg, Deutschland, DE, 11.06833, 49.44778
+722.388677, Termoli, Italy, IT, 14.98953, 41.98884
+723.388120, Grottammare, Italy, IT, 13.86489, 42.98875
+724.376540, Göttingen, Deutschland, DE, 9.93406, 51.53933
+725.369241, Charleroi, Belgium, BE, 4.44448, 50.41136
+726.388663, Syracuse, Italia, IT, 15.273, 37.08515
+727.338579, Roma Termini, Italia, IT, 12.50279, 41.900492
+728.443173, Villafranca Tirrena, Italia, IT, 15.43739, 38.24007
+729.406009, Katrineholm, Sverige, SE, 16.20721, 58.99587
+730.387682, Afragola, Italy, IT, 14.31083, 40.92601
+731.379596, Loudéac, France, FR, -2.75433, 48.17826
+732.388766, Villa San Giovanni, Italy, IT, 15.63859, 38.22757
+733.388666, Taranto, Italy, IT, 17.22972, 40.47611
+734.398427, Pszczyna, Poland, PL, 18.95382, 49.98037
+735.388743, Venice, Italy, IT, 12.32667, 45.43861
+736.447306, Chianciano Terme, Italy, IT, 11.81245, 43.04394
+737.388094, Gela, Italy, IT, 14.23068, 37.08034
+738.380324, Edimburgo, Reino Unido, GB, -3.19648, 55.95206
+739.314987, Lisbon Portela Airport, Portugal, PT, -9.1291, 38.7704
+740.329668, München Hbf, Deutschland, DE, 11.558338, 48.140228
+741.434367, Saint-Jean-Pied-de-Port, Frankreich, FR, -1.23738, 43.16363
+742.379170, Annecy, France, FR, 6.11667, 45.9
+743.434441, Saint-Gervais-les-Bains, France, FR, 6.71381, 45.8929
+744.8442266, Massy - Palaiseau, France, FR, 2.259, 48.724
+745.376073, Aachen, Germany, DE, 6.08342, 50.77664
+746.314028, Brussels Airport, Belgium, BE, 4.4848145, 50.8955342
+747.388528, San Benedetto del Tronto, Italy, IT, 13.88157, 42.94562
+748.387707, Ancona, Italy, IT, 13.51008, 43.59816
+749.376588, Hanau, Germany, DE, 8.91418, 50.13423
+750.16851906, Praga, Polónia, PL, 21.7914763, 52.4187332
+751.378476, Benidorm, Spain, ES, -0.13098, 38.53816
+752.427156, Guardamar del Segura, Spain, ES, -0.65556, 38.09031
+753.373033, Berne, Switzerland, CH, 7.44744, 46.94809
+754.369820, Panagyurishte, Bulgaria, BG, 24.18333, 42.5
+755.362074, St-Brieuc, France, FR, -2.766619, 48.505361
+756.398220, Elblag, Poland, PL, 19.40884, 54.1522
+757.314960, Santiago de Compostela Airport, 西班牙, ES, -8.416464, 42.89913
+758.379268, Brive-la-Gaillarde, France, FR, 1.53333, 45.15
+759.379499, Issy-les-Moulineaux, France, FR, 2.27718, 48.82104
+760.434930, Roissy-en-France, France, FR, 2.51703, 49.00443
+761.449582, Casamicciola Terme, Italy, IT, 13.910216, 40.745735
+762.388060, Foggia, Italy, IT, 15.54925, 41.46093
+763.398549, Wrocław, Polska, PL, 17.03333, 51.1
+764.420583, Neufahrn bei Freising, Germany, DE, 11.66316, 48.31588
+765.443820, Capo d'Orlando, Italy, IT, 14.73047, 38.14346
+766.376583, Hamburg, Germany, DE, 10.01534, 53.57532
+767.399578, Bucharest, Romania, RO, 26.10626, 44.43225
+768.401213, Sinaia, Romania, RO, 25.55, 45.35
+769.3332801, Bolzano Bozen, Italia, IT, 11.358568, 46.496324
+770.338537, Rimini, Italia, IT, 12.574012, 44.06424
+771.421771, Bad Kötzting, Germany, DE, 12.85515, 49.17649
+772.388720, Udine, Italy, IT, 13.24222, 46.06194
+773.390525, Riga, Latvia, LV, 24.10589, 56.946
+774.427308, Elche, Spain, ES, -0.70107, 38.26218
+775.380309, Dunstable, United Kingdom, GB, -0.52099, 51.886
+776.378805, Soria, España, ES, -2.46883, 41.76401
+777.378491, Burgos, España, ES, -3.7, 42.35
+778.379854, Saint-Pierre-des-Corps, France, FR, 0.74849, 47.38623
+779.375528, 克鲁姆洛夫, 捷克, CZ, 14.31521, 48.81091
+780.376422, Erfurt, Germany, DE, 11.03283, 50.9787
+781.369808, Montana, Bulgaria, BG, 23.225, 43.4125
+782.315660, Rabat, Morocco, MA, -6.751389, 34.05139
+783.388153, La Spezia, Italia, IT, 9.84339, 44.11054
+784.315043, Aéroport de Paris Orly, France, FR, 2.364111, 48.72613
+785.448576, Casagiove, Italy, IT, 14.30773, 41.07472
+786.390595, Tangier, Morocco, MA, -5.79975, 35.76727
+787.380575, Manchester, United Kingdom, GB, -2.23743, 53.48095
+788.373120, Interlaken, Switzerland, CH, 7.86638, 46.68387
+789.340841, Rotterdam Centraal, Nederländerna, NL, 4.468771, 51.924804
+790.401716, Белград, Сербия, RS, 20.46513, 44.80401
+791.378797, Sevilla, España, ES, -5.97613, 37.38241
+792.369876, Svishtov, Bulgaria, BG, 25.35389, 43.62306
+793.369798, Lovech, Bulgaria, BG, 24.71667, 43.13333
+794.380650, Oxford, United Kingdom, GB, -1.25596, 51.75222
+795.365783, Marne la Vallée-Chessy, France, FR, 2.782619, 48.869352
+796.379839, St-Malo, France, FR, -2.01667, 48.65
+797.329725, Saarbrücken Hbf, Deutschland, DE, 6.991018, 49.241065
+798.376436, Essen, Deutschland, DE, 7.012499809265137, 51.456451416015625
+799.369861, Sliven, Bulgaria, BG, 26.32917, 42.68583
+800.387802, Brescia, Italy, IT, 10.22727, 45.52478
+801.378580, Gijón, Spanien, ES, -5.66152, 43.53573
+802.314522, Aeroporto de Milão Malpensa, Itália, IT, 8.722839, 45.63136
+803.398868, Porto, Portugal, PT, -8.61099, 41.14961
+804.373029, Basel, Schweiz, CH, 7.57327, 47.5584
+805.379901, Strasbourg, France, FR, 7.74296, 48.58342
+806.450800, Ålesund, Norway, NO, 6.15492, 62.47225
+807.393496, Bergen, Norway, NO, 5.324578762054443, 60.39292907714844
+808.378835, Torremolinos, Spain, ES, -4.49976, 36.62035
+809.378642, Lérida, España, ES, 0.61667, 41.61667
+810.376926, Mönchengladbach, Germany, DE, 6.44172, 51.18539
+811.376605, Heidelberg, Germany, DE, 8.69079, 49.40768
+812.379347, Colomiers, France, FR, 1.33278, 43.61247
+813.314512, Douala, Cameroun, CM, 9.717018, 4.01346
+814.315042, Aéroport Paris Charles de Gaulle, France, FR, 2.577134, 49.0029701
+815.398224, Gdynia, Poland, PL, 18.53188, 54.51889
+816.446214, Minori, Italy, IT, 14.62684, 40.6503
+817.388371, Padua, Italy, IT, 11.88181, 45.41519
+818.376145, Bad Homburg, Deutschland, DE, 8.61963, 50.22667
+819.388752, Vibo Valentia, Italia, IT, 16.0951, 38.67428
+820.387953, Chieti, Italia, IT, 14.13801, 42.36094
+821.377103, Ratzeburg, Deutschland, DE, 10.79084, 53.6947
+822.463934, Freiburg im Breisgau, Germany, DE, 7.85222, 47.9959
+823.444335, Toscolano-Maderno, Italy, IT, 10.60838, 45.63449
+824.377149, Rosenheim, Germany, DE, 12.12247, 47.85637
+825.429002, San Sebastián, España, ES, -1.97499, 43.31283
+826.372134, Gomel, Białoruś, BY, 30.9833333, 52.4416667
+827.380521, Leicester, United Kingdom, GB, -1.13169, 52.6386
+828.388208, Mantova, Italia, IT, 10.79784, 45.16031
+829.369382, Jurbise, Belgium, BE, 3.90942, 50.531
+830.8596199, Schaerbeek, Belgium, BE, 4.378491, 50.868855
+831.316130, Jeddah, Saudi Arabia, SA, 39.15528, 21.68111
+832.379308, Chambéry, France, FR, 5.93333, 45.56667
+833.315056, Nice Cote d'Azur Airport, France, FR, 7.212856, 43.66379
+834.376272, Bremen, Germany, DE, 8.80777, 53.07516
+835.388645, Sorrento, Italy, IT, 14.37441, 40.62601
+836.378436, Antequera, España, ES, -4.56123, 37.01938
+837.410951, Nueva York, Estados Unidos, US, -74.00597, 40.71427
+838.16834972, Hallstatt, Austria, AT, 13.64912, 47.56231
+839.338409, Brennero/Brenner, Italia, IT, 11.505428, 47.002338
+840.388246, Merano, Italia, IT, 11.15953, 46.66817
+841.463094, Disneyland Resort Paris, Chessy, France, FR, 2.7814984, 48.867903
+842.369317, Ghent, Belgium, BE, 3.71667, 51.05
+843.402949, Kaliningrad, Russia, RU, 20.517745, 54.717559
+844.369757, Kharmanli, Bulgaria, BG, 25.9, 41.93333
+845.369831, Plovdiv, Bulgaria, BG, 24.75, 42.15
+846.369790, Kubrat, Bulgaria, BG, 26.5, 43.8
+847.369847, Rousse, Bulgaria, BG, 25.97083, 43.85639
+848.378594, Huelva, España, ES, -6.95083, 37.25833
+849.379819, Saintes, France, FR, -0.63333, 45.75
+850.379531, La Rochelle, France, FR, -1.15, 46.16667
+851.314039, Köln / Bonn Flughafen, Deutschland, DE, 7.119956, 50.879908
+852.376427, Erlangen, Germany, DE, 10.99497, 49.59561
+853.378545, Denia, Spain, ES, 0.10574, 38.84078
+854.379712, Orléans, France, FR, 1.90389, 47.90289
+855.383025, Zadar, Croatia, HR, 15.24222, 44.11972
+856.383005, Požega, Croatia, HR, 17.68528, 45.34028
+857.379345, Colmar, France, FR, 7.36667, 48.08333
+858.373152, Lucerne, Switzerland, CH, 8.306272506713867, 47.0504150390625
+859.377093, Radevormwald, Deutschland, DE, 7.36027, 51.20218
+860.398866, Portimao, Portugal, PT, -8.53775, 37.13856
+861.387773, Bergamo, Italy, IT, 9.66895, 45.69798
+862.314031, Aeropuerto de Eindhoven, Holanda, NL, 5.376692, 51.45079
+863.16879410, Tenerife, Spain, ES, -16.62913, 28.291564
+864.435572, Paron, France, FR, 3.25076, 48.17888
+865.384349, Dublin, Ireland, IE, -6.24889, 53.33306
+866.385208, Delhi, India, IN, 77.22897, 28.65381
+867.16836735, Milan Centrale, Italy, IT, 9.20482, 45.48713
+868.369892, Vratsa, Bulgaria, BG, 23.5625, 43.21
+869.375446, Larnaca, Cyprus, CY, 33.62917, 34.91667
+870.313884, Prague Vaclav Havel Airport, Czechia, CZ, 14.26731, 50.1073
+871.376809, Лейпциг, Германия, DE, 12.37129, 51.33962
+872.398477, Stalowa Wola, Poland, PL, 22.05334, 50.58286
+873.398451, Rzeszów, Poland, PL, 21.99901, 50.04132
+874.376749, Konstanz, Germany, DE, 9.17582, 47.66033
+875.315174, Aeropuerto Nacional de Santorini (Thira), Grecia, GR, 25.447267532348633, 36.405540466308594
+876.313711, Aeropuerto de Barcelona El Prat, España, ES, 2.0744297, 41.3025957
+877.447768, Candela, Italy, IT, 15.51465, 41.13792
+878.362224, Orléans Centre, France, FR, 1.906719, 47.906446
+879.388138, Isernia, Italia, IT, 14.23822, 41.60022
+880.398293, Koszalin, Poland, PL, 16.17222, 54.19438
+881.398269, Katowice, Poland, PL, 19.02754, 50.25842
+882.398317, Legnica, Poland, PL, 16.1619, 51.21006
+883.398261, Jelenia Góra, Poland, PL, 15.72899, 50.89973
+884.16879420, Lanzarote, Spain, ES, -13.589973, 29.046854
+885.388096, Genova, Italia, IT, 8.93386, 44.40632
+886.376463, Фрайбург, Германия, DE, 9.288249969482422, 53.825408935546875
+887.403838, Москва, Россия, RU, 37.61556, 55.75222
+888.380667, Plymouth, Verenigd Koninkrijk, GB, -4.14305, 50.37153
+889.368583, Wels, Austria, AT, 14.03333, 48.16667
+890.387984, Como, Italy, IT, 9.08744, 45.80998
+891.314003, Bari Palese Airport, Italy, IT, 16.7652, 41.13751
+892.383018, Split, Croacia, HR, 16.43915, 43.50891
+893.380192, Carlisle, United Kingdom, GB, -2.938190460205078, 54.895111083984375
+894.407783, Chernihiv, Ukraine, UA, 31.28488, 51.50551
+895.460603, Kharkiv, Ukraine, UA, 36.25272, 49.98081
+896.376284, Braunschweig, Deutschland, DE, 10.52673, 52.26594
+897.377346, Ulm, Germany, DE, 9.99155, 48.39841
+898.379681, Nancy, France, FR, 6.2, 48.68333
+899.390786, Skopje, Macedonia, MK, 21.42878, 42.00122
+900.380741, 谢菲尔德, 英国, GB, -1.4659, 53.38297
+901.388430, Pompei, Italy, IT, 14.49734, 40.74611
+902.427440, Castello de la Plana, España, ES, -0.03333, 39.98333
+903.398164, Białystok, Poland, PL, 23.15, 53.13333
+904.445637, Peschici, Italy, IT, 16.01586, 41.94605
+905.338325, Turin Porta Nuova, Italy, IT, 7.678001, 45.061612
+906.378425, Almería, Spanien, ES, -2.45974, 36.83814
+907.379792, Roubaix, France, FR, 3.17456, 50.69421
+908.379273, Bully-les-Mines, France, FR, 2.72703, 50.4438
+909.447946, Brennero, Italia, IT, 11.5, 47.0
+910.314957, Aeropuerto de Madrid Barajas, España, ES, -3.5695650577545166, 40.468257904052734
+911.451264, Przemysl, Poland, PL, 22.76728, 49.78498
+912.6184492, Castellon, España, ES, -0.04495, 39.984458
+913.378453, Ávila, España, ES, -4.7, 40.65
+914.447437, Castiglione della Pescaia, Italie, IT, 10.88093, 42.76346
+915.314268, Международный аэропорт Вильнюса, Литва, LT, 25.27975, 54.64312
+916.379221, Beauvais, France, FR, 2.08333, 49.43333
+917.379281, Cambrai, France, FR, 3.23333, 50.16667
+918.388420, Pisa, Italy, IT, 10.39659, 43.71553
+919.377102, Regensburg, Germany, DE, 12.09556, 49.015
+920.378786, Santander, España, ES, -3.80444, 43.46472
+921.376508, Gelsenkirchen, Germany, DE, 7.12283, 51.5075
+922.421827, Kölln-Reisiek, Germany, DE, 9.69772, 53.75748
+923.415356, Turgovishte, Bulgaria, BG, 26.58917, 43.25917
+924.388159, Lauria, Italy, IT, 15.83578, 40.0465
+925.16843631, St. Pölten, Ausztria, AT, 15.63817, 48.20353
+926.380614, Newcastle, United Kingdom, GB, -1.61396, 54.97328
+927.377792, Viborg, Denmark, DK, 9.40201, 56.45319
+928.378795, Segovia, Spain, ES, -4.11667, 40.95
+929.376193, Bamberg, Germany, DE, 10.90067, 49.89873
+930.388387, Parma, Italia, IT, 10.32898, 44.80266
+931.388486, Rimini, Italia, IT, 12.58083, 44.06333
+932.313879, Stuttgart Airport, Germany, DE, 9.192981, 48.68954
+933.379175, Antibes, France, FR, 7.12777, 43.56241
+934.379279, Calais, France, FR, 1.85205, 50.9581
+935.338469, Genoa Piazza Principe, Italy, IT, 8.922072, 44.417507
+936.373240, Spiez, Switzerland, CH, 7.69111, 46.68473
+937.398436, Radom, Poland, PL, 21.14714, 51.40253
+938.398515, Toruń, Poland, PL, 18.59814, 53.01375
+939.388665, Taormina, Italy, IT, 15.288431167602539, 37.853614807128906
+940.388457, Procida, Italy, IT, 14.01443862915039, 40.75651168823242
+941.378764, Salou, Spain, ES, 1.14163, 41.07663
+942.388329, Nizza Monferrato, Italy, IT, 8.35394, 44.77385
+943.398374, Nowy Sącz, Poland, PL, 20.69705, 49.62177
+944.376858, Ludwigsburg, Germany, DE, 9.19161, 48.89731
+945.378637, León, Espanha, ES, -5.566447734832764, 42.60041046142578
+946.315932, Lima, Perú, PE, -77.11417, -12.02167
+947.369851, Samokov, Bulgaria, BG, 23.55, 42.33333
+948.413111, Newquay, United Kingdom, GB, -5.08186, 50.41317
+949.378877, Zumárraga, España, ES, -2.316667, 43.083333
+950.332132, Neubrücke(Nahe), 德国, DE, 7.172906, 49.606063
+951.393455, Zwolle, Netherlands, NL, 6.09444, 52.5125
+952.376203, Bayreuth, Germany, DE, 11.57833, 49.94806
+953.443433, Reggio Calabria, Italy, IT, 15.66129, 38.11047
+954.378423, Almansa, España, ES, -1.09713, 38.86917
+955.388117, Grosseto, Italy, IT, 11.10794, 42.77142
+956.393202, 代尔夫特, 荷兰, NL, 4.35556, 52.00667
+957.379928, Tours, France, FR, 0.68333, 47.38333
+958.388652, Spoleto, Italy, IT, 12.73737, 42.74484
+959.388061, Foligno, Italy, IT, 12.70107, 42.94404
+960.369477, Namur, Belgium, BE, 4.86746, 50.4669
+961.367851, Dubai, United Arab Emirates, AE, 55.30472, 25.25817
+962.331906, Marl-Sinsen, Germany, DE, 7.173059, 51.667856
+963.314961, Aeroporto do Porto, Portugal, PT, -8.66822338104248, 41.23881149291992
+964.314975, Aeroporto de Faro, Portugal, PT, -7.969111, 37.02082
+965.389973, Kaunas, Lithuania, LT, 23.9, 54.9
+966.376255, Bonn, Germany, DE, 7.09548, 50.73438
+967.406074, Västerås, Sverige, SE, 16.55276, 59.61617
+968.405996, Göteborg, Sverige, SE, 11.96679, 57.70716
+969.3332220, Foggia, Italia, IT, 15.555817, 41.464311
+970.416109, Brig, Schweiz, CH, 7.98333, 46.31667
+971.379683, Nantes, França, FR, -1.55336, 47.21725
+972.387788, Bolzano, Italy, IT, 11.33358, 46.49272
+973.314044, Amsterdam Airport Schiphol, Netherlands, NL, 4.763385, 52.30907
+974.16863304, Brugge, Belgium, BE, 3.2246995, 51.209348
+975.376481, Fulda, Deutschland, DE, 9.675040245056152, 50.55165100097656
+976.369872, Sumen, Bulgaria, BG, 26.9291667, 43.2766667
+977.314819, Beirut, Lebanon, LB, 35.49279, 33.82628
+978.393390, The Hague, Netherlands, NL, 4.29861, 52.07667
+979.456700, Kutaisi, Georgia, GE, 42.69974, 42.24961
+980.387744, Avellino, Italia, IT, 14.78874, 40.91442
+981.315095, Рим Аэропорт Леонардо да Винчи Фьюмичино, Италия, IT, 12.2508697, 41.794271
+982.380868, Winchester, United Kingdom, GB, -1.3187, 51.06513
+983.413104, Nantwich, United Kingdom, GB, -2.52051, 53.06878
+984.380251, Crewe, United Kingdom, GB, -2.44161, 53.09787
+985.1002871, Arévalo, España, ES, -4.701988, 41.047123
+986.329557, Tübingen Hbf, Germany, DE, 9.055823, 48.515842
+987.377683, Оденсе, Дания, DK, 10.38831, 55.39594
+988.377512, Орхус, Дания, DK, 10.21076, 56.15674
+989.445424, Ponza, Italy, IT, 12.958975, 40.895573
+990.376362, Dortmund, Germany, DE, 7.466, 51.51494
+991.387737, Assisi, Italy, IT, 12.61646, 43.06914
+992.379215, Bayonne, Frankrike, FR, -1.48333, 43.48333
+993.398207, Częstochowa, Polonia, PL, 19.12409, 50.79646
+994.379442, Gap, France, FR, 6.08333, 44.56667
+995.313713, Aeropuerto de Girona Costa Brava, España, ES, 2.764603, 41.89918
+996.398285, Конин, Польша, PL, 18.25121, 52.22338
+997.378656, Mahon, España, ES, 4.2492756843566895, 39.88059616088867
+998.318541, Bristol Temple Meads, United Kingdom, GB, -2.5808842, 51.4496104
+999.380637, Nottingham, United Kingdom, GB, -1.15047, 52.9536
+1000.380520, Leeds, United Kingdom, GB, -1.54785, 53.79648
+1001.437292, La Haye-Malherbe, France, FR, 1.06774, 49.22553
+1002.440446, Acquigny, France, FR, 1.1765, 49.1735
+1003.367849, Sant Julià de Lòria, Andorra, AD, 1.49129, 42.46372
+1004.388263, Modica, Italy, IT, 14.77399, 36.84594
+1005.380839, Warwick, Großbritannien, GB, -1.58333, 52.28333
+1006.445635, Peschiera del Garda, Italy, IT, 10.68908, 45.43778
+1007.441557, Hay-on-wye, United Kingdom, GB, -3.12741, 52.07049
+1008.398557, Zabrze, Polska, PL, 18.78576, 50.32492
+1009.383020, Varaždin, Croatia, HR, 16.33778, 46.30444
+1010.375529, Czeski Cieszyn, Czechy, CZ, 18.62613, 49.74613
+1011.447319, Cetara, Italy, IT, 14.70091, 40.64756
+1012.314833, Аэропорт Карловы Вары, Чехия, CZ, 12.91263, 50.20099
+1013.376695, Jena, Germany, DE, 11.5899, 50.92878
+1014.398411, Piotrków Trybunalski, Poland, PL, 19.70321, 51.40547
+1015.376121, Augsburg, Germany, DE, 10.88333, 48.36667
+1016.3333107, Carrara-avenza, Italia, IT, 10.062935, 44.051242
+1017.388746, Vercelli, Italy, IT, 8.41533, 45.32306
+1018.393400, Utrecht, Nederland, NL, 5.12222, 52.09083
+1019.427534, 卡尔佩, 西班牙, ES, 0.0445, 38.6447
+1020.1003227, 阿利坎特-Terminal, 西班牙, ES, -0.494943, 38.344463
+1021.388262, Modena, Italy, IT, 10.92539, 44.64783
+1022.388674, Teramo, Italy, IT, 13.69901, 42.66123
+1023.383012, Šibenik, Croatia, HR, 15.90583, 43.72722
+1024.380636, Norwich, United Kingdom, GB, 1.29834, 52.62783
+1025.378431, Santiago de Compostela, Spain, ES, -8.54569, 42.88052
+1026.390609, Кишинёв, Молдова, MD, 28.8575, 47.00556
+1027.379046, Rovaniemi, Finland, FI, 25.71667, 66.5
+1028.379036, Oulu, Finland, FI, 25.46816, 65.01236
+1029.380062, Annan, United Kingdom, GB, -3.25647, 54.98839
+1030.460570, Lviv, Ukraine, UA, 24.02324, 49.83826
+1031.329618, Koblenz Hbf, Germany, DE, 7.588648, 50.35108
+1032.387996, Corigliano Calabro, Italy, IT, 16.5177, 39.595
+1033.378645, Logroño, Spagna, ES, -2.45, 42.46667
+1034.398373, Nowy Dwor Mazowiecki, Poland, PL, 20.71652, 52.43022
+1035.388706, Trento, Italy, IT, 11.12108, 46.06787
+1036.331128, Hamburg Hbf, Germany, DE, 10.006908, 53.55273
+1037.376371, 뒤스부르크, Germany, DE, 6.76516, 51.43247
+1038.379166, Angers, France, FR, -0.55, 47.46667
+1039.393311, Maastricht, Netherlands, NL, 5.68889, 50.84833
+1040.387768, Belluno, Italia, IT, 12.22139, 46.145
+1041.388703, Trecate, Italia, IT, 8.73684, 45.43477
+1042.338467, 佛罗伦萨 Santa Maria Novella, 意大利, IT, 11.247806, 43.77681
+1043.328438, Malmö centralstation, Suède, SE, 13.00126, 55.60923
+1044.314856, Aéroport de Copenhague, Danemark, DK, 12.64853, 55.62864
+1045.314280, Московский аэропорт Внуково, Россия, RU, 37.28895, 55.60523
+1046.368491, Linz, Austria, AT, 14.28611, 48.30639
+1047.378608, Jerez de la Frontera, Spain, ES, -6.13606, 36.68645
+1048.406000, Helsingborg, Sverige, SE, 12.69437, 56.04673
+1049.405985, Borås, Sverige, SE, 12.9401, 57.72101
+1050.415004, Fischamend Dorf, Austria, AT, 16.61287, 48.11884
+1051.443994, Vizzola Ticino, Italy, IT, 8.6865, 45.6317
+1052.388463, Quinto di Treviso, Italy, IT, 12.16667, 45.64806
+1053.314046, Accra, Ghana, GH, -0.1682974, 5.603922
+1054.378393, Corunha, Espanha, ES, -8.396, 43.37135
+1055.376992, Norderstedt, Germany, DE, 9.98041, 53.6859
+1056.378736, Pontevedra, Espagne, ES, -8.64435, 42.431
+1057.444384, Torino di Sangro, Italy, IT, 14.54082, 42.18814
+1058.380540, Liverpool, United Kingdom, GB, -2.97794, 53.41058
+1059.452096, Szczytna, Poland, PL, 16.44743, 50.41343
+1060.378495, Cádiz, España, ES, -6.29944, 36.53361
+1061.16838817, Stockholm-Arlanda, Sweden, SE, 17.9342942, 59.6493928
+1062.315794, Los Angeles, USA, US, -118.4087, 33.94353
+1063.387860, Cariati, Italy, IT, 16.95941, 39.4922
+1064.464142, Valence, France, FR, 4.9, 44.93333
+1065.376714, Kassel, Germany, DE, 9.5, 51.31667
+1066.388468, Ragusa, Italy, IT, 14.71719, 36.92824
+1067.388751, Viareggio, Italy, IT, 10.2558, 43.87354
+1068.16884997, Parpan, Schweiz, CH, 9.5576858, 46.7600519
+1069.16330859, Lenzerheide, Schweiz, CH, 9.55905, 46.72215
+1070.376314, Chemnitz, Germany, DE, 12.91667, 50.83333
+1071.16882439, Bremgarten bei Bern, Switzerland, CH, 7.437317999999999, 46.975595
+1072.373150, Лугано, Швейцария, CH, 8.96004, 46.01008
+1073.388056, Fiumicino, Italy, IT, 12.22907, 41.76747
+1074.378268, Tallin, Estonia, EE, 24.75353, 59.43696
+1075.377333, Tübingen, Germany, DE, 9.05222, 48.52266
+1076.464063, Schwerin, Mecklenburg, Germany, DE, 11.41316, 53.62937
+1077.315111, London Luton Airport, United Kingdom, GB, -0.376292, 51.879379
+1078.380631, Northampton, United Kingdom, GB, -0.88333, 52.25
+1079.329515, Essen Hbf, Deutschland, DE, 7.014795, 51.45135
+1080.391352, Ciudad Cancún, México, MX, -86.84656, 21.17429
+1081.313877, Graz Flughafen, Österreich, AT, 15.44412, 46.99632
+1082.393229, Enschede, Netherlands, NL, 6.89583, 52.21833
+1083.414630, Leogang, Österreich, AT, 12.76109, 47.43906
+1084.373236, Sion, Suisse, CH, 7.35942, 46.22908
+1085.380378, Glasgow, United Kingdom, GB, -4.25763, 55.86515
+1086.380037, Aberdeen, United Kingdom, GB, -2.09814, 57.14369
+1087.365758, Avignon TGV, France, FR, 4.786045, 43.921932
+1088.338555, Naples Centrale, Italy, IT, 14.273953, 40.851604
+1089.3331616, Trento, Italia, IT, 11.118952, 46.072396
+1090.406379, 塞拉瓦莱, 圣马力诺, SM, 12.48167, 43.96897
+1091.315115, East Midlands Airport, Wielka Brytania, GB, -1.33091, 52.82577
+1092.314283, Rzeszow Jasionka Airport, Polska, PL, 22.0674, 50.12857
+1093.398347, Mielec, Poland, PL, 21.4239, 50.28709
+1094.412797, Brockenhurst, United Kingdom, GB, -1.57303, 50.81936
+1095.315216, Ancona Marche Airport, Italy, IT, 13.36338, 43.61579
+1096.388143, Ivrea, Italy, IT, 7.87617, 45.46723
+1097.398393, Ostrowiec Świętokrzyski, Poland, PL, 21.38525, 50.92936
+1098.398771, Leiria, Portugal, PT, -8.80705, 39.74362
+1099.380113, Belfast, Reino Unido, GB, -5.93333, 54.58333
+1100.415624, St. Gallen, Switzerland, CH, 9.37477, 47.42391
+1101.378515, Cartagena, España, ES, -0.98623, 37.60512
+1102.388732, Valmontone, Italy, IT, 12.91749, 41.77882
+1103.415429, Banite, Bulgaria, BG, 25.01667, 41.61667
+1104.369758, Khaskovo, Bulgaria, BG, 25.56944, 41.94028
+1105.379632, Menton, France, FR, 7.50435, 43.77649
+1106.379835, Saint-Laurent-du-Var, France, FR, 7.17606, 43.67097
+1107.446368, Maiori, Italy, IT, 14.6407, 40.64848
+1108.380163, Brighton, United Kingdom, GB, -0.13947, 50.82838
+1109.379309, Chamonix-Mont-Blanc, France, FR, 6.86933, 45.92375
+1110.314033, Международный аэропорт Остенде Брюгге, Бельгия, BE, 2.870796, 51.20001
+1111.387724, Arezzo, Italia, IT, 11.87691, 43.46139
+1112.315100, Bristol Airport, Verenigd Koninkrijk, GB, -2.711013078689575, 51.386756896972656
+1113.460171, Göreme, Turkey, TR, 34.83529, 38.6437
+1114.376901, Memmingen, Germany, DE, 10.18527, 47.98372
+1115.376497, Garmisch-Partenkirchen, Germany, DE, 11.09576, 47.49209
+1116.379168, Angoulême, France, FR, 0.15, 45.65
+1117.376228, Bielefeld, Deutschland, DE, 8.53333, 52.03333
+1118.383210, Debrecen, Hungary, HU, 21.63333, 47.53333
+1119.368586, Wiener Neustadt, Austria, AT, 16.25, 47.8
+1120.379779, Rochefort, France, FR, -0.98333, 45.93333
+1121.376211, Bensheim, Deutschland, DE, 8.61839, 49.68369
+1122.443685, Gagliano del Capo, Italy, IT, 18.36953, 39.84422
+1123.376485, Fürth (Bay), Deutschland, DE, 10.988617897033691, 49.4759407043457
+1124.329623, Krefeld Hbf, Deutschland, DE, 6.570224, 51.325772
+1125.380244, Coventry, Großbritannien, GB, -1.51217, 52.40656
+1126.398570, Zielona Góra, Poland, PL, 15.50643, 51.93548
+1127.446535, L'Aquila, Italy, IT, 13.39954, 42.35055
+1128.376321, Cottbus, Deutschland, DE, 14.32888, 51.75769
+1129.379276, Caen, France, FR, -0.35912, 49.18585
+1130.398295, Kozienice, Poland, PL, 21.54779, 51.58294
+1131.378810, Tarancon, España, ES, -3.00731, 40.00851
+1132.328537, Örebro centralstation, Sverige, SE, 15.211618, 59.278501
+1133.16816806, Arlanda Airport terminal 5, Sverige, SE, 17.931833, 59.652015
+1134.444156, Ventotene, Italy, IT, 13.431681, 40.7961
+1135.319091, Fratton, United Kingdom, GB, -1.0758051, 50.7962926
+1136.319643, London Waterloo, United Kingdom, GB, -0.1132896, 51.5025124
+1137.388423, Poggibonsi, Italy, IT, 11.14562, 43.47244
+1138.382982, Ragusa, Croazia, HR, 18.09216, 42.64807
+1139.379581, Limoges, France, FR, 1.2578, 45.83153
+1140.379149, Aix-en-Provence, France, FR, 5.44973, 43.5283
+1141.388274, Monopoli, Italy, IT, 17.2896, 40.95593
+1142.398500, Świnoujście, Polska, PL, 14.24712, 53.91053
+1143.390589, Marraquexe, Marrocos, MA, -7.99994, 31.63416
+1144.388393, Pavía, Italia, IT, 9.16145, 45.18446
+1145.388485, Rieti, Italy, IT, 12.85918, 42.40723
+1146.376969, Neumünster, Deutschland, DE, 9.98195, 54.07477
+1147.388687, Tivoli, Italy, IT, 12.79888, 41.96092
+1148.378596, Huesca, Spain, ES, -0.4087, 42.13615
+1149.379321, Châteauroux, France, FR, 1.7, 46.81667
+1150.378606, Jaca, Spain, ES, -0.54987, 42.56898
+1151.315031, Stockholm Arlanda Airport, Sweden, SE, 17.93175, 59.65213
+1152.314036, Dusseldorf Airport, Germany, DE, 6.766375, 51.277448
+1153.376542, Graben-Neudorf, Germany, DE, 8.49243, 49.16695
+1154.379285, Carcassonne, France, FR, 2.35, 43.21667
+1155.316039, Kalmar, Sweden, SE, 16.28731346130371, 56.677486419677734
+1156.388572, San Severo, Italy, IT, 15.37604, 41.68974
+1157.379916, Thonon-les-Bains, France, FR, 6.48333, 46.36667
+1158.379295, Castres, France, FR, 2.25, 43.6
+1159.408191, Rivne, Ukraine, UA, 26.22743, 50.62308
+1160.429391, Puigcerdà, Spain, ES, 1.92819, 42.4316
+1161.376248, Bochum, Germany, DE, 7.21648, 51.48165
+1162.376689, Ingolstadt, Germany, DE, 11.42372, 48.76508
+1163.314742, Cali, Colombia, CO, -76.38699, 3.536028
+1164.377021, Offenburg, Germany, DE, 7.94495, 48.47377
+1165.388331, Nocera Inferiore, Italy, IT, 14.64014, 40.75221
+1166.313870, Munich Airport, Germany, DE, 11.785065, 48.354597
+1167.314045, Paris Beauvais Tille Airport, France, FR, 2.115519, 49.45646
+1168.380185, Cambridge, United Kingdom, GB, 0.11667, 52.2
+1169.388473, Ravenna, Italia, IT, 12.200851440429688, 44.41744613647461
+1170.400755, Otopeni, Romania, RO, 26.06667, 44.55
+1171.340810, Nijmegen, Nederland, NL, 5.852319, 51.843487
+1172.380638, Nuneaton, United Kingdom, GB, -1.46523, 52.52323
+1173.387772, Benevento, Italy, IT, 14.78614, 41.12952
+1174.412768, Kingston, United Kingdom, GB, -0.2974, 51.41259
+1175.379532, La Roche-sur-Yon, France, FR, -1.43333, 46.66667
+1176.8442476, Angers Saint-Laud, France, FR, -0.563234, 47.462906
+1177.314224, Miami, USA, US, -80.27852, 25.79518
+1178.313893, EuroAirport Basel Mulhouse Freiburg, Frankreich, FR, 7.531445503234863, 47.59954833984375
+1179.380274, Darlington, United Kingdom, GB, -1.55039, 54.52429
+1180.378415, Algeciras, Spain, ES, -5.45051, 36.13326
+1181.398408, Pila, Poland, PL, 16.73782, 53.15145
+1182.398305, Kudowa-Zdrój, Poland, PL, 16.24397, 50.44297
+1183.377049, Passau, Germany, DE, 13.44898, 48.57116
+1184.415355, Veliko Tarnovo, Bulgaria, BG, 25.62904, 43.08124
+1185.390547, Вентспилс, Латвия, LV, 21.56056, 57.38944
+1186.16739496, Lima, Suède, SE, 13.35, 60.93333
+1187.314847, Aeroporto de Frankfurt am Main, Alemanha, DE, 8.57155, 50.05009
+1188.382996, Nova Gradiska, Croatia, HR, 17.38306, 45.255
+1189.373050, Buchs, Switzerland, CH, 9.477806, 47.167595
+1190.387946, Cesenatico, Italia, IT, 12.3991, 44.19987
+1191.369500, Ostende, Bélgica, BE, 2.91185, 51.22339
+1192.6184090, Jerez, España, ES, -6.13243, 36.6936
+1193.377599, Elsinor, Dinamarca, DK, 12.6136, 56.03606
+1194.390754, Kumanovo, Mazedonien, MK, 21.71444, 42.13222
+1195.393245, Groningen, Netherlands, NL, 6.56667, 53.21917
+1196.315847, Karlstad, Sweden, SE, 13.34354, 59.44398
+1197.399315, Bacău, Romania, RO, 26.9, 46.56667
+1198.400323, Iaşi, Romania, RO, 27.6, 47.16667
+1199.329486, Darmstadt Hbf, Deutschland, DE, 8.629635, 49.872503
+1200.314030, Aéroport de Lille, France, FR, 3.107251, 50.57135
+1201.388045, Ferrara, Italy, IT, 11.62071, 44.82678
+1202.388482, Riccione, Italy, IT, 12.65689, 43.99942
+1203.378718, Oviedo, España, ES, -5.84476, 43.36029
+1204.1001687, Vigo Urzáiz, España, ES, -8.713728, 42.234189
+1205.414186, Scharnitz, Austria, AT, 11.26455, 47.38899
+1206.376741, Koblenz, Germany, DE, 7.57884, 50.35357
+1207.379146, Agde, France, FR, 3.47583, 43.31083
+1208.389839, Beirut, Lebanon, LB, 35.49442, 33.88894
+1209.393410, Venlo, Netherlands, NL, 6.16806, 51.37
+1210.380804, Taunton, United Kingdom, GB, -3.10293, 51.01494
+1211.319584, Liverpool Lime Street, United Kingdom, GB, -2.97598656063, 53.4077014895
+1212.328437, Göteborg centralstation, Sverige, SE, 11.973424, 57.709308
+1213.433270, Валансоль, Франция, FR, 5.98323, 43.83799
+1214.388011, Crotone, Italy, IT, 17.11781, 39.0851
+1215.393329, Nijmegen, Netherlands, NL, 5.85278, 51.8425
+1216.421889, Kleve, Niederrhein, Germany, DE, 6.13865, 51.78826
+1217.406378, City of San Marino, San Marino, SM, 12.44639, 43.93667
+1218.315082, Aeropuerto Florencia Peretola, Italia, IT, 11.19907, 43.80219
+1219.377168, Salzgitter, Germany, DE, 10.33144, 52.15256
+1220.398226, Gliwice, Poland, PL, 18.67658, 50.29761
+1221.436016, Montpon-Menesterol, France, FR, 0.16667, 45.0
+1222.388545, San Giovanni Rotondo, Italy, IT, 15.71905, 41.70494
+1223.452631, Łódź, Poland, PL, 19.46667, 51.75
+1224.379921, Toulon, France, FR, 5.9311119, 43.1251606
+1225.378576, Gandía, España, ES, -0.18385499715805054, 38.96677017211914
+1226.413459, Stansted, United Kingdom, GB, 0.2, 51.9
+1227.445805, Orte, Italy, IT, 12.38537, 42.45933
+1228.388453, 普拉托, 意大利, IT, 11.09092, 43.88425
+1229.393974, Tromsø, Norway, NO, 18.95508, 69.6489
+1230.377151, Rostock, Germany, DE, 12.14049, 54.0887
+1231.1002967, Sarriá, España, ES, -7.418822, 42.784049
+1232.388514, Russi, Italy, IT, 12.03222, 44.3725
+1233.388508, Rovereto, Italy, IT, 11.03868, 45.8896
+1234.313873, Memmingen Airport, Germany, DE, 10.240169525146484, 47.99782943725586
+1235.329586, Ulm Hbf, Germany, DE, 9.982224, 48.399432
+1236.405987, Enköping, Sverige, SE, 17.07768, 59.63607
+1237.405978, Ängelholm, Sverige, SE, 12.8666667, 56.25
+1238.378499, Calella, Espagne, ES, 2.66781, 41.61802
+1239.398275, Kielce, Poland, PL, 20.62752, 50.87033
+1240.398185, Busko-Zdrój, Poland, PL, 20.71884, 50.47078
+1241.361911, Lyon-Perrache, France, FR, 4.816303, 45.736639
+1242.379884, Sens, France, FR, 3.28333, 48.2
+1243.368784, Baku, Azerbaijan, AZ, 49.89201, 40.37767
+1244.329502, Düren, Germany, DE, 6.482031, 50.809395
+1245.361945, Marseille-St-Charles, France, FR, 5.381949, 43.303816
+1246.398332, Lubin, Poland, PL, 16.20149, 51.40089
+1247.453056, Cieplice Śląskie Zdrój, Poland, PL, 15.68367, 50.86545
+1248.390637, Подгорица, Черногория, ME, 19.26361, 42.44111
+1249.379932, Troyes, France, FR, 4.08333, 48.3
+1250.369470, Mons, Belgium, BE, 3.9527032375335693, 50.453914642333984
+1251.448388, Alessandria, Italy, IT, 8.61894, 44.91245
+1252.378668, Marbella, Hiszpania, ES, -4.88583, 36.51543
+1253.367284, Brussels-Central, Belgium, BE, 4.357062, 50.845496
+1254.378483, Blanes, Spain, ES, 2.79036, 41.67419
+1255.430566, L'Hospitalet de Llobregat, Spain, ES, 2.10028, 41.35967
+1256.472515, Schemmerhofen, Germany, DE, 9.78333, 48.1833
+1257.376932, Mörfelden-Walldorf, Germany, DE, 8.58361, 49.99472

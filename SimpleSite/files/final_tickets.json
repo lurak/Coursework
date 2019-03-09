@@ -1,0 +1,2630 @@
+{
+    "-780562884/8013701886409925437": {
+        "departureTime": "2019-03-15T15:50:00.000+02:00",
+        "ar_time": "2019-03-16T12:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Yatsiv",
+        "cID": "3176",
+        "price": 45.64,
+        "segment": [
+            -1646869832
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430 109 (Lviv, Striyskaya 109)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786962,
+                "longitude": 24.017288
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-780562884/1345384971/8013701886409925437"
+    },
+    "-1473254703/5150258078023972669": {
+        "departureTime": "2019-03-15T16:30:00.000+02:00",
+        "ar_time": "2019-03-16T04:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "SVD Trans",
+        "cID": "3010",
+        "price": 52.48,
+        "segment": [
+            797974422
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.8396219509872,
+                "longitude": 23.9950949083103
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1473254703/1345384971/5150258078023972669"
+    },
+    "61680929/4706034519863280957": {
+        "departureTime": "2019-03-15T16:25:00.000+02:00",
+        "ar_time": "2019-03-16T06:45:00.000+01:00",
+        "stops": "0",
+        "companyName": "Musil Tour",
+        "cID": "2943",
+        "price": 45.18,
+        "segment": [
+            -1647236693
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430 109 (Lviv, Striyskaya 109)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786962,
+                "longitude": 24.017288
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/61680929/1345384971/4706034519863280957"
+    },
+    "-732753926/4778152372731540285": {
+        "departureTime": "2019-03-15T20:50:00.000+02:00",
+        "ar_time": "2019-03-16T14:15:00.000+01:00",
+        "stops": "0",
+        "companyName": "Yatsiv",
+        "cID": "3176",
+        "price": 41.08,
+        "segment": [
+            1206874170
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430 109 (Lviv, Striyskaya 109)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786962,
+                "longitude": 24.017288
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-732753926/1345384971/4778152372731540285"
+    },
+    "-1762970304/7588407383646622013": {
+        "departureTime": "2019-03-15T17:15:00.000+02:00",
+        "ar_time": "2019-03-16T08:50:00.000+01:00",
+        "stops": "0",
+        "companyName": "DMD Group",
+        "cID": "3143",
+        "price": 45.64,
+        "segment": [
+            -2069678386
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, A\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, Avtovoksal)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.788596,
+                "longitude": 24.013646
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1762970304/1345384971/7588407383646622013"
+    },
+    "1943110197/7729673861214325053": {
+        "departureTime": "2019-03-15T18:00:00.000+02:00",
+        "ar_time": "2019-03-16T09:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Ttbus",
+        "cID": "2985",
+        "price": 45.64,
+        "segment": [
+            389448079
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430 109 (Lviv, Striyskaya 109)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786962,
+                "longitude": 24.017288
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1943110197/1345384971/7729673861214325053"
+    },
+    "-2094158647/5726423001806688573": {
+        "departureTime": "2019-03-15T03:45:00.000+02:00",
+        "ar_time": "2019-03-15T17:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Vilartrans",
+        "cID": "3439",
+        "price": 52.48,
+        "segment": [
+            -39792697
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, A\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, Avtovoksal)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.788596,
+                "longitude": 24.013646
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-2094158647/1345384971/5726423001806688573"
+    },
+    "-2029607222/6155122374367129661": {
+        "departureTime": "2019-03-15T16:00:00.000+02:00",
+        "ar_time": "2019-03-16T08:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Pkp Denis",
+        "cID": "3179",
+        "price": 45.64,
+        "segment": [
+            102329998
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, A\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, Avtovoksal)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.788596,
+                "longitude": 24.013646
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-2029607222/1345384971/6155122374367129661"
+    },
+    "926141349/7796967305928456253": {
+        "departureTime": "2019-03-15T20:00:00.000+02:00",
+        "ar_time": "2019-03-16T10:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Lino\u017e",
+        "cID": "2988",
+        "price": 54.31,
+        "segment": [
+            -535408453
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, A\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, Avtovoksal)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.788596,
+                "longitude": 24.013646
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/926141349/1345384971/7796967305928456253"
+    },
+    "1934820878/4852182542050476349": {
+        "departureTime": "2019-03-15T15:20:00.000+02:00",
+        "ar_time": "2019-03-16T07:50:00.000+01:00",
+        "stops": "0",
+        "companyName": "Ecolines",
+        "cID": "1051",
+        "price": 44.97,
+        "segment": [
+            64826276
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430 109 (Lviv, Striyskaya 109)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786962,
+                "longitude": 24.017288
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1934820878/1345384971/4852182542050476349"
+    },
+    "-969418151/7509284323628378941": {
+        "departureTime": "2019-03-15T20:20:00.000+02:00",
+        "ar_time": "2019-03-16T13:16:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 47.29,
+        "segment": [
+            -855473097,
+            1274588440
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u0430\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, bus main station)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83876,
+                "longitude": 23.9957
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha-Libe\u0148, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.101261,
+                "longitude": 14.501434
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-969418151/1345384971/7509284323628378941"
+    },
+    "-309534901/3698394664495890749": {
+        "departureTime": "2019-03-15T05:45:00.000+02:00",
+        "ar_time": "2019-03-15T19:16:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 42.73,
+        "segment": [
+            1699746908,
+            -1354885874
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u0430\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, bus main station)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83876,
+                "longitude": 23.9957
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha-Libe\u0148, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.101261,
+                "longitude": 14.501434
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-309534901/1345384971/3698394664495890749"
+    },
+    "-475154666/7292303498195201853": {
+        "departureTime": "2019-03-15T05:45:00.000+02:00",
+        "ar_time": "2019-03-15T19:23:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 43.19,
+        "segment": [
+            1699746908,
+            1049694742
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u0430\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, bus main station)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83876,
+                "longitude": 23.9957
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha hlavn\u00ed n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.083058,
+                "longitude": 14.436037
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-475154666/1345384971/7292303498195201853"
+    },
+    "1475540483/8385505106572112701": {
+        "departureTime": "2019-03-15T21:05:00.000+02:00",
+        "ar_time": "2019-03-16T13:16:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 47.29,
+        "segment": [
+            -523954247,
+            1274588440
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "Lviv, bus station Striyskyi",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78678,
+                "longitude": 24.01648
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha-Libe\u0148, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.101261,
+                "longitude": 14.501434
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1475540483/1345384971/8385505106572112701"
+    },
+    "-1555462337/6428384249167165501": {
+        "departureTime": "2019-03-15T06:20:00.000+02:00",
+        "ar_time": "2019-03-15T19:16:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 42.73,
+        "segment": [
+            1337826188,
+            -1354885874
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "Lviv, bus station Striyskyi",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78678,
+                "longitude": 24.01648
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha-Libe\u0148, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.101261,
+                "longitude": 14.501434
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1555462337/1345384971/6428384249167165501"
+    },
+    "-1135037916/7955164892503561533": {
+        "departureTime": "2019-03-15T20:20:00.000+02:00",
+        "ar_time": "2019-03-16T13:23:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 47.74,
+        "segment": [
+            -855473097,
+            -615798240
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u0430\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b (Lviv, bus main station)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83876,
+                "longitude": 23.9957
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha hlavn\u00ed n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.083058,
+                "longitude": 14.436037
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1135037916/1345384971/7955164892503561533"
+    },
+    "-1721082102/5218095617220440893": {
+        "departureTime": "2019-03-15T06:20:00.000+02:00",
+        "ar_time": "2019-03-15T19:23:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 43.19,
+        "segment": [
+            1337826188,
+            1049694742
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "Lviv, bus station Striyskyi",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78678,
+                "longitude": 24.01648
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha hlavn\u00ed n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.083058,
+                "longitude": 14.436037
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1721082102/1345384971/5218095617220440893"
+    },
+    "1309920718/4130213549730640957": {
+        "departureTime": "2019-03-15T21:05:00.000+02:00",
+        "ar_time": "2019-03-16T13:23:00.000+01:00",
+        "stops": "1",
+        "companyName": "Leo Express",
+        "cID": "2864",
+        "price": 47.74,
+        "segment": [
+            -523954247,
+            -615798240
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "station",
+                "name": "Lviv, bus station Striyskyi",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78678,
+                "longitude": 24.01648
+            },
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.901557,
+                "longitude": 18.363119
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "station",
+                "name": "Bohum\u00edn, Autobusov\u00e9 N\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Bohum\u00edn",
+                "latitude": 49.899283,
+                "longitude": 18.353739
+            },
+            {
+                "positionType": "station",
+                "name": "Praha hlavn\u00ed n\u00e1dra\u017e\u00ed",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.083058,
+                "longitude": 14.436037
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1309920718/1345384971/4130213549730640957"
+    },
+    "794796155/6227168961213593405": {
+        "departureTime": "2019-03-15T18:15:00.000+01:00",
+        "ar_time": "2019-03-16T06:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 51.41,
+        "segment": [
+            419588611
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "BS , pl.4",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "BS \u017delivsk\u00e9h\u043e, pl.2",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/794796155/1345384971/6227168961213593405"
+    },
+    "-1480321497/3629706898509156669": {
+        "departureTime": "2019-03-15T21:00:00.000+01:00",
+        "ar_time": "2019-03-16T11:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 39.85,
+        "segment": [
+            -616418241
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u21168, 1 Dvortsova sq.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1480321497/1345384971/3629706898509156669"
+    },
+    "1268340876/8662747977646174013": {
+        "departureTime": "2019-03-15T16:30:00.000+02:00",
+        "ar_time": "2019-03-16T05:00:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 52.58,
+        "segment": [
+            734451327
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Railway Station, luggage space, pl. Dvortsova, 1",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1268340876/1345384971/8662747977646174013"
+    },
+    "1438571560/5859805865490657341": {
+        "departureTime": "2019-03-15T20:50:00.000+01:00",
+        "ar_time": "2019-03-16T14:05:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 35.87,
+        "segment": [
+            154412175
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc, pl.8",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1438571560/1345384971/5859805865490657341"
+    },
+    "-833607767/4843142499197530173": {
+        "departureTime": "2019-03-15T22:10:00.000+01:00",
+        "ar_time": "2019-03-16T13:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 49.81,
+        "segment": [
+            -245450013
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u0432\u0443\u043b. \u0421\u0442\u0440\u0438\u0439\u0441\u044c\u043a\u0430, 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "\u041f\u0440\u0430\u0433\u0430 (\u0424\u043b\u043e\u0440\u0435\u043d\u0446), \u041a\u0436\u0456\u0436\u043a\u043e\u0432\u0430, 4",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-833607767/1345384971/4843142499197530173"
+    },
+    "-1367830600/3842501014597956413": {
+        "departureTime": "2019-03-15T20:00:00.000+01:00",
+        "ar_time": "2019-03-16T10:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 55.38,
+        "segment": [
+            -1441916324
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1367830600/1345384971/3842501014597956413"
+    },
+    "876693596/4059796500744860477": {
+        "departureTime": "2019-03-15T18:40:00.000+01:00",
+        "ar_time": "2019-03-16T06:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 51.41,
+        "segment": [
+            895218234
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Train station",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "BS \u017delivsk\u00e9h\u043e, pl.2",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/876693596/1345384971/4059796500744860477"
+    },
+    "144710533/6071207909953401661": {
+        "departureTime": "2019-03-15T17:30:00.000+02:00",
+        "ar_time": "2019-03-16T06:15:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 53.79,
+        "segment": [
+            620180505
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "GasSt. WOG",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "BS \u017delivsk\u00e9h\u043e, pl.2",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/144710533/1345384971/6071207909953401661"
+    },
+    "512838912/7815525837990867005": {
+        "departureTime": "2019-03-15T16:25:00.000+02:00",
+        "ar_time": "2019-03-16T06:45:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 47.82,
+        "segment": [
+            994605447
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Cafe Kazka near the bus station, 109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/512838912/1345384971/7815525837990867005"
+    },
+    "-1864467946/6139362121666814781": {
+        "departureTime": "2019-03-15T17:50:00.000+01:00",
+        "ar_time": "2019-03-16T08:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 49.81,
+        "segment": [
+            1172016696
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u0443\u043b. \u0421\u0442\u0440\u044b\u0439\u0441\u044c\u043a\u0430, 109, \u0410\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b \u0421\u0442\u0440\u044b\u0439\u0441\u044c\u043a\u0438\u0439",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "ul. Krizikova, 6, \u0410\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b Florenc, \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u21167 - 8",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1864467946/1345384971/6139362121666814781"
+    },
+    "-1491587814/7958543803958387517": {
+        "departureTime": "2019-03-15T16:00:00.000+02:00",
+        "ar_time": "2019-03-16T08:00:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 30.48,
+        "segment": [
+            1426798072
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc, pl.19",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1491587814/1345384971/7958543803958387517"
+    },
+    "-55130995/7221920447866488125": {
+        "departureTime": "2019-03-15T17:45:00.000+02:00",
+        "ar_time": "2019-03-16T10:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 47.82,
+        "segment": [
+            2057889629
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str., pl.4",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-55130995/1345384971/7221920447866488125"
+    },
+    "-1933511025/7663276380633583933": {
+        "departureTime": "2019-03-15T21:40:00.000+01:00",
+        "ar_time": "2019-03-16T12:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 37.86,
+        "segment": [
+            1915225296
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc, pl.9",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1933511025/1345384971/7663276380633583933"
+    },
+    "-2090064068/8317380453326873405": {
+        "departureTime": "2019-03-15T20:25:00.000+01:00",
+        "ar_time": "2019-03-16T11:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 39.85,
+        "segment": [
+            -1092282998
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-2090064068/1345384971/8317380453326873405"
+    },
+    "1385427362/8097828690886686525": {
+        "departureTime": "2019-03-15T15:00:00.000+02:00",
+        "ar_time": "2019-03-16T07:25:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 39.85,
+        "segment": [
+            1106604563
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u21168, 1 Dvortsova sq.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1385427362/1345384971/8097828690886686525"
+    },
+    "1758826312/8825427238304567613": {
+        "departureTime": "2019-03-15T14:30:00.000+02:00",
+        "ar_time": "2019-03-16T05:20:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 37.86,
+        "segment": [
+            863174208
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Railway Station, luggage space, pl. Dvortsova, 1",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1758826312/1345384971/8825427238304567613"
+    },
+    "-851267055/4987559889227311933": {
+        "departureTime": "2019-03-15T14:30:00.000+02:00",
+        "ar_time": "2019-03-16T07:25:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 39.85,
+        "segment": [
+            -1861284608
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-851267055/1345384971/4987559889227311933"
+    },
+    "-362108289/5426373794795706685": {
+        "departureTime": "2019-03-15T14:00:00.000+02:00",
+        "ar_time": "2019-03-16T05:20:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 37.86,
+        "segment": [
+            -962751883
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Cafe Kazka near the bus station, 109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-362108289/1345384971/5426373794795706685"
+    },
+    "-413452344/5348114096385503293": {
+        "departureTime": "2019-03-15T17:30:00.000+02:00",
+        "ar_time": "2019-03-16T05:50:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 53.79,
+        "segment": [
+            -1217733542
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "GasSt. WOG",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "\u00daAN Florenc , pl.8",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-413452344/1345384971/5348114096385503293"
+    },
+    "-1353534872/8527905880688190269": {
+        "departureTime": "2019-03-15T03:45:00.000+02:00",
+        "ar_time": "2019-03-15T17:40:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 59.78,
+        "segment": [
+            -854825812
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "4 Krzizikova str.",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1353534872/1345384971/8527905880688190269"
+    },
+    "-1672665193/8596611351450761277": {
+        "departureTime": "2019-03-15T21:40:00.000+01:00",
+        "ar_time": "2019-03-16T15:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 39.85,
+        "segment": [
+            156034650
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1672665193/1345384971/8596611351450761277"
+    },
+    "-857759257/3979057240556126525": {
+        "departureTime": "2019-03-15T15:50:00.000+02:00",
+        "ar_time": "2019-03-16T12:20:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 40.89,
+        "segment": [
+            -212343249
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc, pl.8",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-857759257/1345384971/3979057240556126525"
+    },
+    "-2045953052/7089001647484191037": {
+        "departureTime": "2019-03-15T17:10:00.000+02:00",
+        "ar_time": "2019-03-16T09:00:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 32.65,
+        "segment": [
+            -687788740
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u21168, 1 Dvortsova sq.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-2045953052/1345384971/7089001647484191037"
+    },
+    "-2125129780/8239739422188652861": {
+        "departureTime": "2019-03-15T18:00:00.000+01:00",
+        "ar_time": "2019-03-16T11:55:00.000+01:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 55.79,
+        "segment": [
+            -146624078
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "109 Strijska str.",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-2125129780/1345384971/8239739422188652861"
+    },
+    "193091801/3922205892014001469": {
+        "departureTime": "2019-03-15T17:00:00.000+02:00",
+        "ar_time": "2019-03-16T08:50:00.000+02:00",
+        "stops": "0",
+        "companyName": "Infobus",
+        "cID": "2586",
+        "price": 39.85,
+        "segment": [
+            1607586119
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "225 Bogdana Chmelnyckogo str., AS N2",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.786877,
+                "longitude": 24.017414
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Roztyly",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08944027,
+                "longitude": 14.44114208
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/193091801/1345384971/3922205892014001469"
+    },
+    "-1828628184/5004173522839950653": {
+        "departureTime": "2019-03-15T20:50:00.000+02:00",
+        "ar_time": "2019-03-16T14:05:00.000+02:00",
+        "stops": "0",
+        "companyName": "Eurobus",
+        "cID": "3084",
+        "price": 33.95,
+        "segment": [
+            -1806102370
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Lviv, AW, ul. Stryjska 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83877,
+                "longitude": 23.99571
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, AB 'Florenc', ul. Krizikova 4",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1828628184/1345384971/5004173522839950653"
+    },
+    "-1364330857/3634252261256803389": {
+        "departureTime": "2019-03-15T21:40:00.000+01:00",
+        "ar_time": "2019-03-16T15:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Agat",
+        "cID": "2876",
+        "price": 43.45,
+        "segment": [
+            640601327
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Lviv, Avtovokzal, vul. Stryjska, 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83877,
+                "longitude": 23.99571
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, Dworzec Autobusowy Florenc, st.6",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1364330857/1345384971/3634252261256803389"
+    },
+    "1334830013/5137027611573171261": {
+        "departureTime": "2019-03-15T17:45:00.000+02:00",
+        "ar_time": "2019-03-16T08:45:00.000+02:00",
+        "stops": "0",
+        "companyName": "Eurobus",
+        "cID": "3084",
+        "price": 53.77,
+        "segment": [
+            -587938469
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Lviv, Dworzec Autobusowy",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83877,
+                "longitude": 23.99571
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, DA 'Florenc', ul. Krizikova 6",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1334830013/1345384971/5137027611573171261"
+    },
+    "-1308001680/7946129170907546941": {
+        "departureTime": "2019-03-15T03:35:00.000+01:00",
+        "ar_time": "2019-03-15T17:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Eurobus",
+        "cID": "3084",
+        "price": 43.45,
+        "segment": [
+            1934347912
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Lviv, D.A., ul. Stryjska 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83877,
+                "longitude": 23.99571
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, D.A. Florenc, ul Kri\u017cikova 4",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1308001680/1345384971/7946129170907546941"
+    },
+    "2141957062/7020365715676017725": {
+        "departureTime": "2019-03-15T20:25:00.000+02:00",
+        "ar_time": "2019-03-16T11:40:00.000+02:00",
+        "stops": "0",
+        "companyName": "Eurobus",
+        "cID": "3084",
+        "price": 46.17,
+        "segment": [
+            1161573220
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Lviv, Dw.PKS, ul. Stryjska 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83877,
+                "longitude": 23.99571
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, Florenc, Pod Vytopnou, 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/2141957062/1345384971/7020365715676017725"
+    },
+    "-448105026/7941641891285593917": {
+        "departureTime": "2019-03-15T21:00:00.000+01:00",
+        "ar_time": "2019-03-16T11:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Eurobus",
+        "cID": "3084",
+        "price": 46.17,
+        "segment": [
+            425767532
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Lviv, Dw.PKS, ul. Dworcowa 1",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83877,
+                "longitude": 23.99571
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, Florenc, Pod Vytopnou, 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-448105026/1345384971/7941641891285593917"
+    },
+    "1544066740/5075915639485909309": {
+        "departureTime": "2019-03-15T18:40:00.000+01:00",
+        "ar_time": "2019-03-16T06:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Eurobus",
+        "cID": "3084",
+        "price": 50.24,
+        "segment": [
+            1387880780
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Lviv, Dworzec kolejowy, ul. Dvirtseva 1",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.83877,
+                "longitude": 23.99571
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, Dw. Autobusowy Zelivskeho, stanowisko 2",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1544066740/1345384971/5075915639485909309"
+    },
+    "10017813/6139101665987688253": {
+        "departureTime": "2019-03-15T15:50:00.000+02:00",
+        "ar_time": "2019-03-16T12:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 35.1,
+        "segment": [
+            2082103850
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/10017813/1345384971/6139101665987688253"
+    },
+    "-799261728/4058927937763496253": {
+        "departureTime": "2019-03-15T17:10:00.000+02:00",
+        "ar_time": "2019-03-16T08:50:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 31.94,
+        "segment": [
+            -267332770
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.8396219509872,
+                "longitude": 23.9950949083103
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-799261728/1345384971/4058927937763496253"
+    },
+    "-1434336633/3633087058672174397": {
+        "departureTime": "2019-03-15T17:30:00.000+02:00",
+        "ar_time": "2019-03-16T06:15:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 58.5,
+        "segment": [
+            -1186720496
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus stop \"Gas station WOG\", prospect Vyacheslav Chornovil; house 107",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.86784,
+                "longitude": 24.01558
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, N\u00e1kladov\u00e9 N\u00e1dra\u017e\u00ed \u017di\u017ekov",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.0848848,
+                "longitude": 14.4703301
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1434336633/1345384971/3633087058672174397"
+    },
+    "58073676/8026919189475246397": {
+        "departureTime": "2019-03-15T15:20:00.000+02:00",
+        "ar_time": "2019-03-16T07:50:00.000+01:00",
+        "stops": "1",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 52.95,
+        "segment": [
+            -429546593,
+            -929464705
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            },
+            {
+                "positionType": "busstation",
+                "name": "Katowice, Dworzec Autobusowy",
+                "countryCode": "PL",
+                "cityName": "Katowice",
+                "latitude": 50.2626266479,
+                "longitude": 19.0172481537
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Katowice, Dworzec Autobusowy",
+                "countryCode": "PL",
+                "cityName": "Katowice",
+                "latitude": 50.2626266479,
+                "longitude": 19.0172481537
+            },
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/58073676/1345384971/8026919189475246397"
+    },
+    "-1298883129/8305277836547345725": {
+        "departureTime": "2019-03-15T21:40:00.000+02:00",
+        "ar_time": "2019-03-16T15:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 43.34,
+        "segment": [
+            -469258944
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1298883129/1345384971/8305277836547345725"
+    },
+    "1373470476/5077901387433529661": {
+        "departureTime": "2019-03-15T14:30:00.000+02:00",
+        "ar_time": "2019-03-16T04:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 33.76,
+        "segment": [
+            395122619
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.8396219509872,
+                "longitude": 23.9950949083103
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1373470476/1345384971/5077901387433529661"
+    },
+    "1957281298/3850981719366854461": {
+        "departureTime": "2019-03-15T17:45:00.000+02:00",
+        "ar_time": "2019-03-16T10:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 47.92,
+        "segment": [
+            1529264252
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1957281298/1345384971/3850981719366854461"
+    },
+    "-1576718220/5933297090052060989": {
+        "departureTime": "2019-03-15T20:50:00.000+02:00",
+        "ar_time": "2019-03-16T14:05:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 35.1,
+        "segment": [
+            -679677831
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1576718220/1345384971/5933297090052060989"
+    },
+    "-1341602704/8318824919567319357": {
+        "departureTime": "2019-03-15T21:00:00.000+02:00",
+        "ar_time": "2019-03-16T11:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 43.47,
+        "segment": [
+            1819204392
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.8396219509872,
+                "longitude": 23.9950949083103
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1341602704/1345384971/8318824919567319357"
+    },
+    "-976838165/3834654770659092285": {
+        "departureTime": "2019-03-15T14:00:00.000+02:00",
+        "ar_time": "2019-03-16T07:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 40.95,
+        "segment": [
+            -1305691851
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-976838165/1345384971/3834654770659092285"
+    },
+    "-1787494357/3922437837091534653": {
+        "departureTime": "2019-03-15T20:25:00.000+02:00",
+        "ar_time": "2019-03-16T11:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 43.47,
+        "segment": [
+            1789805812
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1787494357/1345384971/3922437837091534653"
+    },
+    "18242091/5078147608594446141": {
+        "departureTime": "2019-03-15T21:40:00.000+02:00",
+        "ar_time": "2019-03-16T15:30:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 44.9,
+        "segment": [
+            252691873
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/18242091/1345384971/5078147608594446141"
+    },
+    "-196949715/3775539755240091453": {
+        "departureTime": "2019-03-15T18:00:00.000+02:00",
+        "ar_time": "2019-03-16T09:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 56.12,
+        "segment": [
+            946658147
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-196949715/1345384971/3775539755240091453"
+    },
+    "-1734930353/4778448368554235197": {
+        "departureTime": "2019-03-15T18:40:00.000+02:00",
+        "ar_time": "2019-03-16T06:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 55.9,
+        "segment": [
+            -1985286884
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "\u041b\u044c\u0432\u0456\u0432, \u041b\u044c\u0432\u0456\u0301\u0432-\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0301\u0439 (Lviv, Lviv Glavny)",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.8396219509872,
+                "longitude": 23.9950949083103
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, N\u00e1kladov\u00e9 N\u00e1dra\u017e\u00ed \u017di\u017ekov",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.0848848,
+                "longitude": 14.4703301
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1734930353/1345384971/4778448368554235197"
+    },
+    "314973616/6446466821894124605": {
+        "departureTime": "2019-03-15T18:15:00.000+02:00",
+        "ar_time": "2019-03-16T06:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 55.9,
+        "segment": [
+            62226381
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Prague, N\u00e1kladov\u00e9 N\u00e1dra\u017e\u00ed \u017di\u017ekov",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.0848848,
+                "longitude": 14.4703301
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/314973616/1345384971/6446466821894124605"
+    },
+    "2046186935/8173277384895185213": {
+        "departureTime": "2019-03-15T18:00:00.000+02:00",
+        "ar_time": "2019-03-16T11:45:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 55.9,
+        "segment": [
+            -696774777
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/2046186935/1345384971/8173277384895185213"
+    },
+    "1099499114/5436540141215442749": {
+        "departureTime": "2019-03-15T20:00:00.000+02:00",
+        "ar_time": "2019-03-16T10:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 55.5,
+        "segment": [
+            1109777267
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1099499114/1345384971/5436540141215442749"
+    },
+    "891087119/5350667029426943037": {
+        "departureTime": "2019-03-15T17:00:00.000+02:00",
+        "ar_time": "2019-03-16T08:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 39.93,
+        "segment": [
+            -1463766910
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "L'Viv, \u0410\u0432\u0442\u043e\u0441\u0442\u0430\u043d\u0446\u0456\u044f \u21162",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.864073,
+                "longitude": 24.051631
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, Roztyly",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.03802,
+                "longitude": 14.47632
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/891087119/1345384971/5350667029426943037"
+    },
+    "291535622/4129045804984653117": {
+        "departureTime": "2019-03-15T16:00:00.000+02:00",
+        "ar_time": "2019-03-16T08:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 33.15,
+        "segment": [
+            -1629470321
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/291535622/1345384971/4129045804984653117"
+    },
+    "-817909082/8305820982606121277": {
+        "departureTime": "2019-03-15T03:45:00.000+02:00",
+        "ar_time": "2019-03-15T17:40:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 68.29,
+        "segment": [
+            149904202
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-817909082/1345384971/8305820982606121277"
+    },
+    "-1015072615/7443677521024348989": {
+        "departureTime": "2019-03-15T14:00:00.000+02:00",
+        "ar_time": "2019-03-16T04:20:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 33.76,
+        "segment": [
+            1525995963
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus stop \"Cafe Kazka\" (opposite to bus station), Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.7882,
+                "longitude": 24.0167
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1015072615/1345384971/7443677521024348989"
+    },
+    "1419414889/3925524067007163197": {
+        "departureTime": "2019-03-15T17:30:00.000+02:00",
+        "ar_time": "2019-03-16T05:50:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 58.5,
+        "segment": [
+            -216767917
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus stop \"Gas station WOG\", prospect Vyacheslav Chornovil; house 107",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.86784,
+                "longitude": 24.01558
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1419414889/1345384971/3925524067007163197"
+    },
+    "-785598012/7372808452130301757": {
+        "departureTime": "2019-03-15T22:10:00.000+02:00",
+        "ar_time": "2019-03-16T13:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 54.17,
+        "segment": [
+            -1843714769
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-785598012/1345384971/7372808452130301757"
+    },
+    "-2147183918/3615656522984748861": {
+        "departureTime": "2019-03-15T17:50:00.000+02:00",
+        "ar_time": "2019-03-16T08:00:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 49.91,
+        "segment": [
+            854065260
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Praha, \u00daAN Florenc",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.089449,
+                "longitude": 14.440792
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-2147183918/1345384971/3615656522984748861"
+    },
+    "-1469477410/7651952571026912317": {
+        "departureTime": "2019-03-15T21:40:00.000+02:00",
+        "ar_time": "2019-03-16T12:25:00.000+01:00",
+        "stops": "0",
+        "companyName": "Busfor",
+        "cID": "3397",
+        "price": 39.11,
+        "segment": [
+            -465890214
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Central\", Stryjskaya street; house 109",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "latitude": 49.78694,
+                "longitude": 24.01623
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Bus station \"Florenc\", Pod Vytopnou street; house 13/10",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "latitude": 50.08941,
+                "longitude": 14.43961
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1469477410/1345384971/7651952571026912317"
+    }
+}
