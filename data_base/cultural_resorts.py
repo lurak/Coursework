@@ -1,6 +1,6 @@
 import requests
 import re
-from sparta import decode
+from decode_text import decode
 
 
 def few_resorts():
@@ -44,6 +44,7 @@ def many_resorts():
     for item in range(len(resorts)):
         dictionary[resorts[item]] = resorts[item]
     return dictionary
+
 
 def dict_conecter_cultural(dict_1, dict_2):
     """
