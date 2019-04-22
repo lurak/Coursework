@@ -1,5 +1,6 @@
 import requests
 import re
+from py_translator import Translator
 
 
 def ski_resorts():
@@ -45,7 +46,8 @@ def ski_resorts():
             letters.pop()
         cities[word] = ''.join(letters)
     for item in range(len(resorts)):
-        dictionary[resorts[item]] = cities[item]
+        value = Translator().translate(text=resorts[item], dest='en').text
+        dictionary[value] = value
     return dictionary
 
 
@@ -63,11 +65,13 @@ def austria_resorts():
     while len(big_city) != 5:
         big_city.remove('Інсбрук')
     for item in range(len(resorts)):
-        dictionary[resorts[item]] = big_city[item]
+        value = Translator().translate(text=resorts[item], dest='en').text
+        city = Translator().translate(text=big_city[item], dest='en').text
+        dictionary[value] = city
     return dictionary
 
 
-def dict_connecter_ski(dict_1, dict_2):
+def dict_conecter_ski(dict_1, dict_2):
     """
     (dict, dict) -> dict
 
