@@ -1,8 +1,8 @@
-Славське, Славське
-Лівіньо, Лівіньо
-Шладмінг, Шладмінг
-Формігаль, Формігаль
-Рованіемі, Рованіємі
-Санкт-Антон-ам-Арльберг, Санкт-Антон-ам-Арльберг
-Сент-Фуа-ла-Гранд, Сент-Фуа-ла-Гранд
-Церматт, Церматт
+Slavske, Slavske
+Livigno, Livigno
+Schladming, Schladming
+Formigal, Formigal
+Rovaniemi, Rovaniemi
+St.-Anton-am-Arlberg, St.-Anton-am-Arlberg
+Saint-Foix-la-Grand, Saint-Foix-la-Grand
+Zermatt, Zermatt
