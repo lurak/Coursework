@@ -1,6 +1,6 @@
+from py_translator import Translator
 import requests
 import re
-from decode_text import decode
 
 
 def few_resorts():
@@ -17,8 +17,8 @@ def few_resorts():
     resorts = re.findall('<h2>(\w+),\s\w+</h2>', site.text)
     resorts.remove("Оломоуц")
     for item in range(len(resorts)):
-        dictionary[resorts[item]] = decode(resorts[item])
-        print(resorts[item])
+        value = Translator().translate(text=resorts[item], dest='en').text
+        dictionary[value] = value
     return dictionary
 
 
@@ -41,8 +41,11 @@ def many_resorts():
         for letter in range(1, len(lst)):
             lst[letter] = lst[letter].lower()
         resorts[word] = ''.join(lst)
+    resorts.remove("Кшьонж")
+    resorts.remove("Куфштайн")
     for item in range(len(resorts)):
-        dictionary[resorts[item]] = resorts[item]
+        value = Translator().translate(text=resorts[item], dest='en').text
+        dictionary[value] = value
     return dictionary
 
 
