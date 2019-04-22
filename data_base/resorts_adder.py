@@ -27,3 +27,7 @@ def txt_process(dct, path):
 def json_writer(dct):
     with open('data.json', 'w') as fi:
          json.dump(dct, fi, indent=4)
+
+
+if __name__ == "__main__":
+    json_reader()
