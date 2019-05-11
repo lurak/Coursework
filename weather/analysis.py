@@ -85,7 +85,7 @@ class Weather:
 
     def avarage_throught_days(self, lst):
         """
-
+        Count the average temperature and return if this temperature is suitable for this season. 
         :param lst: list
         :return: bool
         """
