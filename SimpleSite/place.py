@@ -25,5 +25,18 @@ class Place:
         dist = 6371.01 * acos(sin(slat) * sin(elat) + cos(slat) * cos(elat) * cos(slon - elon))
         return dist
 
+    def wiki_information(self):
+        import requests
+        import re
+
+        info = re.findall('<p><b>.*', requests.get("https://en.wikipedia.org/wiki/{}".format(self.name)).text)[0]
+        staff = re.findall('(<.*?>)', info)
+        for tag in staff:
+            info = info.replace(tag, "")
+        self.extra_data['wiki information'] = info
+
+    def __eq__(self, place):
+        return self.name == place.name
+
     def __str__(self):
         return self.name

@@ -1,0 +1,5 @@
+1.398223, Gdańsk, Poland, PL, 18.64637, 54.35205
+2.444608, Sgonico, Italy, IT, 13.74861, 45.73639
+3.460570, Lviv, Ukraine, UA, 24.02324, 49.83826
+4.376217, Berlin, Germany, DE, 13.41053, 52.52437
+5.380553, London, United Kingdom, GB, -0.12574, 51.50853

@@ -20,3 +20,4 @@ class ResortsInfo(PlaceInfo):
         for resort in resorts.items():
             self[i] = Place(name=resort[0],
                             extra_data={"name": resort[1]})
+            i += 1

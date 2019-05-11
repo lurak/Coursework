@@ -12,7 +12,8 @@ class Array:
         """
         if size <= 0:
             raise ValueError("Array size must be > 0")
-        self._size = size
+        self._capacity = size
+        self._size = 0
         # Create the array structure using the ctypes module.
         PyArrayType = ctypes.py_object * size
         self._elements = PyArrayType()
@@ -33,7 +34,7 @@ class Array:
         :param index: index of element to return
         :return: element of array
         """
-        if not 0 <= index < len(self):
+        if not 0 <= index < self._capacity:
             raise IndexError("Array subscript out of range")
         return self._elements[index]
 
@@ -45,9 +46,10 @@ class Array:
         :param value: value to put
         :return: None
         """
-        if not 0 <= index < len(self):
+        if not 0 <= index < self._capacity:
             raise IndexError("Array subscript out of range")
         self._elements[index] = value
+        self._size += 1
 
     def clear(self, value):
         """
@@ -57,8 +59,9 @@ class Array:
         :param value: value to replace
         :return: None
         """
-        for i in range(len(self)):
+        for i in range(self._capacity):
             self._elements[i] = value
+        self._size = 0
 
     def __iter__(self):
         """
@@ -81,7 +84,7 @@ class _ArrayIterator:
 
     def __next__(self):
         if self._cur_index < len(self._array_ref):
-            entry = self._array_ref[ self._cur_index]
+            entry = self._array_ref[self._cur_index]
             self._cur_index += 1
             return entry
         else:

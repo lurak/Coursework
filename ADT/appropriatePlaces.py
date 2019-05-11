@@ -1,5 +1,5 @@
 from ADT.data_structures.linkedList import LinkedList
-from weather.analysis import Weather
+from weather_analysis import Weather
 from SimpleSite.place import Place
 
 
@@ -66,10 +66,19 @@ class AppropriatePlaces:
         """
         return self.app_cities.empty()
 
+    def pop(self):
+        """
+        Delete last element and return it
+        :return: Place
+        """
+        element = self.app_cities._head.item
+        self.app_cities._head = self.app_cities._head.next
+        self.app_cities._size -= 1
+        return element
+
     def __str__(self):
         """
         View of ADT
         :return: str
         """
         return str(self.app_cities)
-

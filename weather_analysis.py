@@ -1,5 +1,5 @@
 import json
-from weather import get_weather_json, get_info_from_json
+from weather_funcs import get_weather_json, get_info_from_json
 
 
 class Weather:
@@ -19,10 +19,14 @@ class Weather:
         Create json with weather
         :return: None
         """
-        get_weather_json(self.place, "initial.json")
-        get_info_from_json("initial.json", "weather.json")
+        try:
+            get_weather_json(self.place, "initial.json")
+            get_info_from_json("initial.json", "weather.json")
+        except:
+            pass
 
-    def reader(self):
+    @staticmethod
+    def reader():
         """
         Return dict with weather
         :return: dict
@@ -107,4 +111,3 @@ class Weather:
                 if lst[i] >= 25 or lst[i] <= 10:
                     return False
         return True
-
