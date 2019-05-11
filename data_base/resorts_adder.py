@@ -2,6 +2,9 @@ import json
 import re
 
 def json_reader():
+    """
+    Create a json file with some resorts.
+    """
     with open("data.json", encoding='utf-8') as f:
         dct = json.loads(f.read(), encoding='utf-8')
     ski = dct["ski resorts"]
@@ -17,6 +20,9 @@ def json_reader():
 
 
 def txt_process(dct, path):
+    """
+    Take name of resorts from txt file.
+    """
     with open(path, encoding="utf-8") as f:
         for line in f:
             name = re.findall('(.*),', line)
@@ -25,6 +31,9 @@ def txt_process(dct, path):
 
 
 def json_writer(dct):
+    """
+    Write these resorts to the json file. 
+    """
     with open('data.json', 'w') as fi:
          json.dump(dct, fi, indent=4)
 
