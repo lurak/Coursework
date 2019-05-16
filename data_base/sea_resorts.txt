@@ -1,5 +1,4 @@
 Odessa, Odessa
-Nikolaev, Nikolaev
 Kherson, Kherson
 Riga, Riga
 Gdansk, Gdansk
@@ -25,6 +24,4 @@ Zadar, Zadar
 Cannes, Cannes
 Murcia, Murcia
 Faro, Faro
-Bari, Bari
-San-Marino, San-Marino
 Pisa, Pisa
