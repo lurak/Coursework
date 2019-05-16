@@ -3,6 +3,4 @@ Livigno, Livigno
 Schladming, Schladming
 Formigal, Formigal
 Rovaniemi, Rovaniemi
-St.-Anton-am-Arlberg, St.-Anton-am-Arlberg
-Saint-Foix-la-Grand, Saint-Foix-la-Grand
 Zermatt, Zermatt
