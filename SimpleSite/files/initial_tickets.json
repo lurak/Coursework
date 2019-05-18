@@ -10,10 +10,10 @@
         "locationsOutsideEurope": false,
         "includeNearbyAirports": false,
         "nearbyAirportAvailable": false,
-        "searchId": "XD073E511BFD54B45A5A6F3F9D4D4B49D",
+        "searchId": "X7D20ABA794134B87B3E89D8918051454",
         "departurePosition": "460570",
         "arrivalPosition": "393147",
-        "departureDate": "2019-05-18",
+        "departureDate": "2019-05-19",
         "passengers": {
             "adults": 1,
             "children": 0,
@@ -25,12 +25,10 @@
         },
         "searchModes": {
             "bus": {
-                "status": "notavailable",
+                "status": "inprogress",
                 "resultsQty": 0,
                 "filteredResultsQty": 0,
-                "returnCodes": [
-                    131
-                ],
+                "returnCodes": [],
                 "disclaimers": [],
                 "defaultSorting": "smart",
                 "filteredOffSiteResultsQty": 0,
@@ -38,12 +36,10 @@
                 "fares": []
             },
             "flight": {
-                "status": "notavailable",
+                "status": "inprogress",
                 "resultsQty": 0,
                 "filteredResultsQty": 0,
-                "returnCodes": [
-                    131
-                ],
+                "returnCodes": [],
                 "disclaimers": [],
                 "defaultSorting": "smart",
                 "filteredOffSiteResultsQty": 0,
@@ -64,12 +60,10 @@
                 "fares": []
             },
             "train": {
-                "status": "notavailable",
+                "status": "inprogress",
                 "resultsQty": 0,
                 "filteredResultsQty": 0,
-                "returnCodes": [
-                    131
-                ],
+                "returnCodes": [],
                 "disclaimers": [],
                 "defaultSorting": "smart",
                 "filteredOffSiteResultsQty": 0,
@@ -79,7 +73,7 @@
         },
         "cursor": "",
         "featuresSupported": [],
-        "searchTriggerTime": "2019-05-18T19:45:30.036Z"
+        "searchTriggerTime": "2019-05-18T20:23:51.923Z"
     },
     "positions": {
         "393147": {

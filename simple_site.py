@@ -1,4 +1,3 @@
-import time
 from datetime import date
 import json
 from flask import Flask, render_template, request
@@ -33,7 +32,7 @@ def fle():
                   date(int(arr_date[2]), int(arr_date[1][-1]), int(arr_date[0]))
     days_number = delta.days if delta.days <= 5 else 5
 
-    start = time.time()
+
     appropriatePlaces = AppropriatePlaces(RESORTS[resortType], days_number)
 
     coefficient = price.currency_coefficient("USD")
@@ -69,4 +68,4 @@ def tickets():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, host='127.0.0.0')
+    app.run(debug=True)

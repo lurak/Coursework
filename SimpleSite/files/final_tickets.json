@@ -1,45 +1,64 @@
 {
-    "719264541/7370257747844425533": {
-        "departureTime": "2019-05-19T08:15:00.000+02:00",
-        "ar_time": "2019-05-19T13:50:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 402.92,
+    "-760303228/5930522089432181565": {
+        "departureTime": "2019-05-19T15:45:00.000+03:00",
+        "ar_time": "2019-05-20T08:35:00.000+02:00",
+        "stops": "2",
+        "companyName": "Lot Polish Airlines",
+        "cID": "97",
+        "price": 1938.31,
         "segment": [
-            -1366771516,
-            -162105258
+            -750662983,
+            -1887683607,
+            790521281
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
             },
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Warsaw Chopin Airport",
+                "countryCode": "PL",
+                "cityName": "Warsaw",
+                "iataCode": "WAW",
+                "latitude": 52.16556,
+                "longitude": 20.96694
+            },
+            {
+                "positionType": "airport",
+                "name": "Prague Vaclav Havel Airport",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "iataCode": "PRG",
+                "latitude": 50.1073,
+                "longitude": 14.26731
             }
         ],
         "stattions_ar": [
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Warsaw Chopin Airport",
+                "countryCode": "PL",
+                "cityName": "Warsaw",
+                "iataCode": "WAW",
+                "latitude": 52.16556,
+                "longitude": 20.96694
+            },
+            {
+                "positionType": "airport",
+                "name": "Prague Vaclav Havel Airport",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "iataCode": "PRG",
+                "latitude": 50.1073,
+                "longitude": 14.26731
             },
             {
                 "positionType": "airport",
@@ -51,84 +70,49 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/719264541/X7D2403CE3B864CD39B33DCABCC185A6F/7370257747844425533"
+        "url": "https://www.omio.com/search-frontend/journey/flight/-760303228/U748558B2389B4F88ABF2293AB310E7D7/5930522089432181565"
     },
-    "-1129189907/7590912095950554429": {
-        "departureTime": "2019-05-19T18:50:00.000+02:00",
-        "ar_time": "2019-05-19T20:20:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 581.34,
-        "segment": [
-            760122605
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1129189907/X7D2403CE3B864CD39B33DCABCC185A6F/7590912095950554429"
-    },
-    "-1833302037/7003436453908139325": {
-        "departureTime": "2019-05-19T18:15:00.000+02:00",
-        "ar_time": "2019-05-19T22:10:00.000+02:00",
+    "-853157634/7527014080764536637": {
+        "departureTime": "2019-05-19T10:55:00.000+03:00",
+        "ar_time": "2019-05-19T17:30:00.000+02:00",
         "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 564.3,
+        "companyName": "Turkish Airlines",
+        "cID": "96",
+        "price": 208.47,
         "segment": [
-            -494208291,
-            -1557792555
+            -2038464071,
+            -1990556395
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
             },
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Istanbul Ataturk International Airport",
+                "countryCode": "TR",
+                "cityName": "Istanbul",
+                "iataCode": "IST",
+                "latitude": 40.97667,
+                "longitude": 28.81528
             }
         ],
         "stattions_ar": [
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Istanbul Ataturk International Airport",
+                "countryCode": "TR",
+                "cityName": "Istanbul",
+                "iataCode": "IST",
+                "latitude": 40.97667,
+                "longitude": 28.81528
             },
             {
                 "positionType": "airport",
@@ -140,49 +124,49 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1833302037/X7D2403CE3B864CD39B33DCABCC185A6F/7003436453908139325"
+        "url": "https://www.omio.com/search-frontend/journey/flight/-853157634/U748558B2389B4F88ABF2293AB310E7D7/7527014080764536637"
     },
-    "-1437797164/7308889665829099837": {
-        "departureTime": "2019-05-19T14:50:00.000+02:00",
-        "ar_time": "2019-05-19T19:15:00.000+02:00",
+    "404483799/3912335537594855229": {
+        "departureTime": "2019-05-19T15:20:00.000+03:00",
+        "ar_time": "2019-05-20T11:10:00.000+02:00",
         "stops": "1",
-        "companyName": "JOON",
-        "cID": "3676",
-        "price": 529.58,
+        "companyName": "Belavia",
+        "cID": "175",
+        "price": 392.42,
         "segment": [
-            -1367383185,
-            -1412906707
+            -34783412,
+            520348220
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
             },
             {
                 "positionType": "airport",
-                "name": "Paris Charles de Gaulle Airport",
-                "countryCode": "FR",
-                "cityName": "Roissy-en-France",
-                "iataCode": "CDG",
-                "latitude": 49.0029701,
-                "longitude": 2.577134
+                "name": "Minsk International Airport",
+                "countryCode": "BY",
+                "cityName": "Minsk",
+                "iataCode": "MSQ",
+                "latitude": 53.8825,
+                "longitude": 28.0325
             }
         ],
         "stattions_ar": [
             {
                 "positionType": "airport",
-                "name": "Paris Charles de Gaulle Airport",
-                "countryCode": "FR",
-                "cityName": "Roissy-en-France",
-                "iataCode": "CDG",
-                "latitude": 49.0029701,
-                "longitude": 2.577134
+                "name": "Minsk International Airport",
+                "countryCode": "BY",
+                "cityName": "Minsk",
+                "iataCode": "MSQ",
+                "latitude": 53.8825,
+                "longitude": 28.0325
             },
             {
                 "positionType": "airport",
@@ -194,29 +178,83 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1437797164/X7D2403CE3B864CD39B33DCABCC185A6F/7308889665829099837"
+        "url": "https://www.omio.com/search-frontend/journey/flight/404483799/U748558B2389B4F88ABF2293AB310E7D7/3912335537594855229"
     },
-    "-1907824268/7161936448829142077": {
-        "departureTime": "2019-05-19T16:00:00.000+02:00",
-        "ar_time": "2019-05-19T20:40:00.000+02:00",
+    "-2084291962/5206795867819962173": {
+        "departureTime": "2019-05-19T09:05:00.000+03:00",
+        "ar_time": "2019-05-19T17:50:00.000+02:00",
         "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 561.59,
+        "companyName": "Air Baltic",
+        "cID": "85",
+        "price": 288.25,
         "segment": [
-            -1655120473,
-            -1275561205
+            196149023,
+            -2093635202
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
+            },
+            {
+                "positionType": "airport",
+                "name": "Riga International Airport",
+                "countryCode": "LV",
+                "cityName": "Skulte",
+                "iataCode": "RIX",
+                "latitude": 56.92212,
+                "longitude": 23.97936
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Riga International Airport",
+                "countryCode": "LV",
+                "cityName": "Skulte",
+                "iataCode": "RIX",
+                "latitude": 56.92212,
+                "longitude": 23.97936
+            },
+            {
+                "positionType": "airport",
+                "name": "Amsterdam Airport Schiphol",
+                "countryCode": "NL",
+                "cityName": "Rozenburg",
+                "iataCode": "AMS",
+                "latitude": 52.30907,
+                "longitude": 4.763385
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-2084291962/U748558B2389B4F88ABF2293AB310E7D7/5206795867819962173"
+    },
+    "1945108726/4717319899277257533": {
+        "departureTime": "2019-05-19T12:00:00.000+03:00",
+        "ar_time": "2019-05-19T15:15:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa Cityline ",
+        "cID": "36",
+        "price": 738.98,
+        "segment": [
+            -1219272835,
+            -1728291365
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
             },
             {
                 "positionType": "airport",
@@ -248,49 +286,49 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1907824268/X7D2403CE3B864CD39B33DCABCC185A6F/7161936448829142077"
+        "url": "https://www.omio.com/search-frontend/journey/flight/1945108726/U748558B2389B4F88ABF2293AB310E7D7/4717319899277257533"
     },
-    "1413826912/6218706325038255421": {
-        "departureTime": "2019-05-19T07:15:00.000+02:00",
-        "ar_time": "2019-05-19T10:20:00.000+02:00",
+    "-726776075/3707982471051831101": {
+        "departureTime": "2019-05-19T15:45:00.000+03:00",
+        "ar_time": "2019-05-19T18:55:00.000+02:00",
         "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 402.92,
+        "companyName": "Lot Polish Airlines",
+        "cID": "97",
+        "price": 624.79,
         "segment": [
-            209783608,
-            616610254
+            -750662983,
+            -1468831348
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
             },
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Warsaw Chopin Airport",
+                "countryCode": "PL",
+                "cityName": "Warsaw",
+                "iataCode": "WAW",
+                "latitude": 52.16556,
+                "longitude": 20.96694
             }
         ],
         "stattions_ar": [
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Warsaw Chopin Airport",
+                "countryCode": "PL",
+                "cityName": "Warsaw",
+                "iataCode": "WAW",
+                "latitude": 52.16556,
+                "longitude": 20.96694
             },
             {
                 "positionType": "airport",
@@ -302,29 +340,201 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1413826912/X7D2403CE3B864CD39B33DCABCC185A6F/6218706325038255421"
+        "url": "https://www.omio.com/search-frontend/journey/flight/-726776075/U748558B2389B4F88ABF2293AB310E7D7/3707982471051831101"
     },
-    "-653761179/7379538644242158909": {
-        "departureTime": "2019-05-19T11:45:00.000+02:00",
+    "-278498395/7237954427915162941": {
+        "departureTime": "2019-05-19T07:00:00.000+03:00",
+        "ar_time": "2019-05-19T11:55:00.000+02:00",
+        "stops": "1",
+        "companyName": "Ukraine Intl. Airlines",
+        "cID": "145",
+        "price": 518.92,
+        "segment": [
+            1792620906,
+            1164089176
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
+            },
+            {
+                "positionType": "airport",
+                "name": "Kiev Boryspil International Airport",
+                "countryCode": "UA",
+                "cityName": "Boryspil",
+                "iataCode": "KBP",
+                "latitude": 50.345,
+                "longitude": 30.895
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Kiev Boryspil International Airport",
+                "countryCode": "UA",
+                "cityName": "Boryspil",
+                "iataCode": "KBP",
+                "latitude": 50.345,
+                "longitude": 30.895
+            },
+            {
+                "positionType": "airport",
+                "name": "Amsterdam Airport Schiphol",
+                "countryCode": "NL",
+                "cityName": "Rozenburg",
+                "iataCode": "AMS",
+                "latitude": 52.30907,
+                "longitude": 4.763385
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-278498395/U748558B2389B4F88ABF2293AB310E7D7/7237954427915162941"
+    },
+    "-629120016/5202614489790435645": {
+        "departureTime": "2019-05-19T22:10:00.000+03:00",
+        "ar_time": "2019-05-20T09:50:00.000+02:00",
+        "stops": "1",
+        "companyName": "Turkish Airlines",
+        "cID": "96",
+        "price": 208.47,
+        "segment": [
+            -703676016,
+            31551830
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
+            },
+            {
+                "positionType": "airport",
+                "name": "Istanbul Ataturk International Airport",
+                "countryCode": "TR",
+                "cityName": "Istanbul",
+                "iataCode": "IST",
+                "latitude": 40.97667,
+                "longitude": 28.81528
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Istanbul Ataturk International Airport",
+                "countryCode": "TR",
+                "cityName": "Istanbul",
+                "iataCode": "IST",
+                "latitude": 40.97667,
+                "longitude": 28.81528
+            },
+            {
+                "positionType": "airport",
+                "name": "Amsterdam Airport Schiphol",
+                "countryCode": "NL",
+                "cityName": "Rozenburg",
+                "iataCode": "AMS",
+                "latitude": 52.30907,
+                "longitude": 4.763385
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-629120016/U748558B2389B4F88ABF2293AB310E7D7/5202614489790435645"
+    },
+    "-2119759611/8733949944709197885": {
+        "departureTime": "2019-05-19T19:50:00.000+03:00",
+        "ar_time": "2019-05-20T15:20:00.000+02:00",
+        "stops": "1",
+        "companyName": "pegasus",
+        "cID": "89",
+        "price": 203.82,
+        "segment": [
+            -1330471631,
+            -1275794914
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
+            },
+            {
+                "positionType": "airport",
+                "name": "Istanbul Sabiha Gokcen International Airport",
+                "countryCode": "TR",
+                "cityName": "Sultanbeyli",
+                "iataCode": "SAW",
+                "latitude": 40.89833,
+                "longitude": 29.30917
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Istanbul Sabiha Gokcen International Airport",
+                "countryCode": "TR",
+                "cityName": "Sultanbeyli",
+                "iataCode": "SAW",
+                "latitude": 40.89833,
+                "longitude": 29.30917
+            },
+            {
+                "positionType": "airport",
+                "name": "Amsterdam Airport Schiphol",
+                "countryCode": "NL",
+                "cityName": "Rozenburg",
+                "iataCode": "AMS",
+                "latitude": 52.30907,
+                "longitude": 4.763385
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-2119759611/U748558B2389B4F88ABF2293AB310E7D7/8733949944709197885"
+    },
+    "2056001468/7956300761433790781": {
+        "departureTime": "2019-05-19T12:00:00.000+03:00",
         "ar_time": "2019-05-19T17:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 435.43,
+        "stops": "2",
+        "companyName": "Lufthansa Cityline ",
+        "cID": "36",
+        "price": 672.02,
         "segment": [
-            -1290628223,
+            -1219272835,
+            -2035310261,
             -939599996
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
                 "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
             },
             {
                 "positionType": "airport",
@@ -339,58 +549,13 @@
         "stattions_ar": [
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
+                "name": "Munich Airport",
                 "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
             },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-653761179/X7D2403CE3B864CD39B33DCABCC185A6F/7379538644242158909"
-    },
-    "739010085/5851377976259205437": {
-        "departureTime": "2019-05-19T14:45:00.000+02:00",
-        "ar_time": "2019-05-19T18:35:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 564.3,
-        "segment": [
-            1904873294,
-            -1840412688
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
             {
                 "positionType": "airport",
                 "name": "Frankfurt am Main Airport",
@@ -410,890 +575,39 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/739010085/X7D2403CE3B864CD39B33DCABCC185A6F/5851377976259205437"
+        "url": "https://www.omio.com/search-frontend/journey/flight/2056001468/U748558B2389B4F88ABF2293AB310E7D7/7956300761433790781"
     },
-    "622866532/4994854037234213693": {
-        "departureTime": "2019-05-19T07:30:00.000+02:00",
-        "ar_time": "2019-05-19T12:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Austrian Airlines",
-        "cID": "81",
-        "price": 766.26,
-        "segment": [
-            1712835780,
-            88712135
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Vienna International Airport",
-                "countryCode": "AT",
-                "cityName": "Schwechat",
-                "iataCode": "VIE",
-                "latitude": 48.121095,
-                "longitude": 16.5612678
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Vienna International Airport",
-                "countryCode": "AT",
-                "cityName": "Schwechat",
-                "iataCode": "VIE",
-                "latitude": 48.121095,
-                "longitude": 16.5612678
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/622866532/X7D2403CE3B864CD39B33DCABCC185A6F/4994854037234213693"
-    },
-    "196956811/5788895134824358717": {
-        "departureTime": "2019-05-19T06:15:00.000+02:00",
-        "ar_time": "2019-05-19T10:55:00.000+02:00",
-        "stops": "1",
-        "companyName": "JOON",
-        "cID": "3676",
-        "price": 233.52,
-        "segment": [
-            254568768,
-            -1800671635
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Paris Charles de Gaulle Airport",
-                "countryCode": "FR",
-                "cityName": "Roissy-en-France",
-                "iataCode": "CDG",
-                "latitude": 49.0029701,
-                "longitude": 2.577134
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Paris Charles de Gaulle Airport",
-                "countryCode": "FR",
-                "cityName": "Roissy-en-France",
-                "iataCode": "CDG",
-                "latitude": 49.0029701,
-                "longitude": 2.577134
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/196956811/X7D2403CE3B864CD39B33DCABCC185A6F/5788895134824358717"
-    },
-    "1253202940/8302462253439535421": {
-        "departureTime": "2019-05-19T12:15:00.000+02:00",
-        "ar_time": "2019-05-19T13:35:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 581.34,
-        "segment": [
-            1576320239
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1253202940/X7D2403CE3B864CD39B33DCABCC185A6F/8302462253439535421"
-    },
-    "-1802084640/5364729756688938813": {
-        "departureTime": "2019-05-19T16:45:00.000+02:00",
-        "ar_time": "2019-05-19T21:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "British Airways",
-        "cID": "31",
-        "price": 394.54,
-        "segment": [
-            -457102973,
-            957102878
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "London Heathrow Airport",
-                "countryCode": "GB",
-                "cityName": "London",
-                "iataCode": "LHR",
-                "latitude": 51.4708554,
-                "longitude": -0.452638
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "London Heathrow Airport",
-                "countryCode": "GB",
-                "cityName": "London",
-                "iataCode": "LHR",
-                "latitude": 51.4708554,
-                "longitude": -0.452638
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1802084640/X7D2403CE3B864CD39B33DCABCC185A6F/5364729756688938813"
-    },
-    "-1936468190/3564393738641368893": {
-        "departureTime": "2019-05-19T18:40:00.000+02:00",
-        "ar_time": "2019-05-19T22:30:00.000+02:00",
-        "stops": "1",
-        "companyName": "Swiss",
-        "cID": "50",
-        "price": 471.24,
-        "segment": [
-            1924821617,
-            -895315768
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1936468190/X7D2403CE3B864CD39B33DCABCC185A6F/3564393738641368893"
-    },
-    "-692816804/6515672205495203645": {
-        "departureTime": "2019-05-19T06:45:00.000+02:00",
-        "ar_time": "2019-05-19T10:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 402.92,
-        "segment": [
-            -1584251792,
-            616610254
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-692816804/X7D2403CE3B864CD39B33DCABCC185A6F/6515672205495203645"
-    },
-    "1735910189/7312261696094624061": {
-        "departureTime": "2019-05-19T15:00:00.000+02:00",
-        "ar_time": "2019-05-19T21:00:00.000+02:00",
-        "stops": "1",
-        "companyName": "Vueling",
-        "cID": "117",
-        "price": 618.87,
-        "segment": [
-            -194395479,
-            15424972
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Barcelona El Prat Airport",
-                "countryCode": "ES",
-                "cityName": "el Prat de Llobregat",
-                "iataCode": "BCN",
-                "latitude": 41.3025957,
-                "longitude": 2.0744297
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Barcelona El Prat Airport",
-                "countryCode": "ES",
-                "cityName": "el Prat de Llobregat",
-                "iataCode": "BCN",
-                "latitude": 41.3025957,
-                "longitude": 2.0744297
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1735910189/X7D2403CE3B864CD39B33DCABCC185A6F/7312261696094624061"
-    },
-    "1230014746/7444548338110123325": {
-        "departureTime": "2019-05-19T09:25:00.000+02:00",
-        "ar_time": "2019-05-19T14:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Swiss",
-        "cID": "50",
-        "price": 345.85,
-        "segment": [
-            1681268584,
-            278844000
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1230014746/X7D2403CE3B864CD39B33DCABCC185A6F/7444548338110123325"
-    },
-    "-1278582819/8317095546653913149": {
-        "departureTime": "2019-05-19T16:00:00.000+02:00",
-        "ar_time": "2019-05-19T21:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 471.03,
-        "segment": [
-            -1655120473,
-            2055535473
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1278582819/X7D2403CE3B864CD39B33DCABCC185A6F/8317095546653913149"
-    },
-    "-1947452703/3263477192160725309": {
-        "departureTime": "2019-05-19T13:00:00.000+02:00",
-        "ar_time": "2019-05-19T16:45:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 765.92,
-        "segment": [
-            329538548,
-            1363808166
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1947452703/X7D2403CE3B864CD39B33DCABCC185A6F/3263477192160725309"
-    },
-    "900667829/7587284906712199997": {
-        "departureTime": "2019-05-19T14:55:00.000+02:00",
-        "ar_time": "2019-05-19T19:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Swiss",
-        "cID": "50",
-        "price": 766.13,
-        "segment": [
-            -1992019002,
-            -574312961
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/900667829/X7D2403CE3B864CD39B33DCABCC185A6F/7587284906712199997"
-    },
-    "1017977088/5074223434433845565": {
-        "departureTime": "2019-05-19T12:45:00.000+02:00",
-        "ar_time": "2019-05-19T19:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Swiss",
-        "cID": "50",
-        "price": 471.24,
-        "segment": [
-            -670854029,
-            -574312961
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1017977088/X7D2403CE3B864CD39B33DCABCC185A6F/5074223434433845565"
-    },
-    "989867254/5582857607845139773": {
-        "departureTime": "2019-05-19T17:00:00.000+02:00",
-        "ar_time": "2019-05-19T20:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 432.72,
-        "segment": [
-            -824818117,
-            -1275561205
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/989867254/X7D2403CE3B864CD39B33DCABCC185A6F/5582857607845139773"
-    },
-    "1940826199/8020744005350873405": {
-        "departureTime": "2019-05-19T08:45:00.000+02:00",
-        "ar_time": "2019-05-19T13:50:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 496.97,
-        "segment": [
-            76352920,
-            -162105258
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1940826199/X7D2403CE3B864CD39B33DCABCC185A6F/8020744005350873405"
-    },
-    "613020680/7666359364412258365": {
-        "departureTime": "2019-05-19T11:00:00.000+02:00",
-        "ar_time": "2019-05-19T15:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 638.21,
-        "segment": [
-            -445872922,
-            -1728291365
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/613020680/X7D2403CE3B864CD39B33DCABCC185A6F/7666359364412258365"
-    },
-    "-1041185283/8228158098710939965": {
-        "departureTime": "2019-05-19T20:10:00.000+02:00",
-        "ar_time": "2019-05-19T21:35:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 581.34,
-        "segment": [
-            473358123
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1041185283/X7D2403CE3B864CD39B33DCABCC185A6F/8228158098710939965"
-    },
-    "2107429208/4861186557997640509": {
-        "departureTime": "2019-05-19T09:05:00.000+02:00",
-        "ar_time": "2019-05-19T10:35:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 581.34,
-        "segment": [
-            -171488843
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/2107429208/X7D2403CE3B864CD39B33DCABCC185A6F/4861186557997640509"
-    },
-    "-875840804/6869806329176216893": {
-        "departureTime": "2019-05-19T10:30:00.000+02:00",
+    "663203036/5140072035156504637": {
+        "departureTime": "2019-05-19T09:05:00.000+03:00",
         "ar_time": "2019-05-19T17:00:00.000+02:00",
-        "stops": "1",
-        "companyName": "Sas Airways",
-        "cID": "62",
-        "price": 198.74,
+        "stops": "2",
+        "companyName": "Air Baltic",
+        "cID": "85",
+        "price": 1005.12,
         "segment": [
-            -2124043768,
+            196149023,
+            805509998,
             -921615875
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
+            },
+            {
+                "positionType": "airport",
+                "name": "Riga International Airport",
+                "countryCode": "LV",
+                "cityName": "Skulte",
+                "iataCode": "RIX",
+                "latitude": 56.92212,
+                "longitude": 23.97936
             },
             {
                 "positionType": "airport",
@@ -1308,6 +622,15 @@
         "stattions_ar": [
             {
                 "positionType": "airport",
+                "name": "Riga International Airport",
+                "countryCode": "LV",
+                "cityName": "Skulte",
+                "iataCode": "RIX",
+                "latitude": 56.92212,
+                "longitude": 23.97936
+            },
+            {
+                "positionType": "airport",
                 "name": "Copenhagen Airport",
                 "countryCode": "DK",
                 "cityName": "Kastrup",
@@ -1325,99 +648,29 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-875840804/X7D2403CE3B864CD39B33DCABCC185A6F/6869806329176216893"
+        "url": "https://www.omio.com/search-frontend/journey/flight/663203036/U748558B2389B4F88ABF2293AB310E7D7/5140072035156504637"
     },
-    "55666814/8019556747524846653": {
-        "departureTime": "2019-05-19T10:45:00.000+02:00",
-        "ar_time": "2019-05-19T12:15:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 581.34,
-        "segment": [
-            1952093753
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/55666814/X7D2403CE3B864CD39B33DCABCC185A6F/8019556747524846653"
-    },
-    "1461761834/7378102832579232061": {
-        "departureTime": "2019-05-19T06:00:00.000+02:00",
-        "ar_time": "2019-05-19T07:20:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 581.34,
-        "segment": [
-            1429315034
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1461761834/X7D2403CE3B864CD39B33DCABCC185A6F/7378102832579232061"
-    },
-    "-1344900671/6497967778081162557": {
-        "departureTime": "2019-05-19T09:00:00.000+02:00",
-        "ar_time": "2019-05-19T15:15:00.000+02:00",
+    "1604531900/4984772743534113597": {
+        "departureTime": "2019-05-19T12:00:00.000+03:00",
+        "ar_time": "2019-05-19T20:40:00.000+02:00",
         "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 638.21,
+        "companyName": "Lufthansa Cityline ",
+        "cID": "36",
+        "price": 628.68,
         "segment": [
-            -984103465,
-            -1728291365
+            -1219272835,
+            -1275561205
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
             },
             {
                 "positionType": "airport",
@@ -1449,49 +702,68 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1344900671/X7D2403CE3B864CD39B33DCABCC185A6F/6497967778081162557"
+        "url": "https://www.omio.com/search-frontend/journey/flight/1604531900/U748558B2389B4F88ABF2293AB310E7D7/4984772743534113597"
     },
-    "-2006421909/4056421932174111549": {
-        "departureTime": "2019-05-19T15:45:00.000+02:00",
-        "ar_time": "2019-05-19T22:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 506.25,
+    "-2033888395/8455866072595649853": {
+        "departureTime": "2019-05-19T15:45:00.000+03:00",
+        "ar_time": "2019-05-20T08:35:00.000+02:00",
+        "stops": "2",
+        "companyName": "Lot Polish Airlines",
+        "cID": "97",
+        "price": 1938.31,
         "segment": [
-            -1559791646,
-            -1557792555
+            -750662983,
+            882009674,
+            790521281
         ],
         "mode": "flight",
         "stations_dep": [
             {
                 "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
+                "name": "Lviv Danylo Halytskyi International Airport",
+                "countryCode": "UA",
+                "cityName": "Lviv",
+                "iataCode": "LWO",
+                "latitude": 49.8125,
+                "longitude": 23.95611
             },
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Warsaw Chopin Airport",
+                "countryCode": "PL",
+                "cityName": "Warsaw",
+                "iataCode": "WAW",
+                "latitude": 52.16556,
+                "longitude": 20.96694
+            },
+            {
+                "positionType": "airport",
+                "name": "Prague Vaclav Havel Airport",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "iataCode": "PRG",
+                "latitude": 50.1073,
+                "longitude": 14.26731
             }
         ],
         "stattions_ar": [
             {
                 "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
+                "name": "Warsaw Chopin Airport",
+                "countryCode": "PL",
+                "cityName": "Warsaw",
+                "iataCode": "WAW",
+                "latitude": 52.16556,
+                "longitude": 20.96694
+            },
+            {
+                "positionType": "airport",
+                "name": "Prague Vaclav Havel Airport",
+                "countryCode": "CZ",
+                "cityName": "Prague",
+                "iataCode": "PRG",
+                "latitude": 50.1073,
+                "longitude": 14.26731
             },
             {
                 "positionType": "airport",
@@ -1503,2017 +775,6 @@
                 "longitude": 4.763385
             }
         ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-2006421909/X7D2403CE3B864CD39B33DCABCC185A6F/4056421932174111549"
-    },
-    "1849793263/7742053297276807997": {
-        "departureTime": "2019-05-19T14:30:00.000+02:00",
-        "ar_time": "2019-05-19T15:55:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 581.34,
-        "segment": [
-            2125567944
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1849793263/X7D2403CE3B864CD39B33DCABCC185A6F/7742053297276807997"
-    },
-    "2014429732/3919635040904374077": {
-        "departureTime": "2019-05-19T17:30:00.000+02:00",
-        "ar_time": "2019-05-19T18:50:00.000+02:00",
-        "stops": "0",
-        "companyName": "KLM",
-        "cID": "37",
-        "price": 728.78,
-        "segment": [
-            131538118
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/2014429732/X7D2403CE3B864CD39B33DCABCC185A6F/3919635040904374077"
-    },
-    "-1387379175/8374242727413370173": {
-        "departureTime": "2019-05-19T07:45:00.000+02:00",
-        "ar_time": "2019-05-19T13:50:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 402.92,
-        "segment": [
-            -753949436,
-            -162105258
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1387379175/X7D2403CE3B864CD39B33DCABCC185A6F/8374242727413370173"
-    },
-    "876599963/4710599425941991229": {
-        "departureTime": "2019-05-19T17:05:00.000+02:00",
-        "ar_time": "2019-05-19T22:30:00.000+02:00",
-        "stops": "1",
-        "companyName": "Swiss",
-        "cID": "50",
-        "price": 471.24,
-        "segment": [
-            -944952619,
-            -895315768
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Zurich Airport",
-                "countryCode": "CH",
-                "cityName": "Kloten",
-                "iataCode": "ZRH",
-                "latitude": 47.4512017,
-                "longitude": 8.5613956
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/876599963/X7D2403CE3B864CD39B33DCABCC185A6F/4710599425941991229"
-    },
-    "1082860633/6868639583308231741": {
-        "departureTime": "2019-05-19T18:00:00.000+02:00",
-        "ar_time": "2019-05-19T21:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 638.21,
-        "segment": [
-            5484239,
-            2055535473
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1082860633/X7D2403CE3B864CD39B33DCABCC185A6F/6868639583308231741"
-    },
-    "556428654/6156493495902496573": {
-        "departureTime": "2019-05-19T09:45:00.000+02:00",
-        "ar_time": "2019-05-19T13:45:00.000+02:00",
-        "stops": "1",
-        "companyName": "JOON",
-        "cID": "3676",
-        "price": 529.58,
-        "segment": [
-            -1506316514,
-            1579007215
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Paris Charles de Gaulle Airport",
-                "countryCode": "FR",
-                "cityName": "Roissy-en-France",
-                "iataCode": "CDG",
-                "latitude": 49.0029701,
-                "longitude": 2.577134
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Paris Charles de Gaulle Airport",
-                "countryCode": "FR",
-                "cityName": "Roissy-en-France",
-                "iataCode": "CDG",
-                "latitude": 49.0029701,
-                "longitude": 2.577134
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/556428654/X7D2403CE3B864CD39B33DCABCC185A6F/6156493495902496573"
-    },
-    "-611740379/8676546924875705149": {
-        "departureTime": "2019-05-19T18:45:00.000+02:00",
-        "ar_time": "2019-05-19T22:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 640.93,
-        "segment": [
-            931115422,
-            -1557792555
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-611740379/X7D2403CE3B864CD39B33DCABCC185A6F/8676546924875705149"
-    },
-    "241167826/7798112971073418045": {
-        "departureTime": "2019-05-19T14:35:00.000+02:00",
-        "ar_time": "2019-05-19T19:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Austrian Airlines",
-        "cID": "81",
-        "price": 766.26,
-        "segment": [
-            -303611801,
-            2059772539
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Vienna International Airport",
-                "countryCode": "AT",
-                "cityName": "Schwechat",
-                "iataCode": "VIE",
-                "latitude": 48.121095,
-                "longitude": 16.5612678
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Vienna International Airport",
-                "countryCode": "AT",
-                "cityName": "Schwechat",
-                "iataCode": "VIE",
-                "latitude": 48.121095,
-                "longitude": 16.5612678
-            },
-            {
-                "positionType": "airport",
-                "name": "Amsterdam Airport Schiphol",
-                "countryCode": "NL",
-                "cityName": "Rozenburg",
-                "iataCode": "AMS",
-                "latitude": 52.30907,
-                "longitude": 4.763385
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/241167826/X7D2403CE3B864CD39B33DCABCC185A6F/7798112971073418045"
-    },
-    "1780023522/8089085581302323517": {
-        "departureTime": "2019-05-19T18:25:00.000+02:00",
-        "ar_time": "2019-05-19T19:35:00.000+02:00",
-        "stops": "0",
-        "companyName": "Germanwings",
-        "cID": "161",
-        "price": 174.14,
-        "segment": [
-            -1292279493
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1780023522/X7D2403CE3B864CD39B33DCABCC185A6F/8089085581302323517"
-    },
-    "384653414/6507508447237333821": {
-        "departureTime": "2019-05-19T18:15:00.000+02:00",
-        "ar_time": "2019-05-19T22:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            -494208291,
-            -448006957
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/384653414/X7D2403CE3B864CD39B33DCABCC185A6F/6507508447237333821"
-    },
-    "-568741360/5428899497862780221": {
-        "departureTime": "2019-05-19T13:00:00.000+02:00",
-        "ar_time": "2019-05-19T17:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            329538548,
-            734459481
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-568741360/X7D2403CE3B864CD39B33DCABCC185A6F/5428899497862780221"
-    },
-    "613485720/7014161012917489981": {
-        "departureTime": "2019-05-19T07:15:00.000+02:00",
-        "ar_time": "2019-05-19T11:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            209783608,
-            1320198634
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/613485720/X7D2403CE3B864CD39B33DCABCC185A6F/7014161012917489981"
-    },
-    "-1614078454/8599401680873220925": {
-        "departureTime": "2019-05-19T07:30:00.000+02:00",
-        "ar_time": "2019-05-19T12:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            630936336,
-            -1646665815
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1614078454/X7D2403CE3B864CD39B33DCABCC185A6F/8599401680873220925"
-    },
-    "-730040438/3904991885738005821": {
-        "departureTime": "2019-05-19T06:45:00.000+02:00",
-        "ar_time": "2019-05-19T09:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            -1584251792,
-            -2001637692
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-730040438/X7D2403CE3B864CD39B33DCABCC185A6F/3904991885738005821"
-    },
-    "-1602907948/5797920764287467837": {
-        "departureTime": "2019-05-19T16:00:00.000+02:00",
-        "ar_time": "2019-05-19T19:25:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            -1655120473,
-            56758290
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1602907948/X7D2403CE3B864CD39B33DCABCC185A6F/5797920764287467837"
-    },
-    "886869910/5489120775322892093": {
-        "departureTime": "2019-05-19T18:00:00.000+02:00",
-        "ar_time": "2019-05-19T21:30:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            5484239,
-            -239254262
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/886869910/X7D2403CE3B864CD39B33DCABCC185A6F/5489120775322892093"
-    },
-    "546554014/5365038856961871165": {
-        "departureTime": "2019-05-19T07:45:00.000+02:00",
-        "ar_time": "2019-05-19T11:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            -753949436,
-            1320198634
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/546554014/X7D2403CE3B864CD39B33DCABCC185A6F/5365038856961871165"
-    },
-    "-2010569500/6510342992135271485": {
-        "departureTime": "2019-05-19T19:45:00.000+02:00",
-        "ar_time": "2019-05-20T07:50:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 466.83,
-        "segment": [
-            -1491698067,
-            -1586202883
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-2010569500/X7D2403CE3B864CD39B33DCABCC185A6F/6510342992135271485"
-    },
-    "-195017638/3261227828029708605": {
-        "departureTime": "2019-05-19T11:00:00.000+02:00",
-        "ar_time": "2019-05-19T14:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            -445872922,
-            -871254345
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-195017638/X7D2403CE3B864CD39B33DCABCC185A6F/3261227828029708605"
-    },
-    "1102161559/5857022863856005949": {
-        "departureTime": "2019-05-19T09:00:00.000+02:00",
-        "ar_time": "2019-05-19T12:40:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            -984103465,
-            -1646665815
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1102161559/X7D2403CE3B864CD39B33DCABCC185A6F/5857022863856005949"
-    },
-    "211533542/8464645613399855421": {
-        "departureTime": "2019-05-19T15:45:00.000+02:00",
-        "ar_time": "2019-05-19T22:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 456.11,
-        "segment": [
-            -1559791646,
-            -448006957
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/211533542/X7D2403CE3B864CD39B33DCABCC185A6F/8464645613399855421"
-    },
-    "361897924/3626916565546522941": {
-        "departureTime": "2019-05-19T21:00:00.000+02:00",
-        "ar_time": "2019-05-20T07:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 454.64,
-        "segment": [
-            2048277150,
-            -2094247882
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/361897924/X7D2403CE3B864CD39B33DCABCC185A6F/3626916565546522941"
-    },
-    "740277907/5567638224031414077": {
-        "departureTime": "2019-05-19T17:00:00.000+02:00",
-        "ar_time": "2019-05-19T20:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            -824818117,
-            686115641
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/740277907/X7D2403CE3B864CD39B33DCABCC185A6F/5567638224031414077"
-    },
-    "883473951/3852950785827688765": {
-        "departureTime": "2019-05-19T20:40:00.000+02:00",
-        "ar_time": "2019-05-19T21:50:00.000+02:00",
-        "stops": "0",
-        "companyName": "Eurowings",
-        "cID": "38",
-        "price": 150.92,
-        "segment": [
-            -1293828378
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/883473951/X7D2403CE3B864CD39B33DCABCC185A6F/3852950785827688765"
-    },
-    "-607805980/6080539357883755325": {
-        "departureTime": "2019-05-19T10:40:00.000+02:00",
-        "ar_time": "2019-05-19T11:50:00.000+02:00",
-        "stops": "0",
-        "companyName": "Germanwings",
-        "cID": "161",
-        "price": 197.36,
-        "segment": [
-            1535093595
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-607805980/X7D2403CE3B864CD39B33DCABCC185A6F/6080539357883755325"
-    },
-    "2033801290/5500140283222247741": {
-        "departureTime": "2019-05-19T09:45:00.000+02:00",
-        "ar_time": "2019-05-19T13:55:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            -1828858766,
-            893808387
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/2033801290/X7D2403CE3B864CD39B33DCABCC185A6F/5500140283222247741"
-    },
-    "1424204993/7743464778063230013": {
-        "departureTime": "2019-05-19T08:45:00.000+02:00",
-        "ar_time": "2019-05-19T13:55:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 423.6,
-        "segment": [
-            76352920,
-            893808387
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1424204993/X7D2403CE3B864CD39B33DCABCC185A6F/7743464778063230013"
-    },
-    "994249711/8453612090837724989": {
-        "departureTime": "2019-05-19T19:15:00.000+02:00",
-        "ar_time": "2019-05-19T22:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            305759628,
-            -448006957
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/994249711/X7D2403CE3B864CD39B33DCABCC185A6F/8453612090837724989"
-    },
-    "1328659846/6363922046840764221": {
-        "departureTime": "2019-05-19T20:00:00.000+02:00",
-        "ar_time": "2019-05-20T07:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 454.64,
-        "segment": [
-            513380345,
-            -2094247882
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1328659846/X7D2403CE3B864CD39B33DCABCC185A6F/6363922046840764221"
-    },
-    "-1870926812/6875405930673292605": {
-        "departureTime": "2019-05-19T14:45:00.000+02:00",
-        "ar_time": "2019-05-19T18:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            1904873294,
-            -490030701
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1870926812/X7D2403CE3B864CD39B33DCABCC185A6F/6875405930673292605"
-    },
-    "2089347572/8732614129030361917": {
-        "departureTime": "2019-05-19T18:00:00.000+02:00",
-        "ar_time": "2019-05-20T07:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 454.64,
-        "segment": [
-            5484239,
-            -2094247882
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/2089347572/X7D2403CE3B864CD39B33DCABCC185A6F/8732614129030361917"
-    },
-    "-2114820134/4140893055084414269": {
-        "departureTime": "2019-05-19T11:45:00.000+02:00",
-        "ar_time": "2019-05-19T17:05:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 423.6,
-        "segment": [
-            -1290628223,
-            2143265835
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-2114820134/X7D2403CE3B864CD39B33DCABCC185A6F/4140893055084414269"
-    },
-    "-1596023427/4842888344863584317": {
-        "departureTime": "2019-05-19T19:00:00.000+02:00",
-        "ar_time": "2019-05-20T07:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 454.64,
-        "segment": [
-            805452158,
-            -2094247882
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1596023427/X7D2403CE3B864CD39B33DCABCC185A6F/4842888344863584317"
-    },
-    "1483474529/7095200697277378365": {
-        "departureTime": "2019-05-19T19:00:00.000+02:00",
-        "ar_time": "2019-05-19T22:10:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 407.24,
-        "segment": [
-            805452158,
-            1224346184
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1483474529/X7D2403CE3B864CD39B33DCABCC185A6F/7095200697277378365"
-    },
-    "1062836138/5849391166532186941": {
-        "departureTime": "2019-05-19T19:15:00.000+02:00",
-        "ar_time": "2019-05-20T07:50:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 466.83,
-        "segment": [
-            305759628,
-            -1586202883
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1062836138/X7D2403CE3B864CD39B33DCABCC185A6F/5849391166532186941"
-    },
-    "-1238857802/3553713262573015357": {
-        "departureTime": "2019-05-19T17:00:00.000+02:00",
-        "ar_time": "2019-05-20T07:20:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 468.31,
-        "segment": [
-            -824818117,
-            -2094247882
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Munich Airport",
-                "countryCode": "DE",
-                "cityName": "M\u00fcnchen-flughafen",
-                "iataCode": "MUC",
-                "latitude": 48.354597,
-                "longitude": 11.785065
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-1238857802/X7D2403CE3B864CD39B33DCABCC185A6F/3553713262573015357"
-    },
-    "-783790054/4929605778300024893": {
-        "departureTime": "2019-05-19T08:15:00.000+02:00",
-        "ar_time": "2019-05-19T11:15:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 410.47,
-        "segment": [
-            -1366771516,
-            1320198634
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/-783790054/X7D2403CE3B864CD39B33DCABCC185A6F/4929605778300024893"
-    },
-    "453239841/5491983973292274493": {
-        "departureTime": "2019-05-19T18:15:00.000+02:00",
-        "ar_time": "2019-05-20T07:50:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 466.83,
-        "segment": [
-            -494208291,
-            -1586202883
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/453239841/X7D2403CE3B864CD39B33DCABCC185A6F/5491983973292274493"
-    },
-    "1674801499/7940523963757712701": {
-        "departureTime": "2019-05-19T18:45:00.000+02:00",
-        "ar_time": "2019-05-20T07:50:00.000+02:00",
-        "stops": "1",
-        "companyName": "Lufthansa",
-        "cID": "35",
-        "price": 522.55,
-        "segment": [
-            931115422,
-            -1586202883
-        ],
-        "mode": "flight",
-        "stations_dep": [
-            {
-                "positionType": "airport",
-                "name": "Berlin Tegel Airport",
-                "countryCode": "DE",
-                "cityName": "Berlin",
-                "iataCode": "TXL",
-                "latitude": 52.5548,
-                "longitude": 13.28903
-            },
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            }
-        ],
-        "stattions_ar": [
-            {
-                "positionType": "airport",
-                "name": "Frankfurt am Main Airport",
-                "countryCode": "DE",
-                "cityName": "Frankfurt am Main",
-                "iataCode": "FRA",
-                "latitude": 50.05009,
-                "longitude": 8.57155
-            },
-            {
-                "positionType": "airport",
-                "name": "Dusseldorf Airport",
-                "countryCode": "DE",
-                "cityName": "D\u00fcsseldorf",
-                "iataCode": "DUS",
-                "latitude": 51.277448,
-                "longitude": 6.766375
-            }
-        ],
-        "url": "https://www.omio.com/search-frontend/journey/flight/1674801499/X7D2403CE3B864CD39B33DCABCC185A6F/7940523963757712701"
+        "url": "https://www.omio.com/search-frontend/journey/flight/-2033888395/U748558B2389B4F88ABF2293AB310E7D7/8455866072595649853"
     }
 }

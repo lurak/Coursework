@@ -1,202 +1,202 @@
 {
     "2019-05-18 21:00:00": {
-        "temp_min": 28.636000000000024,
-        "temp_max": 28.636000000000024,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.73599999999999,
+        "temp_max": 12.73599999999999,
+        "weather": "scattered clouds, Clouds"
     },
     "2019-05-19 00:00:00": {
-        "temp_min": 28.64100000000002,
-        "temp_max": 28.64100000000002,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.64100000000002,
+        "temp_max": 12.64100000000002,
+        "weather": "scattered clouds, Clouds"
     },
     "2019-05-19 03:00:00": {
-        "temp_min": 26.149,
-        "temp_max": 26.149,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.548999999999978,
+        "temp_max": 12.548999999999978,
+        "weather": "broken clouds, Clouds"
     },
     "2019-05-19 06:00:00": {
-        "temp_min": 25.25,
-        "temp_max": 25.25,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.75,
+        "temp_max": 12.75,
+        "weather": "broken clouds, Clouds"
     },
     "2019-05-19 09:00:00": {
-        "temp_min": 24.69999999999999,
-        "temp_max": 24.69999999999999,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.800000000000011,
+        "temp_max": 13.800000000000011,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-19 12:00:00": {
-        "temp_min": 24.452999999999975,
-        "temp_max": 24.452999999999975,
-        "weather": "clear sky, Clear"
+        "temp_min": 14.65300000000002,
+        "temp_max": 14.65300000000002,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-19 15:00:00": {
-        "temp_min": 26.173999999999978,
-        "temp_max": 26.173999999999978,
-        "weather": "clear sky, Clear"
+        "temp_min": 14.374000000000024,
+        "temp_max": 14.374000000000024,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-19 18:00:00": {
-        "temp_min": 27.899999999999977,
-        "temp_max": 27.899999999999977,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.300000000000011,
+        "temp_max": 13.300000000000011,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-19 21:00:00": {
-        "temp_min": 28.22399999999999,
-        "temp_max": 28.22399999999999,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.22399999999999,
+        "temp_max": 12.22399999999999,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-20 00:00:00": {
-        "temp_min": 26.815999999999974,
-        "temp_max": 26.815999999999974,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.115999999999985,
+        "temp_max": 12.115999999999985,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-20 03:00:00": {
-        "temp_min": 26.26600000000002,
-        "temp_max": 26.26600000000002,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.165999999999997,
+        "temp_max": 12.165999999999997,
+        "weather": "few clouds, Clouds"
     },
     "2019-05-20 06:00:00": {
-        "temp_min": 25.80000000000001,
-        "temp_max": 25.80000000000001,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.600000000000023,
+        "temp_max": 12.600000000000023,
+        "weather": "few clouds, Clouds"
     },
     "2019-05-20 09:00:00": {
-        "temp_min": 25.444000000000017,
-        "temp_max": 25.444000000000017,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.644000000000005,
+        "temp_max": 13.644000000000005,
+        "weather": "broken clouds, Clouds"
     },
     "2019-05-20 12:00:00": {
-        "temp_min": 25.399999999999977,
-        "temp_max": 25.399999999999977,
-        "weather": "clear sky, Clear"
+        "temp_min": 14.0,
+        "temp_max": 14.0,
+        "weather": "scattered clouds, Clouds"
     },
     "2019-05-20 15:00:00": {
-        "temp_min": 26.829000000000008,
-        "temp_max": 26.829000000000008,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.928999999999974,
+        "temp_max": 13.928999999999974,
+        "weather": "few clouds, Clouds"
     },
     "2019-05-20 18:00:00": {
-        "temp_min": 28.69999999999999,
-        "temp_max": 28.69999999999999,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.399999999999977,
+        "temp_max": 13.399999999999977,
+        "weather": "scattered clouds, Clouds"
     },
     "2019-05-20 21:00:00": {
-        "temp_min": 28.327999999999975,
-        "temp_max": 28.327999999999975,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.627999999999986,
+        "temp_max": 12.627999999999986,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-21 00:00:00": {
-        "temp_min": 27.23399999999998,
-        "temp_max": 27.23399999999998,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.533999999999992,
+        "temp_max": 12.533999999999992,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-21 03:00:00": {
-        "temp_min": 26.607000000000028,
-        "temp_max": 26.607000000000028,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.406999999999982,
+        "temp_max": 12.406999999999982,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-21 06:00:00": {
-        "temp_min": 26.151999999999987,
-        "temp_max": 26.151999999999987,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.552000000000021,
+        "temp_max": 12.552000000000021,
+        "weather": "broken clouds, Clouds"
     },
     "2019-05-21 09:00:00": {
-        "temp_min": 25.533999999999992,
-        "temp_max": 25.533999999999992,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.23399999999998,
+        "temp_max": 13.23399999999998,
+        "weather": "scattered clouds, Clouds"
     },
     "2019-05-21 12:00:00": {
-        "temp_min": 25.536,
-        "temp_max": 25.536,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.23599999999999,
+        "temp_max": 13.23599999999999,
+        "weather": "scattered clouds, Clouds"
     },
     "2019-05-21 15:00:00": {
-        "temp_min": 26.69999999999999,
-        "temp_max": 26.69999999999999,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.100000000000023,
+        "temp_max": 13.100000000000023,
+        "weather": "broken clouds, Clouds"
     },
     "2019-05-21 18:00:00": {
-        "temp_min": 27.593000000000018,
-        "temp_max": 27.593000000000018,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.593000000000018,
+        "temp_max": 12.593000000000018,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-21 21:00:00": {
-        "temp_min": 27.605000000000018,
-        "temp_max": 27.605000000000018,
-        "weather": "clear sky, Clear"
+        "temp_min": 11.904999999999973,
+        "temp_max": 11.904999999999973,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-22 00:00:00": {
-        "temp_min": 27.23399999999998,
-        "temp_max": 27.23399999999998,
-        "weather": "clear sky, Clear"
+        "temp_min": 11.834000000000003,
+        "temp_max": 11.834000000000003,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-22 03:00:00": {
-        "temp_min": 26.634000000000015,
-        "temp_max": 26.634000000000015,
-        "weather": "clear sky, Clear"
+        "temp_min": 11.73399999999998,
+        "temp_max": 11.73399999999998,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-22 06:00:00": {
-        "temp_min": 26.107000000000028,
-        "temp_max": 26.107000000000028,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.107000000000028,
+        "temp_max": 12.107000000000028,
+        "weather": "broken clouds, Clouds"
     },
     "2019-05-22 09:00:00": {
-        "temp_min": 25.80000000000001,
-        "temp_max": 25.80000000000001,
+        "temp_min": 12.699999999999989,
+        "temp_max": 12.699999999999989,
         "weather": "clear sky, Clear"
     },
     "2019-05-22 12:00:00": {
-        "temp_min": 25.418999999999983,
-        "temp_max": 25.418999999999983,
+        "temp_min": 13.019000000000005,
+        "temp_max": 13.019000000000005,
         "weather": "clear sky, Clear"
     },
     "2019-05-22 15:00:00": {
-        "temp_min": 26.718999999999994,
-        "temp_max": 26.718999999999994,
+        "temp_min": 12.918999999999983,
+        "temp_max": 12.918999999999983,
         "weather": "clear sky, Clear"
     },
     "2019-05-22 18:00:00": {
-        "temp_min": 28.180999999999983,
-        "temp_max": 28.180999999999983,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.680999999999983,
+        "temp_max": 12.680999999999983,
+        "weather": "few clouds, Clouds"
     },
     "2019-05-22 21:00:00": {
-        "temp_min": 28.980999999999995,
-        "temp_max": 28.980999999999995,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.081000000000017,
+        "temp_max": 12.081000000000017,
+        "weather": "few clouds, Clouds"
     },
     "2019-05-23 00:00:00": {
-        "temp_min": 28.692999999999984,
-        "temp_max": 28.692999999999984,
+        "temp_min": 12.093000000000018,
+        "temp_max": 12.093000000000018,
         "weather": "clear sky, Clear"
     },
     "2019-05-23 03:00:00": {
-        "temp_min": 26.80000000000001,
-        "temp_max": 26.80000000000001,
-        "weather": "few clouds, Clouds"
+        "temp_min": 12.0,
+        "temp_max": 12.0,
+        "weather": "clear sky, Clear"
     },
     "2019-05-23 06:00:00": {
-        "temp_min": 25.341999999999985,
-        "temp_max": 25.341999999999985,
-        "weather": "clear sky, Clear"
+        "temp_min": 12.341999999999985,
+        "temp_max": 12.341999999999985,
+        "weather": "scattered clouds, Clouds"
     },
     "2019-05-23 09:00:00": {
-        "temp_min": 24.853999999999985,
-        "temp_max": 24.853999999999985,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.254000000000019,
+        "temp_max": 13.254000000000019,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-23 12:00:00": {
-        "temp_min": 24.473000000000013,
-        "temp_max": 24.473000000000013,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.572999999999979,
+        "temp_max": 13.572999999999979,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-23 15:00:00": {
-        "temp_min": 26.47800000000001,
-        "temp_max": 26.47800000000001,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.177999999999997,
+        "temp_max": 13.177999999999997,
+        "weather": "overcast clouds, Clouds"
     },
     "2019-05-23 18:00:00": {
-        "temp_min": 28.708000000000027,
-        "temp_max": 28.708000000000027,
-        "weather": "clear sky, Clear"
+        "temp_min": 13.507999999999981,
+        "temp_max": 13.507999999999981,
+        "weather": "overcast clouds, Clouds"
     }
 }
