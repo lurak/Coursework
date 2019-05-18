@@ -1,5 +1,3 @@
-import time
-
 from ADT.resortInfo import ResortsInfo, PlaceInfo
 import datetime
 
@@ -10,9 +8,9 @@ SKI_RESORTS_NUMBER = 33
 CULTURAL_RESORTS = ResortsInfo(CULTURAL_RESORTS_NUMBER)
 SEA_RESORTS = ResortsInfo(SEA_RESORTS_NUMBER)
 SKI_RESORTS = ResortsInfo(SKI_RESORTS_NUMBER)
-CULTURAL_RESORTS.create("SimpleSite\\data.json", "cultural resorts")
-SEA_RESORTS.create("SimpleSite\\data.json", "sea resorts")
-SKI_RESORTS.create("SimpleSite\\data.json", "ski resorts")
+CULTURAL_RESORTS.create("data.json", "cultural resorts")
+SEA_RESORTS.create("data.json", "sea resorts")
+SKI_RESORTS.create("data.json", "ski resorts")
 RESORTS = {"cultural resorts": CULTURAL_RESORTS, "sea resorts": SEA_RESORTS, "ski resorts": SKI_RESORTS}
 PLACES = PlaceInfo(1257)
 i = 0
