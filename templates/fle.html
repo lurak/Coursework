@@ -1,12 +1,11 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Пример на bootstrap 4: Простой одностраничный шаблон для фотогалереи, портфолио и многого другого.">
 
-    <title>Альбом | Album example for Bootstrap</title>
+    <title>Places | Resorts</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -32,8 +31,23 @@
 
     <!-- Custom styles for this template -->
 
-    </head>
-<body>
+  </head>
+
+  <body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4481610-59', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter39705265 = new Ya.Metrika({ id:39705265, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/39705265" style="position:absolute; left:-9999px;" alt="Yandex.Metrika" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a href="#" class="navbar-brand">
@@ -45,48 +59,38 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                  <a href="http://127.0.0.1:5000/" class="nav-link">Home</a>
+                  <a href="#" class="nav-link">Home</a>
                 </li>
               </ul>
             </div>
           </nav>
-    </header>
+</header>
 
 <main role="main">
 
-  <section class="jumbotron text-center">
-    <div class="container">
-      <h1 class="jumbotron-heading">Tickets For Transport</h1>
-      <p class="lead text-muted">There Are Tickets And Link for Omio.com</p>
-
-    </div>
-  </section>
 
   <div class="album py-5 bg-light">
     <div class="container">
 
       <div class="row">
-          {% for ticket in tickets %}
+        ​{% for picture in pictures %}
         <div class="col-md-4">
+
           <div class="card mb-4 shadow-sm">
             <picture>
-                <img src="https://i.pinimg.com/originals/58/b5/7b/58b57b6f9627ff9b0b7b5c3cdfb93004.jpg" class="img-fluid img-thumbnail">
+              <img src={{picture[1]}} class="img-fluid img-thumbnail">
             </picture>
             <div class="card-body">
-              <p class="card-text">
-                  {{ ticket["Departure time"] }}  -  {{ ticket["Arrival Time"] }}
-                  {{ ticket["Departure station"] }}, {{ ticket["Departure city"] }} - {{ ticket["Arrival station"] }}, {{ ticket["Arrival city"] }}
-                  Price - {{ ticket["Price"] }}
-                  Mode - {{ ticket["Trasnport"] }}
-                  Company - {{ ticket["Company"] }}
-              </p>
+
+
+                <p class="card-text">{{picture[2][:picture[2].index(' ', 120)]}}...</p>
+
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">
-                      <a href={{ ticket["url"] }}>
-                          Go To Omio
-                      </a>
-                  </button>
+                  <form novalidate action="/fle/final" method="post">
+
+                    <button name="picture" value="{{picture[0]}}**{{ picture[1] }}" type="submit" class="btn btn-sm btn-outline-secondary">View</button>
+                  </form>
 
                 </div>
 
@@ -94,13 +98,13 @@
             </div>
           </div>
         </div>
-          {% endfor %}
+        {% endfor %}
       </div>
-
     </div>
   </div>
 
 </main>
+
  <footer class="my-5 pt-5 text-muted text-center text-small">
     <p class="mb-1">&copy; 2019-2020 OP Coursework</p>
     <ul class="list-inline">

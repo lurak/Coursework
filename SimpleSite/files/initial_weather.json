@@ -1,19 +1,19 @@
 {
     "cod": "200",
-    "message": 0.0087,
+    "message": 0.0079,
     "cnt": 40,
     "list": [
         {
             "dt": 1558213200,
             "main": {
-                "temp": 304.52,
+                "temp": 304.75,
                 "temp_min": 301.636,
-                "temp_max": 304.52,
+                "temp_max": 304.75,
                 "pressure": 1014.66,
                 "sea_level": 1014.66,
                 "grnd_level": 1014.5,
                 "humidity": 64,
-                "temp_kf": 2.89
+                "temp_kf": 3.11
             },
             "weather": [
                 {
@@ -38,14 +38,14 @@
         {
             "dt": 1558224000,
             "main": {
-                "temp": 303.81,
+                "temp": 303.97,
                 "temp_min": 301.641,
-                "temp_max": 303.81,
+                "temp_max": 303.97,
                 "pressure": 1014.2,
                 "sea_level": 1014.2,
                 "grnd_level": 1013.98,
                 "humidity": 63,
-                "temp_kf": 2.16
+                "temp_kf": 2.33
             },
             "weather": [
                 {
@@ -70,14 +70,14 @@
         {
             "dt": 1558234800,
             "main": {
-                "temp": 300.59,
+                "temp": 300.7,
                 "temp_min": 299.149,
-                "temp_max": 300.59,
+                "temp_max": 300.7,
                 "pressure": 1015.85,
                 "sea_level": 1015.85,
                 "grnd_level": 1015.93,
                 "humidity": 72,
-                "temp_kf": 1.44
+                "temp_kf": 1.56
             },
             "weather": [
                 {
@@ -102,14 +102,14 @@
         {
             "dt": 1558245600,
             "main": {
-                "temp": 298.97,
+                "temp": 299.03,
                 "temp_min": 298.25,
-                "temp_max": 298.97,
+                "temp_max": 299.03,
                 "pressure": 1015.63,
                 "sea_level": 1015.63,
                 "grnd_level": 1015.84,
                 "humidity": 74,
-                "temp_kf": 0.72
+                "temp_kf": 0.78
             },
             "weather": [
                 {
