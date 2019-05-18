@@ -37,9 +37,8 @@ def fle():
     appropriatePlaces = AppropriatePlaces(RESORTS[resortType], days_number)
 
     coefficient = price.currency_coefficient("USD")
-    print(start - time.time())
     info = []
-    start = time.time()
+
     while not appropriatePlaces.is_empty():
         place = appropriatePlaces.pop()
         ticketsInfo = choose_cities(city, str(place), "/".join(arr_date), float(price.price)*coefficient, coefficient)
@@ -50,7 +49,7 @@ def fle():
     # place_in.get_coordinates()
     # place_out.get_coordinates()
     # get_map([place_in, place_out], "templates\\map.html", location=list(place_out.coordinates))
-    print(start - time.time())
+
     new_price = price.price*coefficient
     return render_template("fle.html", price=new_price, pictures=info)
 
