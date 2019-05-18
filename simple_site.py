@@ -67,5 +67,6 @@ def tickets():
 
     return render_template("tickets.html", tickets=ticket)
 
+
 if __name__ == "__main__":
-    app.run()
+    app.run(host='127.0.0.2')
