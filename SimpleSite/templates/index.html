@@ -1,549 +1,182 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta name="viewport" content="initial-scale=1, width=device-width"/>
-        <title>Simple site</title>
-    </head>
-    <body>
-        <h1>Simple Site</h1>
-        <form action="/price" method="post">
-        <input name="price" placeholder="Enter price" type="text"/>
-            <select name="Currency">
-            <option disabled selected value="">currency</option>
-            <option value="AFN">AFN</option>
-            <option value="ALL">ALL</option>
-            <option value="DZD">DZD</option>
-            <option value="EUR">EUR</option>
-            <option value="AOA">AOA</option>
-            <option value="XCD">XCD</option>
-            <option value="ARS">ARS</option>
-            <option value="AMD">AMD</option>
-            <option value="AUD">AUD</option>
-            <option value="EUR">EUR</option>
-            <option value="AZN">AZN</option>
-            <option value="BSD">BSD</option>
-            <option value="BHD">BHD</option>
-            <option value="BDT">BDT</option>
-            <option value="BBD">BBD</option>
-            <option value="BYN">BYN</option>
-            <option value="EUR">EUR</option>
-            <option value="BZD">BZD</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="BTN">BTN</option>
-            <option value="BOB">BOB</option>
-            <option value="BAM">BAM</option>
-            <option value="BWP">BWP</option>
-            <option value="BRL">BRL</option>
-            <option value="BND">BND</option>
-            <option value="BGN">BGN</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="BIF">BIF</option>
-            <option value="KHR">KHR</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CAD">CAD</option>
-            <option value="CVE">CVE</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CLP">CLP</option>
-            <option value="CNY">CNY</option>
-            <option value="COP">COP</option>
-            <option value="KMF">KMF</option>
-            <option value="CRC">CRC</option>
-            <option value="HRK">HRK</option>
-            <option value="CUP">CUP</option>
-            <option value="EUR">EUR</option>
-            <option value="CZK">CZK</option>
-            <option value="CDF">CDF</option>
-            <option value="DKK">DKK</option>
-            <option value="DJF">DJF</option>
-            <option value="XCD">XCD</option>
-            <option value="DOP">DOP</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="EGP">EGP</option>
-            <option value="USD">USD</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="ERN">ERN</option>
-            <option value="EUR">EUR</option>
-            <option value="ETB">ETB</option>
-            <option value="FJD">FJD</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="GMD">GMD</option>
-            <option value="GEL">GEL</option>
-            <option value="EUR">EUR</option>
-            <option value="GHS">GHS</option>
-            <option value="EUR">EUR</option>
-            <option value="XCD">XCD</option>
-            <option value="GTQ">GTQ</option>
-            <option value="GNF">GNF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="GYD">GYD</option>
-            <option value="HTG">HTG</option>
-            <option value="HNL">HNL</option>
-            <option value="HUF">HUF</option>
-            <option value="ISK">ISK</option>
-            <option value="INR">INR</option>
-            <option value="IDR">IDR</option>
-            <option value="IRR">IRR</option>
-            <option value="IQD">IQD</option>
-            <option value="EUR">EUR</option>
-            <option value="ILS">ILS</option>
-            <option value="EUR">EUR</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="JMD">JMD</option>
-            <option value="JPY">JPY</option>
-            <option value="JOD">JOD</option>
-            <option value="KZT">KZT</option>
-            <option value="KES">KES</option>
-            <option value="AUD">AUD</option>
-            <option value="KPW">KPW</option>
-            <option value="KRW">KRW</option>
-            <option value="EUR">EUR</option>
-            <option value="KWD">KWD</option>
-            <option value="KGS">KGS</option>
-            <option value="LAK">LAK</option>
-            <option value="EUR">EUR</option>
-            <option value="LBP">LBP</option>
-            <option value="LSL">LSL</option>
-            <option value="LRD">LRD</option>
-            <option value="LYD">LYD</option>
-            <option value="CHF">CHF</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="MKD">MKD</option>
-            <option value="MGA">MGA</option>
-            <option value="MWK">MWK</option>
-            <option value="MYR">MYR</option>
-            <option value="MVR">MVR</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="EUR">EUR</option>
-            <option value="USD">USD</option>
-            <option value="MRO">MRO</option>
-            <option value="MUR">MUR</option>
-            <option value="MXN">MXN</option>
-            <option value="USD">USD</option>
-            <option value="MDL">MDL</option>
-            <option value="EUR">EUR</option>
-            <option value="MNT">MNT</option>
-            <option value="EUR">EUR</option>
-            <option value="MAD">MAD</option>
-            <option value="MZN">MZN</option>
-            <option value="MMK">MMK</option>
-            <option value="NAD">NAD</option>
-            <option value="AUD">AUD</option>
-            <option value="NPR">NPR</option>
-            <option value="EUR">EUR</option>
-            <option value="NZD">NZD</option>
-            <option value="NIO">NIO</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="NGN">NGN</option>
-            <option value="NOK">NOK</option>
-            <option value="OMR">OMR</option>
-            <option value="PKR">PKR</option>
-            <option value="USD">USD</option>
-            <option value="ILS">ILS</option>
-            <option value="PAB">PAB</option>
-            <option value="PGK">PGK</option>
-            <option value="PYG">PYG</option>
-            <option value="PEN">PEN</option>
-            <option value="PHP">PHP</option>
-            <option value="PLN">PLN</option>
-            <option value="EUR">EUR</option>
-            <option value="QAR">QAR</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="RON">RON</option>
-            <option value="RUB">RUB</option>
-            <option value="RWF">RWF</option>
-            <option value="XCD">XCD</option>
-            <option value="XCD">XCD</option>
-            <option value="XCD">XCD</option>
-            <option value="WST">WST</option>
-            <option value="EUR">EUR</option>
-            <option value="STD">STD</option>
-            <option value="SAR">SAR</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="RSD">RSD</option>
-            <option value="SCR">SCR</option>
-            <option value="SLL">SLL</option>
-            <option value="SGD">SGD</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="SBD">SBD</option>
-            <option value="SOS">SOS</option>
-            <option value="ZAR">ZAR</option>
-            <option value="SSP">SSP</option>
-            <option value="EUR">EUR</option>
-            <option value="LKR">LKR</option>
-            <option value="SDG">SDG</option>
-            <option value="SRD">SRD</option>
-            <option value="SZL">SZL</option>
-            <option value="SEK">SEK</option>
-            <option value="CHF">CHF</option>
-            <option value="SYP">SYP</option>
-            <option value="TWD">TWD</option>
-            <option value="TJS">TJS</option>
-            <option value="TZS">TZS</option>
-            <option value="THB">THB</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="TOP">TOP</option>
-            <option value="TTD">TTD</option>
-            <option value="TND">TND</option>
-            <option value="TRY">TRY</option>
-            <option value="TMT">TMT</option>
-            <option value="AUD">AUD</option>
-            <option value="UGX">UGX</option>
-            <option value="UAH">UAH</option>
-            <option value="AED">AED</option>
-            <option value="GBP">GBP</option>
-            <option value="USD">USD</option>
-            <option value="UYU">UYU</option>
-            <option value="UZS">UZS</option>
-            <option value="VUV">VUV</option>
-            <option value="EUR">EUR</option>
-            <option value="VEF">VEF</option>
-            <option value="VND">VND</option>
-            <option value="YER">YER</option>
-            <option value="ZMW">ZMW</option>
-            <option value="USD">USD</option>
-            <option value="ISO">ISO</option>
-            <option value="AED">AED</option>
-            <option value="AFN">AFN</option>
-            <option value="ALL">ALL</option>
-            <option value="AMD">AMD</option>
-            <option value="AOA">AOA</option>
-            <option value="ARS">ARS</option>
-            <option value="AUD">AUD</option>
-            <option value="AUD">AUD</option>
-            <option value="AUD">AUD</option>
-            <option value="AUD">AUD</option>
-            <option value="AZN">AZN</option>
-            <option value="BAM">BAM</option>
-            <option value="BBD">BBD</option>
-            <option value="BDT">BDT</option>
-            <option value="BGN">BGN</option>
-            <option value="BHD">BHD</option>
-            <option value="BIF">BIF</option>
-            <option value="BND">BND</option>
-            <option value="BOB">BOB</option>
-            <option value="BRL">BRL</option>
-            <option value="BSD">BSD</option>
-            <option value="BTN">BTN</option>
-            <option value="BWP">BWP</option>
-            <option value="BYN">BYN</option>
-            <option value="BZD">BZD</option>
-            <option value="CAD">CAD</option>
-            <option value="CDF">CDF</option>
-            <option value="CHF">CHF</option>
-            <option value="CHF">CHF</option>
-            <option value="CLP">CLP</option>
-            <option value="CNY">CNY</option>
-            <option value="COP">COP</option>
-            <option value="CRC">CRC</option>
-            <option value="CUP">CUP</option>
-            <option value="CVE">CVE</option>
-            <option value="CZK">CZK</option>
-            <option value="DJF">DJF</option>
-            <option value="DKK">DKK</option>
-            <option value="DOP">DOP</option>
-            <option value="DZD">DZD</option>
-            <option value="EGP">EGP</option>
-            <option value="ERN">ERN</option>
-            <option value="ETB">ETB</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="EUR">EUR</option>
-            <option value="FJD">FJD</option>
-            <option value="GBP">GBP</option>
-            <option value="GEL">GEL</option>
-            <option value="GHS">GHS</option>
-            <option value="GMD">GMD</option>
-            <option value="GNF">GNF</option>
-            <option value="GTQ">GTQ</option>
-            <option value="GYD">GYD</option>
-            <option value="HNL">HNL</option>
-            <option value="HRK">HRK</option>
-            <option value="HTG">HTG</option>
-            <option value="HUF">HUF</option>
-            <option value="IDR">IDR</option>
-            <option value="ILS">ILS</option>
-            <option value="ILS">ILS</option>
-            <option value="INR">INR</option>
-            <option value="IQD">IQD</option>
-            <option value="IRR">IRR</option>
-            <option value="ISK">ISK</option>
-            <option value="JMD">JMD</option>
-            <option value="JOD">JOD</option>
-            <option value="JPY">JPY</option>
-            <option value="KES">KES</option>
-            <option value="KGS">KGS</option>
-            <option value="KHR">KHR</option>
-            <option value="KMF">KMF</option>
-            <option value="KPW">KPW</option>
-            <option value="KRW">KRW</option>
-            <option value="KWD">KWD</option>
-            <option value="KZT">KZT</option>
-            <option value="LAK">LAK</option>
-            <option value="LBP">LBP</option>
-            <option value="LKR">LKR</option>
-            <option value="LRD">LRD</option>
-            <option value="LSL">LSL</option>
-            <option value="LYD">LYD</option>
-            <option value="MAD">MAD</option>
-            <option value="MDL">MDL</option>
-            <option value="MGA">MGA</option>
-            <option value="MKD">MKD</option>
-            <option value="MMK">MMK</option>
-            <option value="MNT">MNT</option>
-            <option value="MRO">MRO</option>
-            <option value="MUR">MUR</option>
-            <option value="MVR">MVR</option>
-            <option value="MWK">MWK</option>
-            <option value="MXN">MXN</option>
-            <option value="MYR">MYR</option>
-            <option value="MZN">MZN</option>
-            <option value="NAD">NAD</option>
-            <option value="NGN">NGN</option>
-            <option value="NIO">NIO</option>
-            <option value="NOK">NOK</option>
-            <option value="NPR">NPR</option>
-            <option value="NZD">NZD</option>
-            <option value="OMR">OMR</option>
-            <option value="PAB">PAB</option>
-            <option value="PEN">PEN</option>
-            <option value="PGK">PGK</option>
-            <option value="PHP">PHP</option>
-            <option value="PKR">PKR</option>
-            <option value="PLN">PLN</option>
-            <option value="PYG">PYG</option>
-            <option value="QAR">QAR</option>
-            <option value="RON">RON</option>
-            <option value="RSD">RSD</option>
-            <option value="RUB">RUB</option>
-            <option value="RWF">RWF</option>
-            <option value="SAR">SAR</option>
-            <option value="SBD">SBD</option>
-            <option value="SCR">SCR</option>
-            <option value="SDG">SDG</option>
-            <option value="SEK">SEK</option>
-            <option value="SGD">SGD</option>
-            <option value="SLL">SLL</option>
-            <option value="SOS">SOS</option>
-            <option value="SRD">SRD</option>
-            <option value="SSP">SSP</option>
-            <option value="STD">STD</option>
-            <option value="SYP">SYP</option>
-            <option value="SZL">SZL</option>
-            <option value="THB">THB</option>
-            <option value="TJS">TJS</option>
-            <option value="TMT">TMT</option>
-            <option value="TND">TND</option>
-            <option value="TOP">TOP</option>
-            <option value="TRY">TRY</option>
-            <option value="TTD">TTD</option>
-            <option value="TWD">TWD</option>
-            <option value="TZS">TZS</option>
-            <option value="UAH">UAH</option>
-            <option value="UGX">UGX</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="USD">USD</option>
-            <option value="UYU">UYU</option>
-            <option value="UZS">UZS</option>
-            <option value="VEF">VEF</option>
-            <option value="VND">VND</option>
-            <option value="VUV">VUV</option>
-            <option value="WST">WST</option>
-            <option value="XAF">XAF</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CFA">CFA</option>
-            <option value="XAF">XAF</option>
-            <option value="CFA">CFA</option>
-            <option value="XCD">XCD</option>
-            <option value="XCD">XCD</option>
-            <option value="XCD">XCD</option>
-            <option value="XCD">XCD</option>
-            <option value="XCD">XCD</option>
-            <option value="XCD">XCD</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="XOF">XOF</option>
-            <option value="CFA">CFA</option>
-            <option value="YER">YER</option>
-            <option value="ZAR">ZAR</option>
-            <option value="ZMW">ZMW</option>
-        </select>
-            <p><input name="city" placeholder="Enter city" type="text"/></p>
-            <p>
-                <select name="inday">
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4">4</option>
-                    <option value="5">5</option>
-                    <option value="6">6</option>
-                    <option value="7">7</option>
-                    <option value="8">8</option>
-                    <option value="9">9</option>
-                    <option value="10">10</option>
-                    <option value="11">11</option>
-                    <option value="12">12</option>
-                    <option value="13">13</option>
-                    <option value="14">14</option>
-                    <option value="15">15</option>
-                    <option value="16">16</option>
-                    <option value="17">17</option>
-                    <option value="18">18</option>
-                    <option value="19">19</option>
-                    <option value="20">20</option>
-                    <option value="21">21</option>
-                    <option value="22">22</option>
-                    <option value="23">23</option>
-                    <option value="24">24</option>
-                    <option value="25">25</option>
-                    <option value="26">26</option>
-                    <option value="27">27</option>
-                    <option value="28">28</option>
-                    <option value="29">29</option>
-                    <option value="30">30</option>
-                    <option value="31">31</option>
-                </select>
-            </p>
-                <select name="inmonth">
-                    <option value="01">January</option>
-                    <option value="02">February</option>
-                    <option value="03">March</option>
-                    <option value="04">April</option>
-                    <option value="05">May</option>
-                    <option value="06">June</option>
-                    <option value="07">July</option>
-                    <option value="08">August</option>
-                    <option value="09">September</option>
-                    <option value="10">October</option>
-                    <option value="11">November</option>
-                    <option value="12">December</option>
-                </select>
-            <input name="inyear" placeholder="Enter year" type="text"/>
-            <p>
-                <select name="outday">
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4">4</option>
-                    <option value="5">5</option>
-                    <option value="6">6</option>
-                    <option value="7">7</option>
-                    <option value="8">8</option>
-                    <option value="9">9</option>
-                    <option value="10">10</option>
-                    <option value="11">11</option>
-                    <option value="12">12</option>
-                    <option value="13">13</option>
-                    <option value="14">14</option>
-                    <option value="15">15</option>
-                    <option value="16">16</option>
-                    <option value="17">17</option>
-                    <option value="18">18</option>
-                    <option value="19">19</option>
-                    <option value="20">20</option>
-                    <option value="21">21</option>
-                    <option value="22">22</option>
-                    <option value="23">23</option>
-                    <option value="24">24</option>
-                    <option value="25">25</option>
-                    <option value="26">26</option>
-                    <option value="27">27</option>
-                    <option value="28">28</option>
-                    <option value="29">29</option>
-                    <option value="30">30</option>
-                    <option value="31">31</option>
-                </select>
-            </p>
-                <select name="outmonth">
-                    <option value="01">January</option>
-                    <option value="02">February</option>
-                    <option value="03">March</option>
-                    <option value="04">April</option>
-                    <option value="05">May</option>
-                    <option value="06">June</option>
-                    <option value="07">July</option>
-                    <option value="08">August</option>
-                    <option value="09">September</option>
-                    <option value="10">October</option>
-                    <option value="11">November</option>
-                    <option value="12">December</option>
-                </select>
-            <p>
-                <select name="resort_type">
-                    <option value="cultural resorts">Cultural Resort</option>
-                    <option value="sea resorts">Sea Resort</option>
-                    <option value="ski resorts">Ski Resort</option>
-                </select>
-            </p>
 
-            <input name="outyear" placeholder="Enter year" type="text"/>
-            <input type="submit" value="GO"/>
-        </form>
-    </body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Пользовательская форма | Checkout example for Bootstrap</title>
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="css/form-validation.css" rel="stylesheet">
+    <link href="css/Title.css" rel="stylesheets">
+    <h1 aria-label="Hello"></h1>
+  </head>
+
+  <body class="bg-light">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4481610-59', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter39705265 = new Ya.Metrika({ id:39705265, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/39705265" style="position:absolute; left:-9999px;" alt="Yandex.Metrika" /></div></noscript> <!-- /Yandex.Metrika counter -->
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a href="#" class="navbar-brand">
+            <img src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" width="30" height="30" alt="logo">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupport">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                  <a href="#" class="nav-link">Home</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+    </header>
+    <div class="container">
+      <div class="py-5 text-center">
+        <img class="d-block mx-auto mb-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="" width="72" height="72">
+          <p class="lead">Below is an example form built entirely with Bootstrap’s form controls. Each required form group has a validation state that can be triggered by attempting to submit the form without completing it.</p>
+      </div>
+    </div>
+
+    <div class="col-md-8 order-md-1">
+      <h4 class="mb-3">Fill In Data</h4>
+      <form class="needs-validation" novalidate action="/fle" method="post">
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="arr_date">Enter Arrival Date</label>
+            <select class="custom-select d-block w-100" name="arr_date" id="arr_date" required>
+{#              <option disabled selected value="">Enter Departure Date</option>#}
+                  {% for date in dates %}
+              <option value="{{ date }}">{{ date }}</option>
+                    {% endfor %}
+            <div class="invalid-feedback">
+              Valid first name is required.
+            </div>
+            </select>
+          </div>
+        </div>
+          <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="dep_date">Enter Arrival Date</label>
+              <select class="custom-select d-block w-100" name="dep_date" id="dep_date" required>
+{#              <option disabled selected value="">Enter Arrival Date</option>#}
+                  {% for date in dates %}
+              <option value="{{ date }}">{{ date }}</option>
+                    {% endfor %}
+
+            </select>
+{#            <input type="text" class="form-control" name="dep_date" id="dep_date" placeholder="" value="" required>#}
+            <div class="invalid-feedback">
+              Valid departure date is required.
+            </div>
+          </div>
+          </div>
+
+
+
+        <div class="row">
+          <div class="col-md-5 mb-3">
+            <label for="resort_type">Resort Type</label>
+            <select class="custom-select d-block w-100" name="resort_type" id="resort_type" required>
+              <option disabled selected value="">Enter The Type</option>
+              <option value="sea resorts">Sea Resorts</option>
+              <option value="ski resorts">Ski Resorts</option>
+              <option value="cultural resorts">Cultural Resorts</option>
+
+            </select>
+            <div class="invalid-feedback">
+              Please select a valid type.
+            </div>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-md-5 mb-3">
+            <label for="city">City</label>
+            <select class="custom-select d-block w-100" name="city" id="city" required>
+              <option disabled selected value="">Enter Your City</option>
+              {% for i in info %}}
+              <option>
+                {{i.split(',')[1]}}
+              </option>
+              {% endfor %}
+            </select>
+            <div class="invalid-feedback">
+              Please select a valid city.
+            </div>
+          </div>
+
+
+          <div class="col-md-4 mb-3">
+            <label for="Currency">Currency</label>
+            <select class="custom-select d-block w-100" name="Currency" id="Currency" required>
+              <option value="">Enter Currency</option>
+              {% for currency in currencies %}
+              <option value="{{currency}}">
+                {{currency}}
+              </option>
+              {% endfor %}
+            </select>
+            <div class="invalid-feedback">
+              Please provide a valid currency.
+            </div>
+          </div>
+          <div class="col-md-3 mb-3">
+            <label for="price">Price</label>
+            <input type="text" class="form-control" name="price" id="price" placeholder="" required>
+          </div>
+          </div>
+
+          <hr class="mb-4">
+          <button class="btn btn-primary btn-lg btn-block" type="submit">Submit</button>
+      </form>
+    </div>
+
+
+  <footer class="my-5 pt-5 text-muted text-center text-small">
+    <p class="mb-1">&copy; 2019-2020 OP Coursework</p>
+    <ul class="list-inline">
+      <li class="list-inline-item"><a href="#">Privacy</a></li>
+      <li class="list-inline-item"><a href="#">Terms</a></li>
+      <li class="list-inline-item"><a href="#">Support</a></li>
+    </ul>
+  </footer>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="/docs/4.3.1/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
+
+</body>
 </html>

@@ -34,16 +34,12 @@ def info_weather(inpath, outpath):
     file.close()
     dct = {}
     for el in info["list"]:
-       dct[el["dt_txt"]] = {"temp_min": float(el["main"]["temp_min"]) - 273,
-                            "temp_max": float(el["main"]["temp_min"]) - 273,
-                            "weather": el["weather"][0]["description"] + ", " +
-                                       el["weather"][0]["main"]}
+        dct[el["dt_txt"]] = {"temp_min": float(el["main"]["temp_min"]) - 273,
+                             "temp_max": float(el["main"]["temp_min"]) - 273,
+                             "weather": el["weather"][0]["description"] + ", " +
+                                        el["weather"][0]["main"]}
 
     with open(outpath, 'w', encoding='utf-8') as file:
         json.dump(dct, file, indent=4)
     return dct
 
-
-if __name__ == "__main__":
-    get_weather_json("Durban", "initial_weather.json")
-    info_weather("initial_weather.json", "final_weather.json")

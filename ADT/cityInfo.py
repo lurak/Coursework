@@ -1,5 +1,5 @@
 from ADT.placeInfo import PlaceInfo
-from SimpleSite.place import Place
+from extra_modules.place import Place
 
 
 class CityInfo(PlaceInfo):

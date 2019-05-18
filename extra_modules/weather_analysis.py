@@ -1,5 +1,5 @@
 import json
-from weather_funcs import get_weather_json, get_info_from_json
+from extra_modules.weather_funcs import get_weather_json, get_info_from_json
 
 
 class Weather:
@@ -20,8 +20,8 @@ class Weather:
         :return: None
         """
         try:
-            get_weather_json(self.place, "initial.json")
-            get_info_from_json("initial.json", "weather.json")
+            get_weather_json(self.place, "files\\initial_weather.json")
+            get_info_from_json("files\\initial_weather.json", "files\\final_weather.json")
         except:
             pass
 
@@ -31,7 +31,7 @@ class Weather:
         Return dict with weather
         :return: dict
         """
-        with open("weather.json") as f:
+        with open("files\\final_weather.json") as f:
             return json.load(f)
 
     def get_season(self):

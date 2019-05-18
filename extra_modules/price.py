@@ -1,4 +1,4 @@
-from currency_converter import convert_currency
+from extra_modules.currency_converter import convert_currency
 
 
 class Price:

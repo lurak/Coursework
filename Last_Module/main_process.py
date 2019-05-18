@@ -1,6 +1,6 @@
 from ADT.appropriatePlaces import AppropriatePlaces
 from datetime import date
-from Const_data.constData import RESORTS
+from SimpleSite.constData import RESORTS
 
 
 resort_type = input("input cultural resorts, sea resorts or ski resorts: ")

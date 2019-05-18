@@ -1,6 +1,6 @@
 from ADT.data_structures.linkedList import LinkedList
-from weather_analysis import Weather
-from SimpleSite.place import Place
+from extra_modules.weather_analysis import Weather
+from extra_modules.place import Place
 
 
 class AppropriatePlaces:
@@ -13,7 +13,10 @@ class AppropriatePlaces:
         self.app_cities = LinkedList()
         self.cities_ADT = cities_ADT
         self.days = days
-        self.create()
+        try:
+            self.create()
+        except:
+            print("OK")
 
     def check_city(self, city):
         """
@@ -42,6 +45,7 @@ class AppropriatePlaces:
         :return: None
         """
         for i in range(len(self.cities_ADT)):
+            self.cities_ADT[i].wiki_information()
             self.add_city(self.cities_ADT[i])
 
     def delete(self, value):

@@ -107,26 +107,26 @@ def get_search_id(departure_id, arrival_id, date):
             'is_rebrand': True
             }
     urllib.parse.urlencode(data)
-    req = requests.post(url, data=data)
-    return int(re.findall("/(\d*)/", req.url)[1])
+    req = requests.get(url, params=data)
+    #print(req.url)
+    return re.findall("/[A-Z\d]+/", req.url)[0][1:-1]
 
 
-def cities_ids(departure_city, arrival_city, path):
+def cities_ids(departure_city, arrival_city, places):
     """
 
     :param departure_city: str
     :param arrival_city: str
-    :param path: str
+    :param places: str
     :return: tuple
 
     Return the tuple of ids of cities
     """
-    with open(path, encoding='utf-8') as f:
-        lines = f.readlines()
+
     k = 0
     departure_id = 0
     arrival_id = 0
-    for line in lines:
+    for line in places:
         if k == 2:
             break
         line = line.split(', ')
@@ -157,15 +157,4 @@ def ticket_url(search_id, ids, mode):
                                                                              str(search_id),
                                                                              outboundId)
 
-
-if __name__ == "__main__":
-    b = input()
-    p = input()
-    ids = cities_ids(b, p, "files\\ids.txt")
-    # print(ids)
-    search_id = get_search_id(ids[0], ids[1], date='15/03/2019')
-    # print(search_id)
-    get_tickets_json("initial_tickets.json", search_id)
-    pp = pprint.PrettyPrinter(depth=2)
-    dct = tickets_info("initial_tickets.json", search_id=search_id, outpath="final_tickets.json")
 

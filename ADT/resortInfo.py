@@ -1,7 +1,7 @@
 import json
 
 from ADT.placeInfo import PlaceInfo
-from SimpleSite.place import Place
+from extra_modules.place import Place
 
 
 class ResortsInfo(PlaceInfo):
@@ -19,5 +19,5 @@ class ResortsInfo(PlaceInfo):
         i = 0
         for resort in resorts.items():
             self[i] = Place(name=resort[0],
-                            extra_data={"name": resort[1]})
+                            extra_data={"picture": resort[1]})
             i += 1

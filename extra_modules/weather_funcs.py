@@ -36,8 +36,3 @@ def get_info_from_json(inpath, outpath):
                                         el["weather"][0]["main"]}
     with open(outpath, 'w', encoding='utf-8') as f:
         json.dump(dct, f, indent=4)
-
-
-if __name__ == "__main__":
-    get_weather_json("Durban", "w.json")
-    get_info_from_json("w.json", "need.json")

@@ -1,8 +1,8 @@
 from unittest import TestCase, main
 from ADT.resortInfo import ResortsInfo
 from ADT.appropriatePlaces import AppropriatePlaces
-from weather_analysis import Weather
-from SimpleSite.place import Place
+from extra_modules.weather_analysis import Weather
+from extra_modules.place import Place
 
 
 class TestAppropriatePlaces(TestCase):
