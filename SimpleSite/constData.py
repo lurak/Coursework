@@ -8,7 +8,7 @@ SKI_RESORTS_NUMBER = 33
 CULTURAL_RESORTS = ResortsInfo(CULTURAL_RESORTS_NUMBER)
 SEA_RESORTS = ResortsInfo(SEA_RESORTS_NUMBER)
 SKI_RESORTS = ResortsInfo(SKI_RESORTS_NUMBER)
-CULTURAL_RESORTS.create("..\\SimpleSite\\files\\data.json", "cultural resorts")
+CULTURAL_RESORTS.create("home\\shakhov\\Coursework\\files\\data.json", "cultural resorts")
 SEA_RESORTS.create("..\\SimpleSite\\files\\data.json", "sea resorts")
 SKI_RESORTS.create("..\\SimpleSite\\files\\data.json", "ski resorts")
 RESORTS = {"cultural resorts": CULTURAL_RESORTS, "sea resorts": SEA_RESORTS, "ski resorts": SKI_RESORTS}
