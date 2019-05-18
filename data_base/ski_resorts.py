@@ -79,8 +79,12 @@ def dict_conecter_ski(dict_1, dict_2):
     https://tripmydream.ua/blog/podborki/top-6-kraschih-girskolizhnih-kyrortiv-avstrigi
     https://travelyourway.com.ua/ua/blog/luchshie-gornolyzhnye-kurorty-evropy/
     """
+    lst = ['Bohinj', 'Kopaoník', 'Platak', 'Poiana Brasov', 'Clear', 'Kronplatc', 'Livinho', 'Serre Chevalier',
+           'Soldeu El', 'Formal', 'Gaylo']
     keys = [key for key in dict_1]
     values = [value for value in dict_1]
     for item in range(len(keys)):
+        if values[item] in lst:
+            continue
         dict_2[keys[item]] = values[item]
     return dict_2

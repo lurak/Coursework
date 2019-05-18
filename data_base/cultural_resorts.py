@@ -58,8 +58,11 @@ def dict_conecter_cultural(dict_1, dict_2):
     https://andy-travelua.livejournal.com/389517.html
     https://www.obozrevatel.com/ukr/travel/news/top-10-nejmovirnih-mist-evropi-yaki-potribno-vidvidati.htm
     """
+    lst = ['Ez', 'Maisenya', 'Bautcen']
     keys = [key for key in dict_1]
     values = [value for value in dict_1]
     for item in range(len(keys)):
+        if values[item] in lst:
+            continue
         dict_2[keys[item]] = values[item]
     return dict_2
