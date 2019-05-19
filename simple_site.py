@@ -2,12 +2,12 @@ import time
 from datetime import date
 import json
 from flask import Flask, render_template, request
-from SimpleSite.constData import DATES
-from ADT.appropriatePlaces import AppropriatePlaces
-from SimpleSite.constData import RESORTS, PLACES
-from SimpleSite.optimal_places import choose_cities
-from extra_modules.place import Place
-from extra_modules.price import Price
+from constData import DATES
+from appropriatePlaces import AppropriatePlaces
+from constData import RESORTS, PLACES
+from optimal_places import choose_cities
+from place import Place
+from price import Price
 
 
 app = Flask(__name__)
@@ -69,4 +69,4 @@ def tickets():
 
 
 if __name__ == "__main__":
-    app.run(host='127.0.0.2')
+    app.run()
