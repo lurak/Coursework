@@ -1,0 +1,3933 @@
+{
+    "-96137207/7728508241936732477": {
+        "departureTime": "2019-05-22T13:30:00.000+01:00",
+        "ar_time": "2019-05-23T15:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Eurolines France",
+        "cID": "2514",
+        "price": 56.89,
+        "segment": [
+            -629225338,
+            -1551956600
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "London, Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid, Estacion Sur De Autobuses",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.41676,
+                "longitude": -3.70379
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-96137207/X6366E45D0EE84BF6A69545E20F741E57/7728508241936732477"
+    },
+    "-1594960051/7948398369753615677": {
+        "departureTime": "2019-05-22T22:30:00.000+01:00",
+        "ar_time": "2019-05-24T11:30:00.000+02:00",
+        "stops": "2",
+        "companyName": "Eurolines France",
+        "cID": "2514",
+        "price": 82.43,
+        "segment": [
+            1884163483,
+            908625890,
+            -1940067162
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "London, Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            },
+            {
+                "positionType": "busstation",
+                "name": "Baltanas, Calle Real",
+                "countryCode": "ES",
+                "cityName": "Quintana del Puente",
+                "latitude": 42.0772739584809,
+                "longitude": -4.20949113183086
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            },
+            {
+                "positionType": "busstation",
+                "name": "Baltanas, Calle Real",
+                "countryCode": "ES",
+                "cityName": "Quintana del Puente",
+                "latitude": 42.0772739584809,
+                "longitude": -4.20949113183086
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid, Estacion Sur De Autobuses",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.41676,
+                "longitude": -3.70379
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1594960051/X6366E45D0EE84BF6A69545E20F741E57/7948398369753615677"
+    },
+    "-16213682/4069337938264286013": {
+        "departureTime": "2019-05-22T08:00:00.000+01:00",
+        "ar_time": "2019-05-23T15:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Eurolines France",
+        "cID": "2514",
+        "price": 56.89,
+        "segment": [
+            -1599294273,
+            -1551956600
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "London, Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid, Estacion Sur De Autobuses",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.41676,
+                "longitude": -3.70379
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-16213682/X6366E45D0EE84BF6A69545E20F741E57/4069337938264286013"
+    },
+    "-1410380919/4714204964816244029": {
+        "departureTime": "2019-05-22T23:30:00.000+01:00",
+        "ar_time": "2019-05-24T11:30:00.000+02:00",
+        "stops": "2",
+        "companyName": "Eurolines France",
+        "cID": "2514",
+        "price": 77.79,
+        "segment": [
+            1761802801,
+            908625890,
+            -1940067162
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "London, Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            },
+            {
+                "positionType": "busstation",
+                "name": "Baltanas, Calle Real",
+                "countryCode": "ES",
+                "cityName": "Quintana del Puente",
+                "latitude": 42.0772739584809,
+                "longitude": -4.20949113183086
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            },
+            {
+                "positionType": "busstation",
+                "name": "Baltanas, Calle Real",
+                "countryCode": "ES",
+                "cityName": "Quintana del Puente",
+                "latitude": 42.0772739584809,
+                "longitude": -4.20949113183086
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid, Estacion Sur De Autobuses",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.41676,
+                "longitude": -3.70379
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1410380919/X6366E45D0EE84BF6A69545E20F741E57/4714204964816244029"
+    },
+    "679184040/7955667227983818813": {
+        "departureTime": "2019-05-22T10:30:00.000+01:00",
+        "ar_time": "2019-05-23T15:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Eurolines France",
+        "cID": "2514",
+        "price": 55.73,
+        "segment": [
+            -641738647,
+            -1551956600
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "London, Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Galli\u00e9ni",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.86521,
+                "longitude": 2.41425
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid, Estacion Sur De Autobuses",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.41676,
+                "longitude": -3.70379
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/679184040/X6366E45D0EE84BF6A69545E20F741E57/7955667227983818813"
+    },
+    "1050452637/7436694556854284093": {
+        "departureTime": "2019-05-22T23:45:00.000+01:00",
+        "ar_time": "2019-05-24T06:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Eurolines Switzerland",
+        "cID": "3113",
+        "price": 62.67,
+        "segment": [
+            -1720824802,
+            -814538564
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Londres Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Par\u00eds Bercy"
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Par\u00eds Bercy"
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid (av.america)",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.39527,
+                "longitude": -3.67863
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1050452637/X6366E45D0EE84BF6A69545E20F741E57/7436694556854284093"
+    },
+    "1835283909/5868524807611045181": {
+        "departureTime": "2019-05-22T23:45:00.000+01:00",
+        "ar_time": "2019-05-24T07:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Eurolines Switzerland",
+        "cID": "3113",
+        "price": 62.67,
+        "segment": [
+            -1720824802,
+            -855329828
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "Londres Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Par\u00eds Bercy"
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Par\u00eds Bercy"
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid Estacion Sur",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.39527,
+                "longitude": -3.67863
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1835283909/X6366E45D0EE84BF6A69545E20F741E57/5868524807611045181"
+    },
+    "1752470402/8599743679591232573": {
+        "departureTime": "2019-05-22T23:45:00.000+01:00",
+        "ar_time": "2019-05-24T06:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Ouibus",
+        "cID": "1375",
+        "price": 62.67,
+        "segment": [
+            -77596135,
+            1023474857
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "London, Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Bercy-Seine",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.837078286284765,
+                "longitude": 2.3789123994445163
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Bercy-Seine",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.837078286284765,
+                "longitude": 2.3789123994445163
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid, Avenida de Am\u00e9rica",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.438335,
+                "longitude": -3.676683
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/1752470402/X6366E45D0EE84BF6A69545E20F741E57/8599743679591232573"
+    },
+    "-1359199577/8310096012632869181": {
+        "departureTime": "2019-05-22T23:45:00.000+01:00",
+        "ar_time": "2019-05-24T07:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Ouibus",
+        "cID": "1375",
+        "price": 62.67,
+        "segment": [
+            -77596135,
+            424506027
+        ],
+        "mode": "bus",
+        "stations_dep": [
+            {
+                "positionType": "busstation",
+                "name": "London, Victoria Coach Station",
+                "countryCode": "GB",
+                "cityName": "London",
+                "latitude": 51.49292,
+                "longitude": -0.14914
+            },
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Bercy-Seine",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.837078286284765,
+                "longitude": 2.3789123994445163
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "busstation",
+                "name": "Paris, Gare Routi\u00e8re Bercy-Seine",
+                "countryCode": "FR",
+                "cityName": "Paris",
+                "latitude": 48.837078286284765,
+                "longitude": 2.3789123994445163
+            },
+            {
+                "positionType": "busstation",
+                "name": "Madrid, Estaci\u00f3n Sur",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "latitude": 40.39527,
+                "longitude": -3.67863
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/bus/-1359199577/X6366E45D0EE84BF6A69545E20F741E57/8310096012632869181"
+    },
+    "-121582092/3982981208479266621": {
+        "departureTime": "2019-05-22T17:15:00.000+01:00",
+        "ar_time": "2019-05-22T23:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "tab",
+        "cID": "87",
+        "price": 449.36,
+        "segment": [
+            -462087725,
+            1411047310
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-121582092/X6366E45D0EE84BF6A69545E20F741E57/3982981208479266621"
+    },
+    "1146616746/7661275265629241661": {
+        "departureTime": "2019-05-22T12:05:00.000+01:00",
+        "ar_time": "2019-05-22T19:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 381.3,
+        "segment": [
+            296577034,
+            1486135537
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1146616746/X6366E45D0EE84BF6A69545E20F741E57/7661275265629241661"
+    },
+    "1741807844/7742347966294751037": {
+        "departureTime": "2019-05-22T07:25:00.000+01:00",
+        "ar_time": "2019-05-22T14:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 381.09,
+        "segment": [
+            1426349296,
+            708081839
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1741807844/X6366E45D0EE84BF6A69545E20F741E57/7742347966294751037"
+    },
+    "-948111811/7154024565959249213": {
+        "departureTime": "2019-05-22T09:30:00.000+01:00",
+        "ar_time": "2019-05-22T15:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 345.55,
+        "segment": [
+            -1938078405,
+            -2045483942
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-948111811/X6366E45D0EE84BF6A69545E20F741E57/7154024565959249213"
+    },
+    "391033664/8169933726997902141": {
+        "departureTime": "2019-05-22T12:45:00.000+01:00",
+        "ar_time": "2019-05-22T20:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 386.86,
+        "segment": [
+            38689217,
+            515986614
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/391033664/X6366E45D0EE84BF6A69545E20F741E57/8169933726997902141"
+    },
+    "1999527307/7595114507741442109": {
+        "departureTime": "2019-05-22T09:20:00.000+01:00",
+        "ar_time": "2019-05-22T23:20:00.000+02:00",
+        "stops": "1",
+        "companyName": "Norwegian Air Shuttle",
+        "cID": "137",
+        "price": 272.15,
+        "segment": [
+            -527224527,
+            -1417832885
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Stockholm Arlanda Airport",
+                "countryCode": "SE",
+                "cityName": "Stockholm-Arlanda",
+                "iataCode": "ARN",
+                "latitude": 59.65213,
+                "longitude": 17.93175
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Stockholm Arlanda Airport",
+                "countryCode": "SE",
+                "cityName": "Stockholm-Arlanda",
+                "iataCode": "ARN",
+                "latitude": 59.65213,
+                "longitude": 17.93175
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1999527307/X6366E45D0EE84BF6A69545E20F741E57/7595114507741442109"
+    },
+    "1320192802/4051367580402663741": {
+        "departureTime": "2019-05-22T07:55:00.000+01:00",
+        "ar_time": "2019-05-22T14:50:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 449.36,
+        "segment": [
+            -1536402770,
+            -1050865719
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1320192802/X6366E45D0EE84BF6A69545E20F741E57/4051367580402663741"
+    },
+    "1755791246/5073712010815760189": {
+        "departureTime": "2019-05-22T10:30:00.000+01:00",
+        "ar_time": "2019-05-22T23:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 351.3,
+        "segment": [
+            2064817078,
+            1810060177
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1755791246/X6366E45D0EE84BF6A69545E20F741E57/5073712010815760189"
+    },
+    "1929438806/7660186839666620221": {
+        "departureTime": "2019-05-22T07:25:00.000+01:00",
+        "ar_time": "2019-05-22T18:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 348.58,
+        "segment": [
+            1426349296,
+            897064927
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1929438806/X6366E45D0EE84BF6A69545E20F741E57/7660186839666620221"
+    },
+    "863937759/4771360916971998525": {
+        "departureTime": "2019-05-22T09:05:00.000+01:00",
+        "ar_time": "2019-05-22T15:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Vueling",
+        "cID": "117",
+        "price": 161.66,
+        "segment": [
+            315550086,
+            -625137478
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/863937759/X6366E45D0EE84BF6A69545E20F741E57/4771360916971998525"
+    },
+    "-1961272358/5793417139124991805": {
+        "departureTime": "2019-05-22T11:05:00.000+01:00",
+        "ar_time": "2019-05-22T16:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Brussels Airlines",
+        "cID": "49",
+        "price": 124.4,
+        "segment": [
+            852166282,
+            1597506777
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1961272358/X6366E45D0EE84BF6A69545E20F741E57/5793417139124991805"
+    },
+    "622001871/4125660566890039613": {
+        "departureTime": "2019-05-22T14:40:00.000+01:00",
+        "ar_time": "2019-05-22T20:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Vueling",
+        "cID": "117",
+        "price": 188.36,
+        "segment": [
+            -1146657184,
+            -261973960
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/622001871/X6366E45D0EE84BF6A69545E20F741E57/4125660566890039613"
+    },
+    "-582481927/7238811240469907773": {
+        "departureTime": "2019-05-22T14:50:00.000+01:00",
+        "ar_time": "2019-05-23T11:15:00.000+02:00",
+        "stops": "1",
+        "companyName": "tarom",
+        "cID": "94",
+        "price": 558.35,
+        "segment": [
+            -1826092689,
+            1902310933
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Bucharest Henri Coanda International Airport",
+                "countryCode": "RO",
+                "cityName": "Otopeni",
+                "iataCode": "OTP",
+                "latitude": 44.57083,
+                "longitude": 26.085
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Bucharest Henri Coanda International Airport",
+                "countryCode": "RO",
+                "cityName": "Otopeni",
+                "iataCode": "OTP",
+                "latitude": 44.57083,
+                "longitude": 26.085
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-582481927/X6366E45D0EE84BF6A69545E20F741E57/7238811240469907773"
+    },
+    "-1172402183/4857236859885022013": {
+        "departureTime": "2019-05-22T12:55:00.000+01:00",
+        "ar_time": "2019-05-22T18:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Vueling",
+        "cID": "117",
+        "price": 196.49,
+        "segment": [
+            2012531756,
+            -389038705
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1172402183/X6366E45D0EE84BF6A69545E20F741E57/4857236859885022013"
+    },
+    "-2019735842/6302317385897553981": {
+        "departureTime": "2019-05-22T20:15:00.000+01:00",
+        "ar_time": "2019-05-23T09:15:00.000+02:00",
+        "stops": "1",
+        "companyName": "tab",
+        "cID": "87",
+        "price": 449.36,
+        "segment": [
+            1631176758,
+            -1725230441
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-2019735842/X6366E45D0EE84BF6A69545E20F741E57/6302317385897553981"
+    },
+    "-128479777/5002997132118485821": {
+        "departureTime": "2019-05-22T06:50:00.000+01:00",
+        "ar_time": "2019-05-22T16:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Brussels Airlines",
+        "cID": "49",
+        "price": 204.45,
+        "segment": [
+            930291489,
+            1597506777
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-128479777/X6366E45D0EE84BF6A69545E20F741E57/5002997132118485821"
+    },
+    "2020079580/8745771971242521405": {
+        "departureTime": "2019-05-22T13:50:00.000+01:00",
+        "ar_time": "2019-05-22T21:45:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 381.09,
+        "segment": [
+            1071906155,
+            2117933201
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/2020079580/X6366E45D0EE84BF6A69545E20F741E57/8745771971242521405"
+    },
+    "-17280775/7437525770463701821": {
+        "departureTime": "2019-05-22T08:40:00.000+01:00",
+        "ar_time": "2019-05-22T14:50:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 454.44,
+        "segment": [
+            355774308,
+            -1050865719
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-17280775/X6366E45D0EE84BF6A69545E20F741E57/7437525770463701821"
+    },
+    "1813960604/7521372319301133117": {
+        "departureTime": "2019-05-22T10:05:00.000+01:00",
+        "ar_time": "2019-05-22T13:30:00.000+02:00",
+        "stops": "0",
+        "companyName": "Norwegian Air Shuttle",
+        "cID": "137",
+        "price": 246.7,
+        "segment": [
+            -1146637149
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1813960604/X6366E45D0EE84BF6A69545E20F741E57/7521372319301133117"
+    },
+    "-1189461010/3769344900201672509": {
+        "departureTime": "2019-05-22T08:55:00.000+01:00",
+        "ar_time": "2019-05-22T20:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 352.46,
+        "segment": [
+            895950012,
+            515986614
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1189461010/X6366E45D0EE84BF6A69545E20F741E57/3769344900201672509"
+    },
+    "-1489042433/3626302908203680061": {
+        "departureTime": "2019-05-22T12:25:00.000+01:00",
+        "ar_time": "2019-05-22T19:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "tab",
+        "cID": "87",
+        "price": 382.03,
+        "segment": [
+            2021000056,
+            1486135537
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1489042433/X6366E45D0EE84BF6A69545E20F741E57/3626302908203680061"
+    },
+    "-1501232566/6003684598267131965": {
+        "departureTime": "2019-05-22T11:30:00.000+01:00",
+        "ar_time": "2019-05-22T23:35:00.000+02:00",
+        "stops": "1",
+        "companyName": "Norwegian Air Shuttle",
+        "cID": "137",
+        "price": 274.8,
+        "segment": [
+            789386839,
+            1973372647
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Copenhagen Airport",
+                "countryCode": "DK",
+                "cityName": "Kastrup",
+                "iataCode": "CPH",
+                "latitude": 55.62864,
+                "longitude": 12.64853
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Copenhagen Airport",
+                "countryCode": "DK",
+                "cityName": "Kastrup",
+                "iataCode": "CPH",
+                "latitude": 55.62864,
+                "longitude": 12.64853
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1501232566/X6366E45D0EE84BF6A69545E20F741E57/6003684598267131965"
+    },
+    "-1463355274/7959628893071494461": {
+        "departureTime": "2019-05-22T11:00:00.000+01:00",
+        "ar_time": "2019-05-22T18:20:00.000+02:00",
+        "stops": "1",
+        "companyName": "Tunis Air",
+        "cID": "150",
+        "price": 296.68,
+        "segment": [
+            -1873660847,
+            785122742
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Tunis",
+                "countryCode": "TN",
+                "cityName": "Aryanah",
+                "iataCode": "TUN",
+                "latitude": 36.85111,
+                "longitude": 10.22694
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Tunis",
+                "countryCode": "TN",
+                "cityName": "Aryanah",
+                "iataCode": "TUN",
+                "latitude": 36.85111,
+                "longitude": 10.22694
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1463355274/X6366E45D0EE84BF6A69545E20F741E57/7959628893071494461"
+    },
+    "417962732/7084290076998714685": {
+        "departureTime": "2019-05-22T17:00:00.000+01:00",
+        "ar_time": "2019-05-22T23:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa Cityline ",
+        "cID": "36",
+        "price": 630.67,
+        "segment": [
+            -841894579,
+            1810060177
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/417962732/X6366E45D0EE84BF6A69545E20F741E57/7084290076998714685"
+    },
+    "1595371277/7585294614623578941": {
+        "departureTime": "2019-05-22T08:45:00.000+01:00",
+        "ar_time": "2019-05-22T23:35:00.000+02:00",
+        "stops": "1",
+        "companyName": "Norwegian Air Shuttle",
+        "cID": "137",
+        "price": 274.8,
+        "segment": [
+            -1425067866,
+            1973372647
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Copenhagen Airport",
+                "countryCode": "DK",
+                "cityName": "Kastrup",
+                "iataCode": "CPH",
+                "latitude": 55.62864,
+                "longitude": 12.64853
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Copenhagen Airport",
+                "countryCode": "DK",
+                "cityName": "Kastrup",
+                "iataCode": "CPH",
+                "latitude": 55.62864,
+                "longitude": 12.64853
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1595371277/X6366E45D0EE84BF6A69545E20F741E57/7585294614623578941"
+    },
+    "581342738/7091856924073739581": {
+        "departureTime": "2019-05-22T09:00:00.000+01:00",
+        "ar_time": "2019-05-22T18:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 342.83,
+        "segment": [
+            -1455377871,
+            897064927
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/581342738/X6366E45D0EE84BF6A69545E20F741E57/7091856924073739581"
+    },
+    "-99117817/3631689334616190781": {
+        "departureTime": "2019-05-22T07:55:00.000+01:00",
+        "ar_time": "2019-05-22T19:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 382.03,
+        "segment": [
+            -1536402770,
+            1486135537
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-99117817/X6366E45D0EE84BF6A69545E20F741E57/3631689334616190781"
+    },
+    "1997980149/8534149007533950269": {
+        "departureTime": "2019-05-22T10:10:00.000+01:00",
+        "ar_time": "2019-05-22T13:35:00.000+02:00",
+        "stops": "0",
+        "companyName": "Air Europa",
+        "cID": "45",
+        "price": 238.88,
+        "segment": [
+            1386185721
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1997980149/X6366E45D0EE84BF6A69545E20F741E57/8534149007533950269"
+    },
+    "-1753563129/8162009387530802493": {
+        "departureTime": "2019-05-22T06:55:00.000+01:00",
+        "ar_time": "2019-05-22T18:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 348.58,
+        "segment": [
+            -1340268241,
+            897064927
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1753563129/X6366E45D0EE84BF6A69545E20F741E57/8162009387530802493"
+    },
+    "-1888662640/4789418037289235517": {
+        "departureTime": "2019-05-22T13:10:00.000+01:00",
+        "ar_time": "2019-05-22T23:20:00.000+02:00",
+        "stops": "1",
+        "companyName": "Norwegian Air Shuttle",
+        "cID": "137",
+        "price": 272.15,
+        "segment": [
+            1103236640,
+            -1417832885
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Stockholm Arlanda Airport",
+                "countryCode": "SE",
+                "cityName": "Stockholm-Arlanda",
+                "iataCode": "ARN",
+                "latitude": 59.65213,
+                "longitude": 17.93175
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Stockholm Arlanda Airport",
+                "countryCode": "SE",
+                "cityName": "Stockholm-Arlanda",
+                "iataCode": "ARN",
+                "latitude": 59.65213,
+                "longitude": 17.93175
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1888662640/X6366E45D0EE84BF6A69545E20F741E57/4789418037289235517"
+    },
+    "375815736/7805381881502980413": {
+        "departureTime": "2019-05-22T06:30:00.000+01:00",
+        "ar_time": "2019-05-22T15:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 351.3,
+        "segment": [
+            -71884584,
+            -2045483942
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/375815736/X6366E45D0EE84BF6A69545E20F741E57/7805381881502980413"
+    },
+    "1450651067/3479711817593205821": {
+        "departureTime": "2019-05-22T21:35:00.000+01:00",
+        "ar_time": "2019-05-23T09:50:00.000+02:00",
+        "stops": "1",
+        "companyName": "Aer Lingus",
+        "cID": "46",
+        "price": 357.23,
+        "segment": [
+            -609602803,
+            1111086261
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Dublin Airport",
+                "countryCode": "IE",
+                "cityName": "Swords",
+                "iataCode": "DUB",
+                "latitude": 53.4274159,
+                "longitude": -6.2435603
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Dublin Airport",
+                "countryCode": "IE",
+                "cityName": "Swords",
+                "iataCode": "DUB",
+                "latitude": 53.4274159,
+                "longitude": -6.2435603
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1450651067/X6366E45D0EE84BF6A69545E20F741E57/3479711817593205821"
+    },
+    "1332292992/5217481067578344765": {
+        "departureTime": "2019-05-22T17:20:00.000+01:00",
+        "ar_time": "2019-05-22T20:50:00.000+02:00",
+        "stops": "0",
+        "companyName": "Air Europa",
+        "cID": "45",
+        "price": 238.88,
+        "segment": [
+            -181669128
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1332292992/X6366E45D0EE84BF6A69545E20F741E57/5217481067578344765"
+    },
+    "789029324/6516506640213767997": {
+        "departureTime": "2019-05-22T11:30:00.000+01:00",
+        "ar_time": "2019-05-22T23:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 351.3,
+        "segment": [
+            -1399847862,
+            1810060177
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/789029324/X6366E45D0EE84BF6A69545E20F741E57/6516506640213767997"
+    },
+    "-1144494520/3483931567576993085": {
+        "departureTime": "2019-05-22T13:30:00.000+01:00",
+        "ar_time": "2019-05-22T23:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 351.3,
+        "segment": [
+            -624436392,
+            1810060177
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1144494520/X6366E45D0EE84BF6A69545E20F741E57/3483931567576993085"
+    },
+    "-1920993827/8167091296187864381": {
+        "departureTime": "2019-05-22T09:15:00.000+01:00",
+        "ar_time": "2019-05-22T15:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa Cityline ",
+        "cID": "36",
+        "price": 385.7,
+        "segment": [
+            -27987063,
+            -2045483942
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1920993827/X6366E45D0EE84BF6A69545E20F741E57/8167091296187864381"
+    },
+    "-864754530/7662086942056854589": {
+        "departureTime": "2019-05-22T08:40:00.000+01:00",
+        "ar_time": "2019-05-22T19:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 381.3,
+        "segment": [
+            355774308,
+            1486135537
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-864754530/X6366E45D0EE84BF6A69545E20F741E57/7662086942056854589"
+    },
+    "-885504041/6068660341493494589": {
+        "departureTime": "2019-05-22T09:45:00.000+01:00",
+        "ar_time": "2019-05-22T15:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Vueling",
+        "cID": "117",
+        "price": 161.66,
+        "segment": [
+            -1164124479,
+            -625137478
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-885504041/X6366E45D0EE84BF6A69545E20F741E57/6068660341493494589"
+    },
+    "676474443/3774427921667618621": {
+        "departureTime": "2019-05-22T17:30:00.000+01:00",
+        "ar_time": "2019-05-22T21:05:00.000+02:00",
+        "stops": "0",
+        "companyName": "Ryanair",
+        "cID": "136",
+        "price": 179.56,
+        "segment": [
+            -1769727856
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Stansted Airport",
+                "countryCode": "GB",
+                "cityName": "Stansted",
+                "iataCode": "STN",
+                "latitude": 51.889339447021484,
+                "longitude": 0.26246270537376404
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/676474443/X6366E45D0EE84BF6A69545E20F741E57/3774427921667618621"
+    },
+    "250187010/7651715162518547261": {
+        "departureTime": "2019-05-22T16:30:00.000+01:00",
+        "ar_time": "2019-05-22T23:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 383.8,
+        "segment": [
+            1685871883,
+            1810060177
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/250187010/X6366E45D0EE84BF6A69545E20F741E57/7651715162518547261"
+    },
+    "2030066458/8824920479627374397": {
+        "departureTime": "2019-05-22T17:40:00.000+01:00",
+        "ar_time": "2019-05-22T21:15:00.000+02:00",
+        "stops": "0",
+        "companyName": "easyJet",
+        "cID": "135",
+        "price": 193.81,
+        "segment": [
+            -302930129
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/2030066458/X6366E45D0EE84BF6A69545E20F741E57/8824920479627374397"
+    },
+    "879096040/7455557791007917373": {
+        "departureTime": "2019-05-22T08:25:00.000+01:00",
+        "ar_time": "2019-05-22T12:00:00.000+02:00",
+        "stops": "0",
+        "companyName": "Ryanair",
+        "cID": "136",
+        "price": 126.85,
+        "segment": [
+            589265849
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Stansted Airport",
+                "countryCode": "GB",
+                "cityName": "Stansted",
+                "iataCode": "STN",
+                "latitude": 51.889339447021484,
+                "longitude": 0.26246270537376404
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/879096040/X6366E45D0EE84BF6A69545E20F741E57/7455557791007917373"
+    },
+    "-152807403/8230717762686051133": {
+        "departureTime": "2019-05-22T10:55:00.000+01:00",
+        "ar_time": "2019-05-22T18:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 381.09,
+        "segment": [
+            746833542,
+            897064927
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-152807403/X6366E45D0EE84BF6A69545E20F741E57/8230717762686051133"
+    },
+    "-287099865/3837756694406264637": {
+        "departureTime": "2019-05-22T11:55:00.000+01:00",
+        "ar_time": "2019-05-22T15:30:00.000+02:00",
+        "stops": "0",
+        "companyName": "Ryanair",
+        "cID": "136",
+        "price": 126.85,
+        "segment": [
+            -1779237354
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Stansted Airport",
+                "countryCode": "GB",
+                "cityName": "Stansted",
+                "iataCode": "STN",
+                "latitude": 51.889339447021484,
+                "longitude": 0.26246270537376404
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-287099865/X6366E45D0EE84BF6A69545E20F741E57/3837756694406264637"
+    },
+    "637197801/5143476260943974717": {
+        "departureTime": "2019-05-22T13:10:00.000+01:00",
+        "ar_time": "2019-05-22T16:40:00.000+02:00",
+        "stops": "0",
+        "companyName": "easyJet",
+        "cID": "135",
+        "price": 137.65,
+        "segment": [
+            -337934581
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Luton Airport",
+                "countryCode": "GB",
+                "cityName": "Luton",
+                "iataCode": "LTN",
+                "latitude": 51.879379,
+                "longitude": -0.376292
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/637197801/X6366E45D0EE84BF6A69545E20F741E57/5143476260943974717"
+    },
+    "994871938/6438231388835246909": {
+        "departureTime": "2019-05-22T10:00:00.000+01:00",
+        "ar_time": "2019-05-22T19:00:00.000+02:00",
+        "stops": "1",
+        "companyName": "tab",
+        "cID": "87",
+        "price": 382.03,
+        "segment": [
+            -156480340,
+            1486135537
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/994871938/X6366E45D0EE84BF6A69545E20F741E57/6438231388835246909"
+    },
+    "-1455625359/3630827511176577341": {
+        "departureTime": "2019-05-22T12:20:00.000+01:00",
+        "ar_time": "2019-05-23T00:10:00.000+02:00",
+        "stops": "1",
+        "companyName": "Ukraine Intl. Airlines",
+        "cID": "145",
+        "price": 302.79,
+        "segment": [
+            -1634595699,
+            122919602
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Kiev Boryspil International Airport",
+                "countryCode": "UA",
+                "cityName": "Boryspil",
+                "iataCode": "KBP",
+                "latitude": 50.345,
+                "longitude": 30.895
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Kiev Boryspil International Airport",
+                "countryCode": "UA",
+                "cityName": "Boryspil",
+                "iataCode": "KBP",
+                "latitude": 50.345,
+                "longitude": 30.895
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1455625359/X6366E45D0EE84BF6A69545E20F741E57/3630827511176577341"
+    },
+    "1156019192/5869088839932406589": {
+        "departureTime": "2019-05-22T13:30:00.000+01:00",
+        "ar_time": "2019-05-22T19:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 383.8,
+        "segment": [
+            -624436392,
+            1980319931
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1156019192/X6366E45D0EE84BF6A69545E20F741E57/5869088839932406589"
+    },
+    "1273254897/5866863647708297277": {
+        "departureTime": "2019-05-22T06:00:00.000+01:00",
+        "ar_time": "2019-05-22T14:50:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 381.3,
+        "segment": [
+            -2136033325,
+            -1050865719
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1273254897/X6366E45D0EE84BF6A69545E20F741E57/5866863647708297277"
+    },
+    "859783307/5791472214073225277": {
+        "departureTime": "2019-05-22T17:30:00.000+01:00",
+        "ar_time": "2019-05-22T23:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 517.32,
+        "segment": [
+            -923934252,
+            1810060177
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/859783307/X6366E45D0EE84BF6A69545E20F741E57/5791472214073225277"
+    },
+    "1388657474/4123414162176030781": {
+        "departureTime": "2019-05-22T13:45:00.000+01:00",
+        "ar_time": "2019-05-22T23:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 381.3,
+        "segment": [
+            -802905069,
+            1411047310
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1388657474/X6366E45D0EE84BF6A69545E20F741E57/4123414162176030781"
+    },
+    "346170988/6427259234075100477": {
+        "departureTime": "2019-05-22T06:25:00.000+01:00",
+        "ar_time": "2019-05-22T10:00:00.000+02:00",
+        "stops": "0",
+        "companyName": "Ryanair",
+        "cID": "136",
+        "price": 107.93,
+        "segment": [
+            -186145621
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Stansted Airport",
+                "countryCode": "GB",
+                "cityName": "Stansted",
+                "iataCode": "STN",
+                "latitude": 51.889339447021484,
+                "longitude": 0.26246270537376404
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/346170988/X6366E45D0EE84BF6A69545E20F741E57/6427259234075100477"
+    },
+    "1861352091/5130272131233508157": {
+        "departureTime": "2019-05-22T07:50:00.000+01:00",
+        "ar_time": "2019-05-22T15:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa Cityline ",
+        "cID": "36",
+        "price": 385.7,
+        "segment": [
+            -1307772907,
+            -2045483942
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1861352091/X6366E45D0EE84BF6A69545E20F741E57/5130272131233508157"
+    },
+    "200490828/7443150888596812861": {
+        "departureTime": "2019-05-22T21:10:00.000+01:00",
+        "ar_time": "2019-05-23T09:50:00.000+02:00",
+        "stops": "1",
+        "companyName": "Aer Lingus",
+        "cID": "46",
+        "price": 449.53,
+        "segment": [
+            59324126,
+            1111086261
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Dublin Airport",
+                "countryCode": "IE",
+                "cityName": "Swords",
+                "iataCode": "DUB",
+                "latitude": 53.4274159,
+                "longitude": -6.2435603
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Dublin Airport",
+                "countryCode": "IE",
+                "cityName": "Swords",
+                "iataCode": "DUB",
+                "latitude": 53.4274159,
+                "longitude": -6.2435603
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/200490828/X6366E45D0EE84BF6A69545E20F741E57/7443150888596812861"
+    },
+    "3939259/5572194471320305981": {
+        "departureTime": "2019-05-22T07:25:00.000+01:00",
+        "ar_time": "2019-05-22T11:00:00.000+02:00",
+        "stops": "0",
+        "companyName": "easyJet",
+        "cID": "135",
+        "price": 148.89,
+        "segment": [
+            -1686594887
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/3939259/X6366E45D0EE84BF6A69545E20F741E57/5572194471320305981"
+    },
+    "-581824904/4131271335771599677": {
+        "departureTime": "2019-05-22T14:25:00.000+01:00",
+        "ar_time": "2019-05-22T20:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 346.71,
+        "segment": [
+            -1989523104,
+            515986614
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-581824904/X6366E45D0EE84BF6A69545E20F741E57/4131271335771599677"
+    },
+    "988771854/7238178939831531581": {
+        "departureTime": "2019-05-22T15:25:00.000+01:00",
+        "ar_time": "2019-05-22T23:35:00.000+02:00",
+        "stops": "1",
+        "companyName": "Norwegian Air Shuttle",
+        "cID": "137",
+        "price": 274.8,
+        "segment": [
+            -396654531,
+            1973372647
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Copenhagen Airport",
+                "countryCode": "DK",
+                "cityName": "Kastrup",
+                "iataCode": "CPH",
+                "latitude": 55.62864,
+                "longitude": 12.64853
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Copenhagen Airport",
+                "countryCode": "DK",
+                "cityName": "Kastrup",
+                "iataCode": "CPH",
+                "latitude": 55.62864,
+                "longitude": 12.64853
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/988771854/X6366E45D0EE84BF6A69545E20F741E57/7238178939831531581"
+    },
+    "-1011508453/5420424599555037501": {
+        "departureTime": "2019-05-22T12:05:00.000+01:00",
+        "ar_time": "2019-05-22T15:40:00.000+02:00",
+        "stops": "0",
+        "companyName": "easyJet",
+        "cID": "135",
+        "price": 148.89,
+        "segment": [
+            -1968747821
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1011508453/X6366E45D0EE84BF6A69545E20F741E57/5420424599555037501"
+    },
+    "1216948932/7096101181194335037": {
+        "departureTime": "2019-05-22T15:30:00.000+01:00",
+        "ar_time": "2019-05-22T23:30:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 345.55,
+        "segment": [
+            150975078,
+            1810060177
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1216948932/X6366E45D0EE84BF6A69545E20F741E57/7096101181194335037"
+    },
+    "18650111/4130455391525434173": {
+        "departureTime": "2019-05-22T08:30:00.000+01:00",
+        "ar_time": "2019-05-22T15:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 345.55,
+        "segment": [
+            1558385691,
+            -2045483942
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/18650111/X6366E45D0EE84BF6A69545E20F741E57/4130455391525434173"
+    },
+    "-1631867209/5715969966219544893": {
+        "departureTime": "2019-05-22T17:50:00.000+01:00",
+        "ar_time": "2019-05-22T23:20:00.000+02:00",
+        "stops": "1",
+        "companyName": "Brussels Airlines",
+        "cID": "49",
+        "price": 199.87,
+        "segment": [
+            -1174542860,
+            678564503
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1631867209/X6366E45D0EE84BF6A69545E20F741E57/5715969966219544893"
+    },
+    "-1205424260/3486181193919581501": {
+        "departureTime": "2019-05-22T11:30:00.000+01:00",
+        "ar_time": "2019-05-22T19:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 383.8,
+        "segment": [
+            -1399847862,
+            1980319931
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1205424260/X6366E45D0EE84BF6A69545E20F741E57/3486181193919581501"
+    },
+    "-238662338/7950103806204205373": {
+        "departureTime": "2019-05-22T10:30:00.000+01:00",
+        "ar_time": "2019-05-22T19:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 383.8,
+        "segment": [
+            2064817078,
+            1980319931
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-238662338/X6366E45D0EE84BF6A69545E20F741E57/7950103806204205373"
+    },
+    "985412033/8591015924779281213": {
+        "departureTime": "2019-05-22T07:30:00.000+01:00",
+        "ar_time": "2019-05-22T15:40:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 345.55,
+        "segment": [
+            728083335,
+            -2045483942
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/985412033/X6366E45D0EE84BF6A69545E20F741E57/8591015924779281213"
+    },
+    "-1951624358/5432863185942964029": {
+        "departureTime": "2019-05-22T16:25:00.000+01:00",
+        "ar_time": "2019-05-22T22:55:00.000+02:00",
+        "stops": "1",
+        "companyName": "Vueling",
+        "cID": "117",
+        "price": 202.29,
+        "segment": [
+            1545501616,
+            2118581541
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Gatwick Airport",
+                "countryCode": "GB",
+                "cityName": "Horley",
+                "iataCode": "LGW",
+                "latitude": 51.160465240478516,
+                "longitude": -0.17620690166950226
+            },
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1951624358/X6366E45D0EE84BF6A69545E20F741E57/5432863185942964029"
+    },
+    "-1941194091/8091341580469351485": {
+        "departureTime": "2019-05-22T06:55:00.000+01:00",
+        "ar_time": "2019-05-22T14:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 381.09,
+        "segment": [
+            -1340268241,
+            708081839
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1941194091/X6366E45D0EE84BF6A69545E20F741E57/8091341580469351485"
+    },
+    "580054972/7365412161865466173": {
+        "departureTime": "2019-05-22T17:10:00.000+01:00",
+        "ar_time": "2019-05-22T23:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 381.3,
+        "segment": [
+            948371356,
+            1411047310
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London Heathrow Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LHR",
+                "latitude": 51.4708554,
+                "longitude": -0.452638
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/580054972/X6366E45D0EE84BF6A69545E20F741E57/7365412161865466173"
+    },
+    "-1484780998/8386057951054950205": {
+        "departureTime": "2019-05-22T08:35:00.000+01:00",
+        "ar_time": "2019-05-22T20:25:00.000+02:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 386.86,
+        "segment": [
+            -886105412,
+            515986614
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "London City Airport",
+                "countryCode": "GB",
+                "cityName": "London",
+                "iataCode": "LCY",
+                "latitude": 51.50341033935547,
+                "longitude": 0.0487699992954731
+            },
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Geneva International Airport",
+                "countryCode": "CH",
+                "cityName": "Le Grand-Saconnex",
+                "iataCode": "GVA",
+                "latitude": 46.2334,
+                "longitude": 6.104465
+            },
+            {
+                "positionType": "airport",
+                "name": "Madrid Barajas Airport",
+                "countryCode": "ES",
+                "cityName": "Madrid",
+                "iataCode": "MAD",
+                "latitude": 40.468257904052734,
+                "longitude": -3.5695650577545166
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1484780998/X6366E45D0EE84BF6A69545E20F741E57/8386057951054950205"
+    }
+}
