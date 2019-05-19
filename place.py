@@ -45,13 +45,13 @@ class Place:
         import requests
         import re
 
-        info = re.findall('<p><b>.*', requests.get("https://en.wikipedia.org/wiki/{}".format(self.name)).text)[0]
-        staff = re.findall('(<.*?>)', info)
-        for tag in staff:
-            info = info.replace(tag, "")
-        self.extra_data['wiki information'] = info
+        # info = re.findall('<p><b>.*', requests.get("https://en.wikipedia.org/wiki/{}".format(self.name)).text)[0]
+        # staff = re.findall('(<.*?>)', info)
+        # for tag in staff:
+        #     info = info.replace(tag, "")
+        # self.extra_data['wiki information'] = info
         #try:
-        #self.extra_data['wiki information'] = wikipedia.page(self.name).content
+        self.extra_data['wiki information'] = wikipedia.page(self.name).content
         #except:
         #    self.extra_data['wiki information'] = self.name
 
