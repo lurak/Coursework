@@ -1,0 +1,1333 @@
+{
+    "Interested in our search results?": "There's an API just for you. Please email b2b@omio.com for more information.",
+    "serviceVersion": "v1.0.0",
+    "outbounds": {
+        "8462910730080308541-35-flight-1--1695676816": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "1090",
+            "outboundId": "8462910730080308541",
+            "journeyId": "-1695676816",
+            "departureTime": "2019-05-27T20:20:00.000+02:00",
+            "arrivalTime": "2019-05-28T13:30:00.000+01:00",
+            "stops": "1",
+            "price": 65339,
+            "originalPrice": 65339,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                -1609520018,
+                -2020171342
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "8598911492026427197-35-flight-1-353260276": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "1110",
+            "outboundId": "8598911492026427197",
+            "journeyId": "353260276",
+            "departureTime": "2019-05-27T20:00:00.000+02:00",
+            "arrivalTime": "2019-05-28T13:30:00.000+01:00",
+            "stops": "1",
+            "price": 73720,
+            "originalPrice": 73720,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                -1129864473,
+                -2020171342
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "7887884663567765821-35-flight-1--418607464": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "935",
+            "outboundId": "7887884663567765821",
+            "journeyId": "-418607464",
+            "departureTime": "2019-05-27T20:45:00.000+02:00",
+            "arrivalTime": "2019-05-28T11:20:00.000+01:00",
+            "stops": "1",
+            "price": 64982,
+            "originalPrice": 64982,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                867952598,
+                1759141220
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "6372432339287108413-49-flight-1--205111573": {
+            "companyId": "49",
+            "ticketsSellingCompanies": [
+                "49"
+            ],
+            "mode": "flight",
+            "duration": "745",
+            "outboundId": "6372432339287108413",
+            "journeyId": "-205111573",
+            "departureTime": "2019-05-27T20:40:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:05:00.000+01:00",
+            "stops": "1",
+            "price": 41218,
+            "originalPrice": 41218,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                633248513,
+                -1644320964
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "8603411595498971965-50-flight-1--1550272469": {
+            "companyId": "50",
+            "ticketsSellingCompanies": [
+                "50"
+            ],
+            "mode": "flight",
+            "duration": "1145",
+            "outboundId": "8603411595498971965",
+            "journeyId": "-1550272469",
+            "departureTime": "2019-05-27T19:35:00.000+02:00",
+            "arrivalTime": "2019-05-28T13:40:00.000+01:00",
+            "stops": "1",
+            "price": 64131,
+            "originalPrice": 64131,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                135158831,
+                -1555286143
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "5724768064437895485-35-flight-1--269885099": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "1025",
+            "outboundId": "5724768064437895485",
+            "journeyId": "-269885099",
+            "departureTime": "2019-05-27T19:15:00.000+02:00",
+            "arrivalTime": "2019-05-28T11:20:00.000+01:00",
+            "stops": "1",
+            "price": 65841,
+            "originalPrice": 65841,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                -1337485190,
+                1759141220
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "8248400272124037437-35-flight-1-1026013328": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "750",
+            "outboundId": "8248400272124037437",
+            "journeyId": "1026013328",
+            "departureTime": "2019-05-27T20:45:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:15:00.000+01:00",
+            "stops": "1",
+            "price": 73363,
+            "originalPrice": 73363,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                867952598,
+                -66596228
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "7940234689289546557-35-flight-1--1640169122": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "965",
+            "outboundId": "7940234689289546557",
+            "journeyId": "-1640169122",
+            "departureTime": "2019-05-27T20:15:00.000+02:00",
+            "arrivalTime": "2019-05-28T11:20:00.000+01:00",
+            "stops": "1",
+            "price": 64982,
+            "originalPrice": 64982,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                -924962554,
+                1759141220
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "6148951902850207037-35-flight-1--613501646": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "1050",
+            "outboundId": "6148951902850207037",
+            "journeyId": "-613501646",
+            "departureTime": "2019-05-27T21:00:00.000+02:00",
+            "arrivalTime": "2019-05-28T13:30:00.000+01:00",
+            "stops": "1",
+            "price": 65339,
+            "originalPrice": 65339,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                405032332,
+                -2020171342
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "8677722045698504509-35-flight-1-740558858": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "780",
+            "outboundId": "8677722045698504509",
+            "journeyId": "740558858",
+            "departureTime": "2019-05-27T20:15:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:15:00.000+01:00",
+            "stops": "1",
+            "price": 73363,
+            "originalPrice": 73363,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                -924962554,
+                -66596228
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "7156912832714719549-50-flight-1-1871801903": {
+            "companyId": "50",
+            "ticketsSellingCompanies": [
+                "50"
+            ],
+            "mode": "flight",
+            "duration": "1090",
+            "outboundId": "7156912832714719549",
+            "journeyId": "1871801903",
+            "departureTime": "2019-05-27T20:30:00.000+02:00",
+            "arrivalTime": "2019-05-28T13:40:00.000+01:00",
+            "stops": "1",
+            "price": 64131,
+            "originalPrice": 64131,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                431160354,
+                -1555286143
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "7588962808954708797-63-flight-1--1943294881": {
+            "companyId": "63",
+            "ticketsSellingCompanies": [
+                "63"
+            ],
+            "mode": "flight",
+            "duration": "1015",
+            "outboundId": "7588962808954708797",
+            "journeyId": "-1943294881",
+            "departureTime": "2019-05-27T20:45:00.000+02:00",
+            "arrivalTime": "2019-05-28T12:40:00.000+01:00",
+            "stops": "1",
+            "price": 55231,
+            "originalPrice": 55231,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                -1325882509,
+                725011303
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "5419618524572766525-35-flight-1--792260429": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "840",
+            "outboundId": "5419618524572766525",
+            "journeyId": "-792260429",
+            "departureTime": "2019-05-27T19:15:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:15:00.000+01:00",
+            "stops": "1",
+            "price": 73363,
+            "originalPrice": 73363,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                -1337485190,
+                -66596228
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "7007972936245729597-35-flight-1--506805959": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "810",
+            "outboundId": "7007972936245729597",
+            "journeyId": "-506805959",
+            "departureTime": "2019-05-27T19:45:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:15:00.000+01:00",
+            "stops": "1",
+            "price": 73363,
+            "originalPrice": 73363,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                1160024411,
+                -66596228
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "3915369948377078077-35-flight-1-951676559": {
+            "companyId": "35",
+            "ticketsSellingCompanies": [
+                "35"
+            ],
+            "mode": "flight",
+            "duration": "995",
+            "outboundId": "3915369948377078077",
+            "journeyId": "951676559",
+            "departureTime": "2019-05-27T19:45:00.000+02:00",
+            "arrivalTime": "2019-05-28T11:20:00.000+01:00",
+            "stops": "1",
+            "price": 65841,
+            "originalPrice": 65841,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                1160024411,
+                1759141220
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "1014"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        },
+        "6008211154096711485-117-flight-1-853776179": {
+            "companyId": "117",
+            "ticketsSellingCompanies": [
+                "117"
+            ],
+            "mode": "flight",
+            "duration": "660",
+            "outboundId": "6008211154096711485",
+            "journeyId": "853776179",
+            "departureTime": "2019-05-27T22:20:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:20:00.000+01:00",
+            "stops": "1",
+            "price": 61106,
+            "originalPrice": 61106,
+            "markup": 1397,
+            "updatedAt": "13",
+            "segments": [
+                1563425420,
+                -231816736
+            ],
+            "arrivalOvernightOffset": 1,
+            "overnightOffset": 1,
+            "serviceProviderIds": [
+                "277"
+            ],
+            "status": "available",
+            "isCarSharing": false,
+            "isBookable": true,
+            "isMultiProvidersRouting": false,
+            "isMobileTicketSupported": false,
+            "isRoutedConnection": false,
+            "isDiscountCardApplied": false,
+            "isVehicleAvailable": false,
+            "isNearbyDeparture": false,
+            "isNearbyArrival": false,
+            "isGoEuroBooking": true
+        }
+    },
+    "itineraries": [
+        {
+            "outboundLegId": "8462910730080308541-35-flight-1--1695676816"
+        },
+        {
+            "outboundLegId": "8598911492026427197-35-flight-1-353260276"
+        },
+        {
+            "outboundLegId": "7887884663567765821-35-flight-1--418607464"
+        },
+        {
+            "outboundLegId": "6372432339287108413-49-flight-1--205111573"
+        },
+        {
+            "outboundLegId": "8603411595498971965-50-flight-1--1550272469"
+        },
+        {
+            "outboundLegId": "5724768064437895485-35-flight-1--269885099"
+        },
+        {
+            "outboundLegId": "8248400272124037437-35-flight-1-1026013328"
+        },
+        {
+            "outboundLegId": "7940234689289546557-35-flight-1--1640169122"
+        },
+        {
+            "outboundLegId": "6148951902850207037-35-flight-1--613501646"
+        },
+        {
+            "outboundLegId": "8677722045698504509-35-flight-1-740558858"
+        },
+        {
+            "outboundLegId": "7156912832714719549-50-flight-1-1871801903"
+        },
+        {
+            "outboundLegId": "7588962808954708797-63-flight-1--1943294881"
+        },
+        {
+            "outboundLegId": "5419618524572766525-35-flight-1--792260429"
+        },
+        {
+            "outboundLegId": "7007972936245729597-35-flight-1--506805959"
+        },
+        {
+            "outboundLegId": "3915369948377078077-35-flight-1-951676559"
+        },
+        {
+            "outboundLegId": "6008211154096711485-117-flight-1-853776179"
+        }
+    ],
+    "companies": {
+        "117": {
+            "id": "117",
+            "name": "Vueling",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/vueling.png"
+        },
+        "35": {
+            "id": "35",
+            "name": "Lufthansa",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/lufthansa.png"
+        },
+        "49": {
+            "id": "49",
+            "name": "Brussels Airlines",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/brussels_airlines.png"
+        },
+        "50": {
+            "id": "50",
+            "name": "Swiss",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/swiss.png"
+        },
+        "63": {
+            "id": "63",
+            "name": "Luxair",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/luxair.png"
+        },
+        "91": {
+            "id": "91",
+            "name": "TAP Portugal",
+            "logoUrl": "https://cdn-goeuro.com/static_content/web/logos/{size}/tap_portugal.png"
+        }
+    },
+    "query": {
+        "roundTrip": false,
+        "airportToAirport": false,
+        "locationsOutsideEurope": false,
+        "includeNearbyAirports": false,
+        "nearbyAirportAvailable": false,
+        "searchId": "XE18AD3BEDCF4457283493B71D1C41A42",
+        "departurePosition": "376217",
+        "arrivalPosition": "398773",
+        "departureDate": "2019-05-27",
+        "passengers": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+        },
+        "userInfo": {
+            "userLocale": "en",
+            "userCurrency": "USD"
+        },
+        "searchModes": {
+            "bus": {
+                "status": "inprogress",
+                "resultsQty": 0,
+                "filteredResultsQty": 0,
+                "returnCodes": [],
+                "disclaimers": [],
+                "defaultSorting": "smart",
+                "filteredOffSiteResultsQty": 0,
+                "offerPassengers": [],
+                "fares": []
+            },
+            "flight": {
+                "status": "inprogress",
+                "resultsQty": 16,
+                "filteredResultsQty": 16,
+                "returnCodes": [],
+                "disclaimers": [],
+                "defaultSorting": "smart",
+                "filteredOffSiteResultsQty": 0,
+                "offerPassengers": [],
+                "fares": []
+            },
+            "ferry": {
+                "status": "notavailable",
+                "resultsQty": 0,
+                "filteredResultsQty": 0,
+                "returnCodes": [
+                    131
+                ],
+                "disclaimers": [],
+                "defaultSorting": "smart",
+                "filteredOffSiteResultsQty": 0,
+                "offerPassengers": [],
+                "fares": []
+            },
+            "train": {
+                "status": "notavailable",
+                "resultsQty": 0,
+                "filteredResultsQty": 0,
+                "returnCodes": [
+                    131
+                ],
+                "disclaimers": [],
+                "defaultSorting": "smart",
+                "filteredOffSiteResultsQty": 0,
+                "offerPassengers": [],
+                "fares": []
+            }
+        },
+        "cursor": "",
+        "featuresSupported": [],
+        "searchTriggerTime": "2019-05-27T14:53:17.618Z"
+    },
+    "positions": {
+        "313711": {
+            "positionType": "airport",
+            "name": "Barcelona El Prat Airport",
+            "countryCode": "ES",
+            "cityName": "el Prat de Llobregat",
+            "iataCode": "BCN",
+            "latitude": 41.3025957,
+            "longitude": 2.0744297
+        },
+        "313870": {
+            "positionType": "airport",
+            "name": "Munich Airport",
+            "countryCode": "DE",
+            "cityName": "M\u00fcnchen-flughafen",
+            "iataCode": "MUC",
+            "latitude": 48.354597,
+            "longitude": 11.785065
+        },
+        "313878": {
+            "positionType": "airport",
+            "name": "Zurich Airport",
+            "countryCode": "CH",
+            "cityName": "Kloten",
+            "iataCode": "ZRH",
+            "latitude": 47.4512017,
+            "longitude": 8.5613956
+        },
+        "314028": {
+            "positionType": "airport",
+            "name": "Brussels Airport",
+            "countryCode": "BE",
+            "cityName": "Zaventem",
+            "iataCode": "BRU",
+            "latitude": 50.8955342,
+            "longitude": 4.4848145
+        },
+        "314038": {
+            "positionType": "airport",
+            "name": "Luxembourg Airport",
+            "countryCode": "LU",
+            "cityName": "Findel",
+            "iataCode": "LUX",
+            "latitude": 49.62691,
+            "longitude": 6.206849
+        },
+        "314826": {
+            "positionType": "airport",
+            "name": "Berlin Tegel Airport",
+            "countryCode": "DE",
+            "cityName": "Berlin",
+            "iataCode": "TXL",
+            "latitude": 52.5548,
+            "longitude": 13.28903
+        },
+        "314847": {
+            "positionType": "airport",
+            "name": "Frankfurt am Main Airport",
+            "countryCode": "DE",
+            "cityName": "Frankfurt am Main",
+            "iataCode": "FRA",
+            "latitude": 50.05009,
+            "longitude": 8.57155
+        },
+        "314987": {
+            "positionType": "airport",
+            "name": "Lisbon Portela Airport",
+            "countryCode": "PT",
+            "cityName": "Lisbon",
+            "iataCode": "LIS",
+            "latitude": 38.7704,
+            "longitude": -9.1291
+        },
+        "376217": {
+            "positionType": "location",
+            "name": "Berlin",
+            "countryCode": "DE",
+            "cityName": "Berlin",
+            "latitude": 52.52437,
+            "longitude": 13.41053
+        },
+        "398773": {
+            "positionType": "location",
+            "name": "Lisbon",
+            "countryCode": "PT",
+            "cityName": "Lisbon",
+            "latitude": 38.71667,
+            "longitude": -9.13333
+        }
+    },
+    "currencies": {
+        "USD": {
+            "name": "US Dollar",
+            "symbol": "$"
+        }
+    },
+    "sortVariants": {
+        "outboundDepartureTime": [
+            -792260429,
+            -269885099,
+            -1550272469,
+            -506805959,
+            951676559,
+            353260276,
+            740558858,
+            -1640169122,
+            -1695676816,
+            1871801903,
+            -205111573,
+            1026013328,
+            -418607464,
+            -1943294881,
+            -613501646,
+            853776179
+        ],
+        "traveltime": [
+            853776179,
+            -205111573,
+            1026013328,
+            740558858,
+            -506805959,
+            -792260429,
+            -418607464,
+            -1640169122,
+            951676559,
+            -1943294881,
+            -269885099,
+            -613501646,
+            1871801903,
+            -1695676816,
+            353260276,
+            -1550272469
+        ],
+        "price": [
+            -205111573,
+            -1943294881,
+            853776179,
+            -1550272469,
+            1871801903,
+            -1640169122,
+            -418607464,
+            -1695676816,
+            -613501646,
+            -269885099,
+            951676559,
+            -792260429,
+            -506805959,
+            740558858,
+            1026013328,
+            353260276
+        ],
+        "smart": [
+            -205111573,
+            853776179,
+            -1943294881,
+            -418607464,
+            -1640169122,
+            951676559,
+            1871801903,
+            -269885099,
+            -613501646,
+            -1550272469,
+            -1695676816,
+            1026013328,
+            740558858,
+            -506805959,
+            -792260429,
+            353260276
+        ]
+    },
+    "stats": {
+        "summary": {
+            "flight": {
+                "type": "flight",
+                "totalDuration": "1090",
+                "totalPrice": 65339,
+                "legs": [
+                    {
+                        "type": "flight",
+                        "duration": "65"
+                    },
+                    {
+                        "type": "flight",
+                        "duration": "190"
+                    }
+                ]
+            }
+        },
+        "filterRanges": {
+            "flight": {
+                "minPrice": 41218,
+                "maxPrice": 73720,
+                "avgPrice": 65332,
+                "minDurationOutbound": "660",
+                "maxDurationOutbound": "1145",
+                "avgDurationOutbound": "938",
+                "minDepartureOutbound": "2019-05-27T19:15:00.000+02:00",
+                "maxDepartureOutbound": "2019-05-27T22:20:00.000+02:00",
+                "minArrivalOutbound": "2019-05-28T08:05:00.000+01:00",
+                "maxArrivalOutbound": "2019-05-28T13:40:00.000+01:00",
+                "outboundStops": [
+                    1
+                ],
+                "inboundStops": []
+            }
+        },
+        "companies": {
+            "flight": [
+                {
+                    "id": "49",
+                    "name": "Brussels Airlines"
+                },
+                {
+                    "id": "91",
+                    "name": "TAP Portugal"
+                },
+                {
+                    "id": "63",
+                    "name": "Luxair"
+                },
+                {
+                    "id": "117",
+                    "name": "Vueling"
+                },
+                {
+                    "id": "35",
+                    "name": "Lufthansa"
+                },
+                {
+                    "id": "50",
+                    "name": "Swiss"
+                }
+            ]
+        },
+        "stations": {
+            "flight": {
+                "outboundDepartures": [
+                    314826
+                ],
+                "outboundArrivals": [
+                    314987
+                ],
+                "queryDeparturePositionDistances": {
+                    "314826": 8.896588737958709,
+                    "314987": 2307.865952422411
+                },
+                "queryArrivalPositionDistances": {
+                    "314826": 2307.525012436139,
+                    "314987": 5.991414443561189
+                }
+            }
+        }
+    },
+    "recommendations": [
+        {
+            "type": "smart",
+            "mode": "flight",
+            "journeyId": "-205111573",
+            "outboundDepartureTime": "2019-05-27T20:40:00.000+02:00",
+            "outboundDuration": 745,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": 314826,
+            "outboundArrivalPosition": 314987,
+            "outboundNumberOfStops": 1,
+            "inboundNumberOfStops": 0,
+            "price": 41218,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 1
+        },
+        {
+            "type": "price",
+            "mode": "flight",
+            "journeyId": "-205111573",
+            "outboundDepartureTime": "2019-05-27T20:40:00.000+02:00",
+            "outboundDuration": 745,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": 314826,
+            "outboundArrivalPosition": 314987,
+            "outboundNumberOfStops": 1,
+            "inboundNumberOfStops": 0,
+            "price": 41218,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 1
+        },
+        {
+            "type": "price",
+            "mode": "flight",
+            "journeyId": "-1943294881",
+            "outboundDepartureTime": "2019-05-27T20:45:00.000+02:00",
+            "outboundDuration": 1015,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": 314826,
+            "outboundArrivalPosition": 314987,
+            "outboundNumberOfStops": 1,
+            "inboundNumberOfStops": 0,
+            "price": 55231,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 2
+        },
+        {
+            "type": "duration",
+            "mode": "flight",
+            "journeyId": "853776179",
+            "outboundDepartureTime": "2019-05-27T22:20:00.000+02:00",
+            "outboundDuration": 660,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": 314826,
+            "outboundArrivalPosition": 314987,
+            "outboundNumberOfStops": 1,
+            "inboundNumberOfStops": 0,
+            "price": 61106,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 1
+        },
+        {
+            "type": "duration",
+            "mode": "flight",
+            "journeyId": "-205111573",
+            "outboundDepartureTime": "2019-05-27T20:40:00.000+02:00",
+            "outboundDuration": 745,
+            "inboundDuration": 0,
+            "outboundDeparturePosition": 314826,
+            "outboundArrivalPosition": 314987,
+            "outboundNumberOfStops": 1,
+            "inboundNumberOfStops": 0,
+            "price": 41218,
+            "isBookable": true,
+            "carSharing": false,
+            "rank": 2
+        }
+    ],
+    "segmentDetails": {
+        "-1129864473": {
+            "type": "flight",
+            "departureTime": "2019-05-27T20:00:00.000+02:00",
+            "arrivalTime": "2019-05-27T21:05:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "313870",
+            "duration": "65",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh2049",
+            "direction": "OUTBOUND"
+        },
+        "-1325882509": {
+            "type": "flight",
+            "departureTime": "2019-05-27T20:45:00.000+02:00",
+            "arrivalTime": "2019-05-27T22:15:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "314038",
+            "duration": "90",
+            "company": "63",
+            "marketingCompany": "63",
+            "transportId": "lg9474",
+            "direction": "OUTBOUND"
+        },
+        "-1337485190": {
+            "type": "flight",
+            "departureTime": "2019-05-27T19:15:00.000+02:00",
+            "arrivalTime": "2019-05-27T20:25:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "314847",
+            "duration": "70",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh169",
+            "direction": "OUTBOUND"
+        },
+        "-1555286143": {
+            "type": "flight",
+            "departureTime": "2019-05-28T11:45:00.000+02:00",
+            "arrivalTime": "2019-05-28T13:40:00.000+01:00",
+            "departurePosition": "313878",
+            "arrivalPosition": "314987",
+            "duration": "175",
+            "company": "50",
+            "marketingCompany": "50",
+            "transportId": "lx2084",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "departureOvernightOffset": 1
+        },
+        "-1609520018": {
+            "type": "flight",
+            "departureTime": "2019-05-27T20:20:00.000+02:00",
+            "arrivalTime": "2019-05-27T21:25:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "313870",
+            "duration": "65",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh2213",
+            "direction": "OUTBOUND"
+        },
+        "-1644320964": {
+            "type": "flight",
+            "departureTime": "2019-05-28T06:15:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:05:00.000+01:00",
+            "departurePosition": "314028",
+            "arrivalPosition": "314987",
+            "duration": "170",
+            "company": "91",
+            "marketingCompany": "49",
+            "transportId": "sn6401",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "departureOvernightOffset": 1
+        },
+        "-2020171342": {
+            "type": "flight",
+            "departureTime": "2019-05-28T11:20:00.000+02:00",
+            "arrivalTime": "2019-05-28T13:30:00.000+01:00",
+            "departurePosition": "313870",
+            "arrivalPosition": "314987",
+            "duration": "190",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh1790",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "departureOvernightOffset": 1
+        },
+        "-231816736": {
+            "type": "flight",
+            "departureTime": "2019-05-28T07:20:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:20:00.000+01:00",
+            "departurePosition": "313711",
+            "arrivalPosition": "314987",
+            "duration": "120",
+            "company": "117",
+            "marketingCompany": "117",
+            "transportId": "vy8460",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1
+        },
+        "-66596228": {
+            "type": "flight",
+            "departureTime": "2019-05-28T06:05:00.000+02:00",
+            "arrivalTime": "2019-05-28T08:15:00.000+01:00",
+            "departurePosition": "314847",
+            "arrivalPosition": "314987",
+            "duration": "190",
+            "company": "91",
+            "marketingCompany": "35",
+            "transportId": "lh6954",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "departureOvernightOffset": 1
+        },
+        "-924962554": {
+            "type": "flight",
+            "departureTime": "2019-05-27T20:15:00.000+02:00",
+            "arrivalTime": "2019-05-27T21:25:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "314847",
+            "duration": "70",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh171",
+            "direction": "OUTBOUND"
+        },
+        "1160024411": {
+            "type": "flight",
+            "departureTime": "2019-05-27T19:45:00.000+02:00",
+            "arrivalTime": "2019-05-27T20:55:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "314847",
+            "duration": "70",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh201",
+            "direction": "OUTBOUND"
+        },
+        "135158831": {
+            "type": "flight",
+            "departureTime": "2019-05-27T19:35:00.000+02:00",
+            "arrivalTime": "2019-05-27T21:00:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "313878",
+            "duration": "85",
+            "company": "50",
+            "marketingCompany": "50",
+            "transportId": "lx983",
+            "direction": "OUTBOUND"
+        },
+        "1563425420": {
+            "type": "flight",
+            "departureTime": "2019-05-27T22:20:00.000+02:00",
+            "arrivalTime": "2019-05-28T00:55:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "313711",
+            "duration": "155",
+            "company": "117",
+            "marketingCompany": "117",
+            "transportId": "vy1885",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "arrivalOvernightOffset": 1
+        },
+        "1759141220": {
+            "type": "flight",
+            "departureTime": "2019-05-28T09:20:00.000+02:00",
+            "arrivalTime": "2019-05-28T11:20:00.000+01:00",
+            "departurePosition": "314847",
+            "arrivalPosition": "314987",
+            "duration": "180",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh1166",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "departureOvernightOffset": 1
+        },
+        "405032332": {
+            "type": "flight",
+            "departureTime": "2019-05-27T21:00:00.000+02:00",
+            "arrivalTime": "2019-05-27T22:05:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "313870",
+            "duration": "65",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh2051",
+            "direction": "OUTBOUND"
+        },
+        "431160354": {
+            "type": "flight",
+            "departureTime": "2019-05-27T20:30:00.000+02:00",
+            "arrivalTime": "2019-05-27T22:00:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "313878",
+            "duration": "90",
+            "company": "50",
+            "marketingCompany": "50",
+            "transportId": "lx979",
+            "direction": "OUTBOUND"
+        },
+        "633248513": {
+            "type": "flight",
+            "departureTime": "2019-05-27T20:40:00.000+02:00",
+            "arrivalTime": "2019-05-27T22:00:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "314028",
+            "duration": "80",
+            "company": "49",
+            "marketingCompany": "49",
+            "transportId": "sn2590",
+            "direction": "OUTBOUND"
+        },
+        "725011303": {
+            "type": "flight",
+            "departureTime": "2019-05-28T10:50:00.000+02:00",
+            "arrivalTime": "2019-05-28T12:40:00.000+01:00",
+            "departurePosition": "314038",
+            "arrivalPosition": "314987",
+            "duration": "170",
+            "company": "63",
+            "marketingCompany": "63",
+            "transportId": "lg3751",
+            "direction": "OUTBOUND",
+            "overnightOffset": 1,
+            "departureOvernightOffset": 1
+        },
+        "867952598": {
+            "type": "flight",
+            "departureTime": "2019-05-27T20:45:00.000+02:00",
+            "arrivalTime": "2019-05-27T21:55:00.000+02:00",
+            "departurePosition": "314826",
+            "arrivalPosition": "314847",
+            "duration": "70",
+            "company": "35",
+            "marketingCompany": "35",
+            "transportId": "lh203",
+            "direction": "OUTBOUND"
+        }
+    }
+}

@@ -1,0 +1,866 @@
+{
+    "-1695676816/8462910730080308541": {
+        "departureTime": "2019-05-27T20:20:00.000+02:00",
+        "ar_time": "2019-05-28T13:30:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 653.39,
+        "segment": [
+            -1609520018,
+            -2020171342
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1695676816/XE18AD3BEDCF4457283493B71D1C41A42/8462910730080308541"
+    },
+    "353260276/8598911492026427197": {
+        "departureTime": "2019-05-27T20:00:00.000+02:00",
+        "ar_time": "2019-05-28T13:30:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 737.2,
+        "segment": [
+            -1129864473,
+            -2020171342
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/353260276/XE18AD3BEDCF4457283493B71D1C41A42/8598911492026427197"
+    },
+    "-418607464/7887884663567765821": {
+        "departureTime": "2019-05-27T20:45:00.000+02:00",
+        "ar_time": "2019-05-28T11:20:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 649.82,
+        "segment": [
+            867952598,
+            1759141220
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-418607464/XE18AD3BEDCF4457283493B71D1C41A42/7887884663567765821"
+    },
+    "-205111573/6372432339287108413": {
+        "departureTime": "2019-05-27T20:40:00.000+02:00",
+        "ar_time": "2019-05-28T08:05:00.000+01:00",
+        "stops": "1",
+        "companyName": "Brussels Airlines",
+        "cID": "49",
+        "price": 412.18,
+        "segment": [
+            633248513,
+            -1644320964
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Brussels Airport",
+                "countryCode": "BE",
+                "cityName": "Zaventem",
+                "iataCode": "BRU",
+                "latitude": 50.8955342,
+                "longitude": 4.4848145
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-205111573/XE18AD3BEDCF4457283493B71D1C41A42/6372432339287108413"
+    },
+    "-1550272469/8603411595498971965": {
+        "departureTime": "2019-05-27T19:35:00.000+02:00",
+        "ar_time": "2019-05-28T13:40:00.000+01:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 641.31,
+        "segment": [
+            135158831,
+            -1555286143
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1550272469/XE18AD3BEDCF4457283493B71D1C41A42/8603411595498971965"
+    },
+    "-269885099/5724768064437895485": {
+        "departureTime": "2019-05-27T19:15:00.000+02:00",
+        "ar_time": "2019-05-28T11:20:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 658.41,
+        "segment": [
+            -1337485190,
+            1759141220
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-269885099/XE18AD3BEDCF4457283493B71D1C41A42/5724768064437895485"
+    },
+    "1026013328/8248400272124037437": {
+        "departureTime": "2019-05-27T20:45:00.000+02:00",
+        "ar_time": "2019-05-28T08:15:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 733.63,
+        "segment": [
+            867952598,
+            -66596228
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1026013328/XE18AD3BEDCF4457283493B71D1C41A42/8248400272124037437"
+    },
+    "-1640169122/7940234689289546557": {
+        "departureTime": "2019-05-27T20:15:00.000+02:00",
+        "ar_time": "2019-05-28T11:20:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 649.82,
+        "segment": [
+            -924962554,
+            1759141220
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1640169122/XE18AD3BEDCF4457283493B71D1C41A42/7940234689289546557"
+    },
+    "-613501646/6148951902850207037": {
+        "departureTime": "2019-05-27T21:00:00.000+02:00",
+        "ar_time": "2019-05-28T13:30:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 653.39,
+        "segment": [
+            405032332,
+            -2020171342
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Munich Airport",
+                "countryCode": "DE",
+                "cityName": "M\u00fcnchen-flughafen",
+                "iataCode": "MUC",
+                "latitude": 48.354597,
+                "longitude": 11.785065
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-613501646/XE18AD3BEDCF4457283493B71D1C41A42/6148951902850207037"
+    },
+    "740558858/8677722045698504509": {
+        "departureTime": "2019-05-27T20:15:00.000+02:00",
+        "ar_time": "2019-05-28T08:15:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 733.63,
+        "segment": [
+            -924962554,
+            -66596228
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/740558858/XE18AD3BEDCF4457283493B71D1C41A42/8677722045698504509"
+    },
+    "1871801903/7156912832714719549": {
+        "departureTime": "2019-05-27T20:30:00.000+02:00",
+        "ar_time": "2019-05-28T13:40:00.000+01:00",
+        "stops": "1",
+        "companyName": "Swiss",
+        "cID": "50",
+        "price": 641.31,
+        "segment": [
+            431160354,
+            -1555286143
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Zurich Airport",
+                "countryCode": "CH",
+                "cityName": "Kloten",
+                "iataCode": "ZRH",
+                "latitude": 47.4512017,
+                "longitude": 8.5613956
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/1871801903/XE18AD3BEDCF4457283493B71D1C41A42/7156912832714719549"
+    },
+    "-1943294881/7588962808954708797": {
+        "departureTime": "2019-05-27T20:45:00.000+02:00",
+        "ar_time": "2019-05-28T12:40:00.000+01:00",
+        "stops": "1",
+        "companyName": "Luxair",
+        "cID": "63",
+        "price": 552.31,
+        "segment": [
+            -1325882509,
+            725011303
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Luxembourg Airport",
+                "countryCode": "LU",
+                "cityName": "Findel",
+                "iataCode": "LUX",
+                "latitude": 49.62691,
+                "longitude": 6.206849
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Luxembourg Airport",
+                "countryCode": "LU",
+                "cityName": "Findel",
+                "iataCode": "LUX",
+                "latitude": 49.62691,
+                "longitude": 6.206849
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-1943294881/XE18AD3BEDCF4457283493B71D1C41A42/7588962808954708797"
+    },
+    "-792260429/5419618524572766525": {
+        "departureTime": "2019-05-27T19:15:00.000+02:00",
+        "ar_time": "2019-05-28T08:15:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 733.63,
+        "segment": [
+            -1337485190,
+            -66596228
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-792260429/XE18AD3BEDCF4457283493B71D1C41A42/5419618524572766525"
+    },
+    "-506805959/7007972936245729597": {
+        "departureTime": "2019-05-27T19:45:00.000+02:00",
+        "ar_time": "2019-05-28T08:15:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 733.63,
+        "segment": [
+            1160024411,
+            -66596228
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/-506805959/XE18AD3BEDCF4457283493B71D1C41A42/7007972936245729597"
+    },
+    "951676559/3915369948377078077": {
+        "departureTime": "2019-05-27T19:45:00.000+02:00",
+        "ar_time": "2019-05-28T11:20:00.000+01:00",
+        "stops": "1",
+        "companyName": "Lufthansa",
+        "cID": "35",
+        "price": 658.41,
+        "segment": [
+            1160024411,
+            1759141220
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Frankfurt am Main Airport",
+                "countryCode": "DE",
+                "cityName": "Frankfurt am Main",
+                "iataCode": "FRA",
+                "latitude": 50.05009,
+                "longitude": 8.57155
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/951676559/XE18AD3BEDCF4457283493B71D1C41A42/3915369948377078077"
+    },
+    "853776179/6008211154096711485": {
+        "departureTime": "2019-05-27T22:20:00.000+02:00",
+        "ar_time": "2019-05-28T08:20:00.000+01:00",
+        "stops": "1",
+        "companyName": "Vueling",
+        "cID": "117",
+        "price": 611.06,
+        "segment": [
+            1563425420,
+            -231816736
+        ],
+        "mode": "flight",
+        "stations_dep": [
+            {
+                "positionType": "airport",
+                "name": "Berlin Tegel Airport",
+                "countryCode": "DE",
+                "cityName": "Berlin",
+                "iataCode": "TXL",
+                "latitude": 52.5548,
+                "longitude": 13.28903
+            },
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            }
+        ],
+        "stattions_ar": [
+            {
+                "positionType": "airport",
+                "name": "Barcelona El Prat Airport",
+                "countryCode": "ES",
+                "cityName": "el Prat de Llobregat",
+                "iataCode": "BCN",
+                "latitude": 41.3025957,
+                "longitude": 2.0744297
+            },
+            {
+                "positionType": "airport",
+                "name": "Lisbon Portela Airport",
+                "countryCode": "PT",
+                "cityName": "Lisbon",
+                "iataCode": "LIS",
+                "latitude": 38.7704,
+                "longitude": -9.1291
+            }
+        ],
+        "url": "https://www.omio.com/search-frontend/journey/flight/853776179/XE18AD3BEDCF4457283493B71D1C41A42/6008211154096711485"
+    }
+}
