@@ -1,17 +1,17 @@
 import folium
 
 
-def get_map(places, path, location):
+def get_map(place, path):
 
     m = folium.Map(
-        location=location,
+        location=(place.latitude, place.longitude),
         zoom_start=12,
-        tiles='Stamen Terrain'
+
     )
-    for place in places:
-        folium.Marker(
-            location=list(map(int, list(place.coordinates))),
-            popup=place.name,
-            icon=folium.Icon(icon='cloud')
-        ).add_to(m)
+
+    folium.Marker(
+        location=(place.latitude, place.longitude),
+        popup=place.name,
+        icon=folium.Icon(icon='cloud')
+    ).add_to(m)
     m.save(path)

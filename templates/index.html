@@ -26,7 +26,7 @@
       }
     </style>
     <!-- Custom styles for this template -->
-    <link href="css/form-validation.css" rel="stylesheet">
+{#    <link href="css/form-validation.css" rel="stylesheet">#}
     <link href="css/Title.css" rel="stylesheets">
     <h1 aria-label="Hello"></h1>
   </head>
@@ -71,7 +71,7 @@
 
     <div class="col-md-8 order-md-1">
       <h4 class="mb-3">Fill In Data</h4>
-      <form class="needs-validation" novalidate action="/fle" method="post">
+      <form class="needs-validation" novalidate action="/propositions" method="post">
         <div class="row">
           <div class="col-md-6 mb-3">
             <label for="arr_date">Enter Arrival Date</label>
@@ -81,7 +81,7 @@
               <option value="{{ date }}">{{ date }}</option>
                     {% endfor %}
             <div class="invalid-feedback">
-              Valid first name is required.
+              Valid arrival date is required.
             </div>
             </select>
           </div>
@@ -128,8 +128,8 @@
             <select class="custom-select d-block w-100" name="city" id="city" required>
               <option disabled selected value="">Enter Your City</option>
               {% for i in info %}}
-              <option>
-                {{i.split(',')[1]}}
+              <option value={{ i.split(', ')[0] }}>
+                {{i.split(', ')[1]}}, {{ i.split(', ')[2] }}
               </option>
               {% endfor %}
             </select>
@@ -155,7 +155,7 @@
           </div>
           <div class="col-md-3 mb-3">
             <label for="price">Price</label>
-            <input type="text" class="form-control" name="price" id="price" placeholder="" required>
+            <input value="0" type="text" class="form-control" name="price" id="price" placeholder="" required>
           </div>
           </div>
 
@@ -176,7 +176,7 @@
 
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="/docs/4.3.1/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
+{#<script>window.jQuery || document.write('<script src="/docs/4.3.1/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>#}
 
 </body>
 </html>
