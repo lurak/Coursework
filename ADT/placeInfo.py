@@ -1,4 +1,4 @@
-from arrays import Array
+from ADT.data_structures.arrays import Array
 
 
 class PlaceInfo:
