@@ -1,202 +1,202 @@
 {
-    "2019-05-27 15:00:00": {
-        "temp_min": 26.5,
-        "temp_max": 26.5,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-27 18:00:00": {
-        "temp_min": 29.0,
-        "temp_max": 29.0,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-27 21:00:00": {
-        "temp_min": 28.80000000000001,
-        "temp_max": 28.80000000000001,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 00:00:00": {
-        "temp_min": 27.30000000000001,
-        "temp_max": 27.30000000000001,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 03:00:00": {
-        "temp_min": 26.915999999999997,
-        "temp_max": 26.915999999999997,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 06:00:00": {
-        "temp_min": 26.045000000000016,
-        "temp_max": 26.045000000000016,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 09:00:00": {
-        "temp_min": 25.593999999999994,
-        "temp_max": 25.593999999999994,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 12:00:00": {
-        "temp_min": 25.425999999999988,
-        "temp_max": 25.425999999999988,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 15:00:00": {
-        "temp_min": 26.899999999999977,
-        "temp_max": 26.899999999999977,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 18:00:00": {
-        "temp_min": 28.488,
-        "temp_max": 28.488,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-28 21:00:00": {
-        "temp_min": 28.812999999999988,
-        "temp_max": 28.812999999999988,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 00:00:00": {
-        "temp_min": 28.237000000000023,
-        "temp_max": 28.237000000000023,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 03:00:00": {
-        "temp_min": 27.434000000000026,
-        "temp_max": 27.434000000000026,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 06:00:00": {
-        "temp_min": 26.156999999999982,
-        "temp_max": 26.156999999999982,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 09:00:00": {
-        "temp_min": 25.564999999999998,
-        "temp_max": 25.564999999999998,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 12:00:00": {
-        "temp_min": 25.240999999999985,
-        "temp_max": 25.240999999999985,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 15:00:00": {
-        "temp_min": 26.468999999999994,
-        "temp_max": 26.468999999999994,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 18:00:00": {
-        "temp_min": 28.055000000000007,
-        "temp_max": 28.055000000000007,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-29 21:00:00": {
-        "temp_min": 27.89100000000002,
-        "temp_max": 27.89100000000002,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-30 00:00:00": {
-        "temp_min": 27.298999999999978,
-        "temp_max": 27.298999999999978,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-30 03:00:00": {
-        "temp_min": 26.600000000000023,
-        "temp_max": 26.600000000000023,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-30 06:00:00": {
-        "temp_min": 26.404999999999973,
-        "temp_max": 26.404999999999973,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-30 09:00:00": {
-        "temp_min": 25.904999999999973,
-        "temp_max": 25.904999999999973,
-        "weather": "clear sky, Clear"
-    },
-    "2019-05-30 12:00:00": {
-        "temp_min": 25.61099999999999,
-        "temp_max": 25.61099999999999,
-        "weather": "clear sky, Clear"
-    },
     "2019-05-30 15:00:00": {
-        "temp_min": 27.103999999999985,
-        "temp_max": 27.103999999999985,
+        "temp_min": 27.410000000000025,
+        "temp_max": 27.410000000000025,
         "weather": "clear sky, Clear"
     },
     "2019-05-30 18:00:00": {
-        "temp_min": 27.841999999999985,
-        "temp_max": 27.841999999999985,
+        "temp_min": 28.416999999999973,
+        "temp_max": 28.416999999999973,
         "weather": "clear sky, Clear"
     },
     "2019-05-30 21:00:00": {
-        "temp_min": 28.093999999999994,
-        "temp_max": 28.093999999999994,
+        "temp_min": 28.0,
+        "temp_max": 28.0,
         "weather": "clear sky, Clear"
     },
     "2019-05-31 00:00:00": {
-        "temp_min": 27.589999999999975,
-        "temp_max": 27.589999999999975,
+        "temp_min": 27.80000000000001,
+        "temp_max": 27.80000000000001,
         "weather": "clear sky, Clear"
     },
     "2019-05-31 03:00:00": {
-        "temp_min": 26.72199999999998,
-        "temp_max": 26.72199999999998,
+        "temp_min": 27.19999999999999,
+        "temp_max": 27.19999999999999,
         "weather": "clear sky, Clear"
     },
     "2019-05-31 06:00:00": {
-        "temp_min": 26.529999999999973,
-        "temp_max": 26.529999999999973,
-        "weather": "clear sky, Clear"
+        "temp_min": 26.90300000000002,
+        "temp_max": 26.90300000000002,
+        "weather": "light rain, Rain"
     },
     "2019-05-31 09:00:00": {
-        "temp_min": 26.300999999999988,
-        "temp_max": 26.300999999999988,
-        "weather": "few clouds, Clouds"
+        "temp_min": 26.697000000000003,
+        "temp_max": 26.697000000000003,
+        "weather": "light rain, Rain"
     },
     "2019-05-31 12:00:00": {
-        "temp_min": 25.899999999999977,
-        "temp_max": 25.899999999999977,
-        "weather": "clear sky, Clear"
+        "temp_min": 26.341000000000008,
+        "temp_max": 26.341000000000008,
+        "weather": "light rain, Rain"
     },
     "2019-05-31 15:00:00": {
-        "temp_min": 27.18900000000002,
-        "temp_max": 27.18900000000002,
+        "temp_min": 27.625999999999976,
+        "temp_max": 27.625999999999976,
         "weather": "clear sky, Clear"
     },
     "2019-05-31 18:00:00": {
-        "temp_min": 27.923999999999978,
-        "temp_max": 27.923999999999978,
+        "temp_min": 28.30000000000001,
+        "temp_max": 28.30000000000001,
         "weather": "clear sky, Clear"
     },
     "2019-05-31 21:00:00": {
-        "temp_min": 27.399999999999977,
-        "temp_max": 27.399999999999977,
-        "weather": "few clouds, Clouds"
+        "temp_min": 28.11700000000002,
+        "temp_max": 28.11700000000002,
+        "weather": "clear sky, Clear"
     },
     "2019-06-01 00:00:00": {
-        "temp_min": 27.358000000000004,
-        "temp_max": 27.358000000000004,
-        "weather": "few clouds, Clouds"
+        "temp_min": 27.904999999999973,
+        "temp_max": 27.904999999999973,
+        "weather": "clear sky, Clear"
     },
     "2019-06-01 03:00:00": {
-        "temp_min": 26.69999999999999,
-        "temp_max": 26.69999999999999,
+        "temp_min": 27.423000000000002,
+        "temp_max": 27.423000000000002,
         "weather": "clear sky, Clear"
     },
     "2019-06-01 06:00:00": {
-        "temp_min": 26.399999999999977,
-        "temp_max": 26.399999999999977,
-        "weather": "clear sky, Clear"
+        "temp_min": 26.899999999999977,
+        "temp_max": 26.899999999999977,
+        "weather": "light rain, Rain"
     },
     "2019-06-01 09:00:00": {
-        "temp_min": 26.49799999999999,
-        "temp_max": 26.49799999999999,
-        "weather": "few clouds, Clouds"
+        "temp_min": 26.834000000000003,
+        "temp_max": 26.834000000000003,
+        "weather": "light rain, Rain"
     },
     "2019-06-01 12:00:00": {
-        "temp_min": 26.524,
-        "temp_max": 26.524,
+        "temp_min": 26.692999999999984,
+        "temp_max": 26.692999999999984,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-01 15:00:00": {
+        "temp_min": 27.839,
+        "temp_max": 27.839,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-01 18:00:00": {
+        "temp_min": 28.184000000000026,
+        "temp_max": 28.184000000000026,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-01 21:00:00": {
+        "temp_min": 28.293999999999983,
+        "temp_max": 28.293999999999983,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 00:00:00": {
+        "temp_min": 27.899999999999977,
+        "temp_max": 27.899999999999977,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 03:00:00": {
+        "temp_min": 27.161,
+        "temp_max": 27.161,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 06:00:00": {
+        "temp_min": 26.880999999999972,
+        "temp_max": 26.880999999999972,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 09:00:00": {
+        "temp_min": 26.80000000000001,
+        "temp_max": 26.80000000000001,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 12:00:00": {
+        "temp_min": 26.913999999999987,
+        "temp_max": 26.913999999999987,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 15:00:00": {
+        "temp_min": 27.810000000000002,
+        "temp_max": 27.810000000000002,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 18:00:00": {
+        "temp_min": 28.305000000000007,
+        "temp_max": 28.305000000000007,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-02 21:00:00": {
+        "temp_min": 28.305000000000007,
+        "temp_max": 28.305000000000007,
+        "weather": "broken clouds, Clouds"
+    },
+    "2019-06-03 00:00:00": {
+        "temp_min": 27.88499999999999,
+        "temp_max": 27.88499999999999,
         "weather": "scattered clouds, Clouds"
+    },
+    "2019-06-03 03:00:00": {
+        "temp_min": 27.329000000000008,
+        "temp_max": 27.329000000000008,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-03 06:00:00": {
+        "temp_min": 27.024,
+        "temp_max": 27.024,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-03 09:00:00": {
+        "temp_min": 26.875999999999976,
+        "temp_max": 26.875999999999976,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-03 12:00:00": {
+        "temp_min": 26.918000000000006,
+        "temp_max": 26.918000000000006,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-03 15:00:00": {
+        "temp_min": 28.216999999999985,
+        "temp_max": 28.216999999999985,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-03 18:00:00": {
+        "temp_min": 28.577999999999975,
+        "temp_max": 28.577999999999975,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-03 21:00:00": {
+        "temp_min": 28.47800000000001,
+        "temp_max": 28.47800000000001,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-04 00:00:00": {
+        "temp_min": 27.956000000000017,
+        "temp_max": 27.956000000000017,
+        "weather": "clear sky, Clear"
+    },
+    "2019-06-04 03:00:00": {
+        "temp_min": 27.5,
+        "temp_max": 27.5,
+        "weather": "scattered clouds, Clouds"
+    },
+    "2019-06-04 06:00:00": {
+        "temp_min": 27.377999999999986,
+        "temp_max": 27.377999999999986,
+        "weather": "broken clouds, Clouds"
+    },
+    "2019-06-04 09:00:00": {
+        "temp_min": 27.557999999999993,
+        "temp_max": 27.557999999999993,
+        "weather": "few clouds, Clouds"
+    },
+    "2019-06-04 12:00:00": {
+        "temp_min": 27.67700000000002,
+        "temp_max": 27.67700000000002,
+        "weather": "clear sky, Clear"
     }
 }

@@ -7,6 +7,12 @@ from extra_modules.place import Place
 
 
 def extra_data(in_path, out_path):
+    """
+    Add extra information about the resort
+    :param in_path: str
+    :param out_path: str
+    :return:
+    """
     with open(in_path, encoding='utf-8') as f:
         data = json.loads(f.read())
 

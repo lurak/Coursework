@@ -1,24 +1,29 @@
 import os
 
-from ADT.data_structures.linkedList import LinkedList
+from ADT.data_structures.LinkedStack import LinkedStack
 from extra_modules.weather_analysis import Weather
 from extra_modules.place import Place
 
 
 class AppropriatePlaces:
-    def __init__(self, cities_ADT, days):
+    def __init__(self, cities_ADT, days, init_path=os.path.abspath("SimpleSite\\files\\final_weather.json"),
+                                         final_path=os.path.abspath("SimpleSite\\files\\final_weather.json")):
         """
 
         :param cities_ADT: ResortInfo
         :param days: int
+        :param init_path: path where to write down json weather
+        :param final_path: path where to write down json weather
         """
-        self.app_cities = LinkedList()
+        self.init_path = init_path
+        self.final_path = final_path
+        self.app_cities = LinkedStack()
         self.cities_ADT = cities_ADT
         self.days = days
         try:
             self.create()
         except:
-            print("OK")
+            pass
 
     def check_city(self, city):
         """
@@ -26,9 +31,12 @@ class AppropriatePlaces:
         :param city: Place
         :return: check if place is optimal
         """
+
         if not isinstance(city, Place):
             raise TypeError("city type should be Place")
-        weather = Weather(city.name, self.days)
+
+        weather = Weather(city.name, self.days, initial_path=self.init_path,
+                                                final_path=self.final_path)
         return weather.good_weather()
 
     def add_city(self, city):
@@ -39,7 +47,7 @@ class AppropriatePlaces:
         :return: None
         """
         if self.check_city(city):
-            self.app_cities.add(city)
+            self.app_cities.push(city)
 
     def create(self):
         """
@@ -47,46 +55,47 @@ class AppropriatePlaces:
         :return: None
         """
         for i in range(len(self.cities_ADT)):
-            with open(os.path.abspath("cities_wiki\\{}.txt".format(self.cities_ADT[i].name)), encoding='utf-8') as f:
-                self.cities_ADT[i].extra_data["wiki information"] = f.read()
+            try:
+                with open(os.path.abspath("cities_wiki\\{}.txt".format(self.cities_ADT[i].name)),
+                          encoding='utf-8') as f:
+                    self.cities_ADT[i].extra_data["wiki information"] = f.read()
+            except:
+                pass
 
             self.add_city(self.cities_ADT[i])
 
-    def delete(self, value):
+    def last_city(self):
         """
-        Delete city from ADT
-        :param value: Place
-        :return: None
+
+        :return: last added elem in ADT
         """
-        self.app_cities.delete(value)
+        return self.app_cities.peek()
 
     def remove_all(self):
         """
         Remove all cities
         :return: None
         """
-        self.app_cities.remove_all()
+        self.app_cities.clear()
 
     def is_empty(self):
         """
         Check if ADT is empty
         :return: bool
         """
-        return self.app_cities.empty()
+        return self.app_cities.is_empty()
 
     def pop(self):
         """
         Delete last element and return it
         :return: Place
         """
-        element = self.app_cities._head.item
-        self.app_cities._head = self.app_cities._head.next
-        self.app_cities._size -= 1
-        return element
+        return self.app_cities.pop()
 
-    def __str__(self):
+    def __len__(self):
         """
-        View of ADT
-        :return: str
+        Length of Stack
+        :return:
         """
-        return str(self.app_cities)
+        return len(self.app_cities)
+

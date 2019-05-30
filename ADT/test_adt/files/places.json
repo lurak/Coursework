@@ -1,0 +1,22 @@
+{
+  "cultural resorts": {
+    "Colmar": {
+      "picture": "https://www.raileurope.com/local/cache-gd2/55/e60ad3635a67e034e2420c8fa13570.jpg?1556210061",
+      "id": "316039",
+      "latitude": "56.677486419677734",
+      "longitude": "16.28731346130371"
+    },
+    "Senglea": {
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Malta_-_Senglea_-_Triq_il-31_ta%27_Marzu_%2B_Saint_Anne_Gate_%2B_Fort_Saint_Michael_02_ies.jpg/300px-Malta_-_Senglea_-_Triq_il-31_ta%27_Marzu_%2B_Saint_Anne_Gate_%2B_Fort_Saint_Michael_02_ies.jpg",
+      "id": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "Alberobello": {
+      "picture": "https://www.pharosreizen.nl/-/media/Images/Pharos/italie/puglia/giadino-dei-trulli/italie-puglia-alberobello_trulli.ashx?w=678&centerx=0&centery=0&centercrop=1&h=506&usecustomfunctions=1",
+      "id": null,
+      "latitude": null,
+      "longitude": null
+    }
+  }
+}

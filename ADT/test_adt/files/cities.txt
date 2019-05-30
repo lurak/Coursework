@@ -1,0 +1,3 @@
+376073, Aachen, Germany, DE, 6.08342, 50.77664
+16883149, Ab, Germany, DE, 9.135555400000001, 49.9806625
+380037, Aberdeen, United Kingdom, GB, -2.09814, 57.14369

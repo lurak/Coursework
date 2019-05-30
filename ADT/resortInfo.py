@@ -24,5 +24,5 @@ class ResortsInfo(PlaceInfo):
                             extra_data={"picture": resort[1]["picture"]},
                             latitude=resort[1]["latitude"],
                             longitude=resort[1]["longitude"])
-            #self[i].wiki_information()
+
             i += 1

@@ -1,4 +1,6 @@
-from ADT.resortInfo import ResortsInfo, PlaceInfo
+from ADT.cityInfo import CityInfo
+from ADT.resortInfo import ResortsInfo
+
 import datetime
 import os
 
@@ -13,27 +15,29 @@ CULTURAL_RESORTS.create(os.path.abspath("SimpleSite\\files\\resorts.json"), "cul
 SEA_RESORTS.create(os.path.abspath("SimpleSite\\files\\resorts.json"), "sea resorts")
 SKI_RESORTS.create(os.path.abspath("SimpleSite\\files\\resorts.json"), "ski resorts")
 RESORTS = {"cultural resorts": CULTURAL_RESORTS, "sea resorts": SEA_RESORTS, "ski resorts": SKI_RESORTS}
-PLACES = PlaceInfo(1257)
-CURRENCIES = PlaceInfo(423)
-
-i = 0
-with open(os.path.abspath("SimpleSite\\files\\ids.txt"), encoding='utf-8') as f:
-    while True:
-        line = f.readline()
-        if not line:
-            break
-        PLACES[i] = line[:-1]
-        i += 1
-
-i = 0
-with open(os.path.abspath("SimpleSite\\files\\currencies.txt"), encoding='utf-8') as f:
-    while True:
-        line = f.readline()
-        if not line:
-            break
-
-        CURRENCIES[i] = line[:-1]
-        i += 1
+PLACES = CityInfo(1257)
+PLACES.create(os.path.abspath("SimpleSite\\files\\ids.txt"))
+CURRENCIES = CityInfo(423)
+CURRENCIES.create(os.path.abspath("SimpleSite\\files\\currencies.txt"))
+#
+# i = 0
+# with open(os.path.abspath("SimpleSite\\files\\ids.txt"), encoding='utf-8') as f:
+#     while True:
+#         line = f.readline()
+#         if not line:
+#             break
+#         PLACES[i] = line[:-1]
+#         i += 1
+#
+# i = 0
+# with open(os.path.abspath("SimpleSite\\files\\currencies.txt"), encoding='utf-8') as f:
+#     while True:
+#         line = f.readline()
+#         if not line:
+#             break
+#
+#         CURRENCIES[i] = line[:-1]
+#         i += 1
 
 DATES = []
 

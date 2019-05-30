@@ -5,12 +5,15 @@ from extra_modules.weather_funcs import get_weather_json, get_info_from_json
 
 
 class Weather:
-    def __init__(self, place, days):
+    def __init__(self, place, days, initial_path=os.path.abspath("SimpleSite\\files\\initial_weather.json"),
+                 final_path=os.path.abspath("SimpleSite\\files\\final_weather.json")):
         """
 
         :param place: str
         :param days: int1
         """
+        self.initial_path = initial_path
+        self.final_path = final_path
         self.place = place
         self.weather_json()
         self.js = self.reader()
@@ -22,20 +25,19 @@ class Weather:
         :return: None
         """
         try:
-            get_weather_json(self.place, os.path.abspath("SimpleSite\\files\\initial_weather.json"))
+            get_weather_json(self.place, self.initial_path)
 
-            get_info_from_json(os.path.abspath("SimpleSite\\files\\initial_weather.json"),
-                               os.path.abspath("SimpleSite\\files\\final_weather.json"))
+            get_info_from_json(self.initial_path,
+                               self.final_path)
         except:
             pass
 
-    @staticmethod
-    def reader():
+    def reader(self):
         """
         Return dict with weather
         :return: dict
         """
-        with open(os.path.abspath("SimpleSite\\files\\final_weather.json")) as f:
+        with open(self.final_path) as f:
             return json.load(f)
 
     def get_season(self):

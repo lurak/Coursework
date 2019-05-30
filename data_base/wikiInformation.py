@@ -4,6 +4,12 @@ from SimpleSite.constData import CULTURAL_RESORTS, SKI_RESORTS, SEA_RESORTS
 
 
 def write_wiki(path, place):
+    """
+    Create file with wiki information about place
+    :param path: str
+    :param place:Place
+    :return:
+    """
     with open(path, 'w', encoding='utf-8') as f:
         place.wiki_information()
         f.write(place.extra_data["wiki information"].replace('===', '\n').replace('==', '\n'))
