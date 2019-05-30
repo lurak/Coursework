@@ -10,9 +10,9 @@
         "locationsOutsideEurope": false,
         "includeNearbyAirports": false,
         "nearbyAirportAvailable": false,
-        "searchId": "XB6C908BA959344BA84EB6DB30249A5C5",
-        "departurePosition": "379345",
-        "arrivalPosition": "316039",
+        "searchId": "XA836A8F20B394CF2B8A7F5286319DC03",
+        "departurePosition": "379225",
+        "arrivalPosition": "379620",
         "departureDate": "2019-05-31",
         "passengers": {
             "adults": 1,
@@ -25,10 +25,12 @@
         },
         "searchModes": {
             "bus": {
-                "status": "inprogress",
+                "status": "notavailable",
                 "resultsQty": 0,
                 "filteredResultsQty": 0,
-                "returnCodes": [],
+                "returnCodes": [
+                    131
+                ],
                 "disclaimers": [],
                 "defaultSorting": "smart",
                 "filteredOffSiteResultsQty": 0,
@@ -36,10 +38,12 @@
                 "fares": []
             },
             "flight": {
-                "status": "inprogress",
+                "status": "notavailable",
                 "resultsQty": 0,
                 "filteredResultsQty": 0,
-                "returnCodes": [],
+                "returnCodes": [
+                    131
+                ],
                 "disclaimers": [],
                 "defaultSorting": "smart",
                 "filteredOffSiteResultsQty": 0,
@@ -47,10 +51,12 @@
                 "fares": []
             },
             "ferry": {
-                "status": "inprogress",
+                "status": "notavailable",
                 "resultsQty": 0,
                 "filteredResultsQty": 0,
-                "returnCodes": [],
+                "returnCodes": [
+                    131
+                ],
                 "disclaimers": [],
                 "defaultSorting": "smart",
                 "filteredOffSiteResultsQty": 0,
@@ -58,10 +64,12 @@
                 "fares": []
             },
             "train": {
-                "status": "inprogress",
+                "status": "notavailable",
                 "resultsQty": 0,
                 "filteredResultsQty": 0,
-                "returnCodes": [],
+                "returnCodes": [
+                    131
+                ],
                 "disclaimers": [],
                 "defaultSorting": "smart",
                 "filteredOffSiteResultsQty": 0,
@@ -73,25 +81,24 @@
         "featuresSupported": [
             "SplitClassAndFares"
         ],
-        "searchTriggerTime": "2019-05-30T13:23:29.407Z"
+        "searchTriggerTime": "2019-05-30T15:13:05.413Z"
     },
     "positions": {
-        "316039": {
-            "positionType": "airport",
-            "name": "Kalmar",
-            "countryCode": "SE",
-            "cityName": "Rinkabyholm",
-            "iataCode": "KLR",
-            "latitude": 56.677486419677734,
-            "longitude": 16.28731346130371
-        },
-        "379345": {
+        "379225": {
             "positionType": "location",
-            "name": "Colmar",
+            "name": "Bellegarde-sur-Valserine",
             "countryCode": "FR",
-            "cityName": "Colmar",
-            "latitude": 48.08333,
-            "longitude": 7.36667
+            "cityName": "Bellegarde-sur-Valserine",
+            "latitude": 46.10787,
+            "longitude": 5.82421
+        },
+        "379620": {
+            "positionType": "location",
+            "name": "Marseille",
+            "countryCode": "FR",
+            "cityName": "Marseille",
+            "latitude": 43.29695,
+            "longitude": 5.38107
         }
     },
     "currencies": {

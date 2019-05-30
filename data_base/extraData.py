@@ -41,9 +41,10 @@ def extra_data(in_path, out_path):
                    "latitude": latitude, "longitude": longitude,
                    }
             data[resorts][value] = dct
+
     with open(out_path, 'w', encoding='utf-8') as f2:
         json.dump(data, f2, indent=4)
 
 
 if __name__ == "__main__":
-    extra_data(os.path.abspath("data_base\\data.json"), os.path.abspath("SimpleSite\\files\\resorts.json"))
+    extra_data(os.path.abspath("data_base\\data.json"), os.path.abspath("data_base\\resorts2.json"))

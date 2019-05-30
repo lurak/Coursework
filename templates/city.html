@@ -51,7 +51,9 @@
               </ul>
             </div>
           </nav>
+
     </header>
+
 
 
      <div class="container">
@@ -82,9 +84,7 @@
     </div>
 
   </div>
-{% if map %}
-    {% include "map.html" %}
-{% endif %}
+
     <main role="main" class="container">
   <div class="row">
     <div class="col-md-8 blog-main">
@@ -93,8 +93,6 @@
       </h3>
 
       <div class="blog-post">
-        <h2 class="blog-post-title">Sample blog post</h2>
-        <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
 
         <p>{{ info[2] }}</p>
 
@@ -104,7 +102,9 @@
   </div>
     </main>
 
-
+{% if map %}
+    {% include "map.html" %}
+{% endif %}
  <footer class="my-5 pt-5 text-muted text-center text-small">
     <p class="mb-1">&copy; 2019-2020 OP Coursework</p>
     <ul class="list-inline">

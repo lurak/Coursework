@@ -19,25 +19,7 @@ PLACES = CityInfo(1257)
 PLACES.create(os.path.abspath("SimpleSite\\files\\ids.txt"))
 CURRENCIES = CityInfo(423)
 CURRENCIES.create(os.path.abspath("SimpleSite\\files\\currencies.txt"))
-#
-# i = 0
-# with open(os.path.abspath("SimpleSite\\files\\ids.txt"), encoding='utf-8') as f:
-#     while True:
-#         line = f.readline()
-#         if not line:
-#             break
-#         PLACES[i] = line[:-1]
-#         i += 1
-#
-# i = 0
-# with open(os.path.abspath("SimpleSite\\files\\currencies.txt"), encoding='utf-8') as f:
-#     while True:
-#         line = f.readline()
-#         if not line:
-#             break
-#
-#         CURRENCIES[i] = line[:-1]
-#         i += 1
+
 
 DATES = []
 

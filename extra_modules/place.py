@@ -2,6 +2,7 @@ import wikipedia
 from math import acos, radians, sin, cos
 
 from geopy.geocoders import Nominatim
+import re
 
 
 class Place:
@@ -44,10 +45,18 @@ class Place:
 
         try:
 
-            self.extra_data['wiki information'] = wikipedia.page(self.name).content
+            content = wikipedia.page(self.name).content
+            content = content[:content.index('==')]
+
+            content = content.replace(
+                re.findall("\([^)]+\)", content)[0], ""
+                )
+
+            self.extra_data["wiki information"] = content
+
         except:
             import requests
-            import re
+
 
             info = re.findall('<p><b>.*', requests.get("https://en.wikipedia.org/wiki/{}".format(self.name)).text)[0]
             staff = re.findall('(<.*?>)', info)
